@@ -1,0 +1,191 @@
+The Master Chief begins to wake up, and sees a red circle of lights on the ceiling of some underground area. He sees that he's being held aloft by a tentacle, and he is brought towards the head of a massive creature: the Gravemind.
+
+Cortana: "What...is that?"
+The Master Chief is held in front of Gravemind's head, the head being one giant mouth made from separate parts, somewhat similar to an Elite's.
+
+Gravemind: "I...? I am a monument to all your sins."
+As Gravemind talks, he breathes out Flood Spores. Two tentacles bring forth a struggling Thel 'Vadamee.
+
+Master Chief: "Relax. I'd rather not piss this thing off."
+Thel 'Vadamee: "Demon!"
+The Gravemind makes loud huffing sounds, and indicates the Master Chief
+
+Gravemind: "This one is machine and nerve, and has its mind concluded." (a tentacle wraps around Master Chief's head, then indicates 'Vadamee) "This one is but flesh and faith, and is the more deluded."(turns 'Vadamee upside down)
+Thel 'Vadamee: "Kill me or release me, parasite. But do not waste my time with talk!"
+Gravemind: "There is much talk. And I have listened. Through rock and metal and time. Now I shall talk, and you shall listen."
+He raises two tentacles, one wrapped around a red Monitor, the other merged with an infected Prophet of Regret
+
+2401 Penitent Tangent: "Greetings! I am 2401 Penitent Tangent. I am the Monitor of Installation 05."
+Prophet of Regret: "And I am the Prophet of Regret, Councilor most High... Hierarch of the Covenant!"
+2401 Penitent Tangent sees the Master Chief.
+
+2401 Penitent Tangent: "A Reclaimer? Here? At last! We have much to do. This facility must be activated if we are to control this outbreak!"
+Prophet of Regret: "Stay where you are! Nothing can be done until my sermon is complete!"
+2401 Penitent Tangent: "Not true. This installation has a successful utilization record of 1.2 trillion simulated and one actual. It is ready to fire on demand."
+Prophet of Regret: (to the Arbiter) "Of all the objects our Lords left behind, there are none so worthless as these Oracles!" (yells) "They know nothing of the Great Journey!"
+2401 Penitent Tangent: "And you know nothing about containment! You have demonstrated a complete disregard to even the most basic protocols!"
+Gravemind: "This one's 'containment'..." (gives a disgusted huff) "And this one's 'Great Journey'... are the same."
+He lowers his tentacles, and Regret shrieks in fear.
+
+Gravemind: (to 'Vadamee) "Your Prophets have promised you freedom from a doomed existence, but you will find no salvation on this ring. Those who built this place knew what they wrought. Do not mistake their intent, or all will perish as they did before."
+At this moment, 'Vadamee stops struggling against the tentacles. He stares somewhat curiously at the Gravemind.
+
+Master Chief: "This thing is right. Halo is a weapon. Your Prophets are making a big mistake."
+Thel 'Vadamee: "Your ignorance already destroyed one of the sacred rings, Demon. You shall not harm another."
+Gravemind: "If you will not hear the truth, then I will show it to you. There is still time to stop the key from turning, but first it must be found." (indicates each in turn) "You will search one likely spot, and you will search another. Fate had us meet as foes, but this ring will make us...brothers."
+Master Chief and 'Vadamee disappear in teleportation rings. Fade to black, fade in on High Charity.
+
+A swarm of Covenant ships attack each other outside of High Charity. Fade in on the walkway outside the Council Chamber, Honor Guard Brutes guard the gates from Grunt and Jackal rioters.
+
+Prophet of Truth: "We are, all of us, gravely concerned."
+Cut to Council Chamber. A line of Honor Guard Brutes stand at attention. A cameraman Grunt focuses a holographic camera on Truth as he delivers his propaganda, while the Prophet of Mercy watches from aside.
+
+Prophet of Truth: "The release of the parasite was unexpected, unfortunate. But, there is no need to panic. In truth, this is a time to rejoice. A moment that all the Covenant should savor." (raises the Index) "For the Sacred Icon has been found. With it, our path is clear, our entry into the Divine Beyond guaranteed! The Great Journey is nigh..." (the Grunt notices the Master Chief appearing out of thin air behind him) "...and nothing, not even the Flood, can stop it!"
+The Chief looks down at the shocked Grunt.
+
+Master Chief: "Boo."
+The Grunt yelps, throws up his Needler, and flees. The Master Chief catches the Needler and aims it at Truth. Two Brute Honor Guards shield the Prophets with their pikes.
+
+Prophet of Truth: "Kill the Demon!"
+The Prophets and some Brutes escape through a gravity lift, leaving two Brutes behind.
+
+{Gameplay}
+
+Cortana: "Brutes! The faster you can kill these Brutes, the better." (The Chief kills one Brute.) "They don't have shield generators, but take them out before... it's berserking!"
+The Master Chief kills all Covenant in the room
+
+Tartarus (Loudspeaker): "The Demon has infiltrated the Council Chamber?! Protect the Hierarchs! Seal the exits!"
+Cortana: "Oh, I don't think so."
+After the Master Chief fends off the attackers
+
+Cortana: "Put me down on one of the pedestals near the door."
+If you approach where Truth was sitting before:
+
+Cortana: "They've locked it from below. There's a door at the other end of the chamber."
+The Spartan approaches the door, and Cortana's hologram appears.
+
+Cortana: "That Prophet, Truth. He has the Index! You've got to take it from him. Let me get these doors. (The Chief reaches for the pedestal) Go! It will be easier to track Truth if I stay in the network."
+If you continue to wait:
+
+Cortana: "Don't worry. You can pick me up later."
+The Master Chief fights his way to the ledge where Thel 'Vadamee was tortured.
+
+Cortana (COM): "Watch out for the Captain, it's got a Brute Shot!" (Note that the Brute Captain with the Brute Shot first shows up in the Council Chamber on Legendary.)
+Cortana: "Truth is moving through the lower levels of the tower. I'll reverse this Grav Lift. Drop down, try to cut him off."
+If the Chief stalls: "It's safe, really. Just step in."
+
+If the Chief continues to stall
+
+Cortana: "After that stunt on the Cairo, I know you're not afraid of heights."
+If the Chief still stalls:
+
+Cortana: "Fine, I won't watch. Meet you at the bottom, okay?"
+Later:
+
+Tartarus (Loudspeaker): "Reinforce all approaches to the holding pens. Slay the Demon on sight!"
+Cortana: "They're beefing up their patrols. Stay sharp."
+Later:
+
+Cortana (COM): "Wait a minute! I'm reading Marine IFF transponders. The signals are originating somewhere below your position."
+Cortana: "There's another lift in the next room."
+When the Master Chief reaches the lift.
+
+Cortana: "Here, Chief. Jump in."
+He takes the Grav Lift down.
+
+Cortana (COM): "There are two groups of Marines in the detention block. I'll zero in on their locations, you neutralize the guards... quietly."
+The Master Chief kills the Covenant forces on the top level.
+
+Cortana: "Chief, come to the lower level. The Marines are just inside, careful of the guards."
+The Master Chief enters the brig, and kills the guards.
+
+The brig doors unlatch, and the Marine POWs arm themselves with dropped Covenant weapons.
+
+Cortana: "Listen up, Marines! The Chief's hunting a Prophet, and you're gonna help him kill it."
+Marine: "Affirmative!"
+or
+
+Marine: "No sense sticking around here!"
+Cortana: "One more group of Marines to go, Chief."
+Cortana: "Chief, come to the middle level. More guards, get ready."
+The Master Chief frees the second group of Marines.
+
+Cortana: "That's all the Marines, Chief. Good work."
+Cortana (COM): "We'll get out of here the same way we came in - the central Grav Lift... Reinforcements, coming down the lift!"
+The Master Chief and the Marines kill the reinforcements.
+
+Cortana: "The lift is clear. Step on in."
+If the Chief stalls:
+
+Cortana: "We've got to get after Truth, Chief. Step into the lift."
+Later:
+
+Prophet of Truth (Loudspeaker): "Fear not, my brothers! The Sacred Icon is secure. It was Tartarus and his Brutes who took the Icon from the Flood, and for that they have our thanks."
+Cortana (COM): "Excellent! Truth is broadcasting on the move. It'll make him much easier to track."
+Later:
+
+Prophet of Truth (Loudspeaker): "The Elites have failed to protect the Prophets, and in doing so, have put all our lives at risk. Let no warrior forget his oath, 'Thou, in faith, shall keep us safe, whilst we find the Path.'"
+Cortana (COM): "I've got a fix on Truth, just outside this tower, Chief. There's an exit nearby. Hurry!"
+Later:
+
+Prophet of Truth (Loudspeaker): "With my blessing, the Brutes now lead our fleets! They ask for your allegiance, and you shall give it."
+Cortana (COM): "You wouldn't believe the number of kill-systems the Covenant are throwing down around me. Not to worry, it's pretty sloppy stuff. I guess they never expected a hostile intelligence to penetrate their networks from the inside."
+Later:
+
+Cortana (COM): "The Covenant just destroyed two of their own ships! And I'm hearing reports of small arms fire throughout their fleet."
+Prophet of Truth (Loudspeaker): "Creatures of the Covenant! The path is broad, and we shall walk it side by side."
+Later:
+
+Cortana: "Slipspace rupture... It's In Amber Clad!"
+In Amber Clad flies by overhead.
+
+Prophet of Truth (Loudspeaker): "Be glad! A reward for all your toil and all your sacrifices in the year at hand."
+Cortana: "Hailing...no response. She's crashed into another tower ahead of our position. I'll keep trying to make contact, but I'm not registering any human vital signs."
+You can hear the In Amber Clad crash.
+
+Later:
+
+Prophet of Truth (loudspeaker): "At this moment, the Council is gathered on Halo, to see the Icon secured."
+Tartarus (Loudspeaker): "Rise, my brothers! Cast down the Elites!"
+Prophet of Truth (Loudspeaker): "There are those who said this day would never come. What have they to say now?"
+Tartarus (Loudspeaker): "Once the towers are clear, we'll drive them from the lower district."
+Later:
+
+Prophet of Truth (Loudspeaker): "I have listened to the Oracle, and it confirmed our deepest hope. The Great Journey begins with Halo."
+Tartarus (Loudspeaker): "The Elites are falling back to the Mausoleum. Fools! Their Arbiter can do nothing for them now!"
+Prophet of Truth (Loudspeaker): "Who would doubt the Prophets? What have they foretold that has not come to pass?"
+Later:
+
+Cortana (COM): "If we're going to catch Truth, we'll need to take a shortcut, straight through the Mausoleum. Look on the bright side: for now, they seem much more interested in killing each other."
+The Master Chief approaches the very large fight in the Mausoleum.
+
+Cortana: "You might consider sitting this one out."
+After the room is cleared:
+
+Cortana: "Hang on, I'm picking up two more transponders. It's the Commander and Johnson! They're closing on Truth's position, Chief! They'll need your help! This way, Chief."
+The exit opens, with several cloaked Elites and an Honor Guard Councilor running out. The Chief kills them.
+
+Cortana (COM): "...This isn't good. I’m getting confirmed reports of Flood leaving the In Amber Clad's wreckage. Let's get the Index and find a way out of here, before things get really ugly!"
+{Cutscene}
+
+Tartarus and his Brutes take Keyes, Johnson and 343 Guilty Spark toward a platform where the Prophets of Truth and Mercy wait for them, with three Phantoms
+
+Tartarus: "Split them up. One in each Phantom."
+Three Brutes do so rather brutishly. Keyes notices In Amber Clad in the tower before being pushed into the Phantom. The two Phantoms take off. Tartarus kneels before the Prophets.
+
+Prophet of Truth: "The hopes of all the Covenant rest on your shoulders, Chieftain."
+Prophet of Truth hands Tartarus the Index.
+
+Tartarus: "My faith is strong. I will not fail."
+Infection Forms spring up and rush them. The Brutes spot them and they get ready. The Brute Honor Guards throw their pikes aside and stomp on several of them. Tartarus flattens one with the Fist of Rukt. The Brutes manage to shoot or crush most of them, but one gets through and lodges itself to Mercy's throat, knocking him off his throne.
+
+Prophet of Mercy: (screams in agony)
+Tartarus moves to remove the Infection Form.
+
+Prophet of Truth: "Let him be."
+Tartarus turns to Truth in surprise.
+
+Prophet of Truth: "The Great Journey waits for no one, brother...not even you."
+Prophet of Truth boards the Phantom and the Honor Guard Brutes follow immediately, but Tartarus hesitates at the dying Prophet of Mercy. He looks at the Index, makes his decision, and turns away from Mercy.
+
+Level ends.

@@ -1,0 +1,143 @@
+A Slipspace rupture appears in space. Regret's Carrier comes out, followed by some debris from New Mombasa and the In Amber Clad.
+
+Cut to interior of In Amber Clad:
+
+Commander Miranda Keyes: (lurches forward, grunts) "Report!"
+Ship Operations Officer: "Both engine cores have spun to zero. We're drifting."
+Weapons Officer: "Archer pods are cold. I'll need to re-key the system."
+Commander Miranda Keyes: "Do it, and find out where we are."
+Pan over to a room lined with HEVs:
+
+Commander Miranda Keyes (COM): "Sorry for the quick jump, Sergeant. You in one piece?"
+Johnson is inside a HEV pod, smoking a smashed cigar.
+
+Sergeant Major Avery Junior Johnson: "I'm good. Chief?"
+Shot of John-117 in another pod.
+
+Cortana: "We're fine."
+Communications Officer: "Ma'am, there's an object. Coming into view now."
+Commander Miranda Keyes: (stares in amazement) "Cortana, what exactly am I looking at?"
+In Amber Clad heads toward Delta Halo.
+
+Cortana: "That... is another Halo."
+Sergeant Major Avery Junior Johnson: (chokes) "Say what?!"
+Commander Miranda Keyes: "So this is what my father found... " (gazes at Halo) "I thought Halo was some sort of superweapon."
+Cortana: "It is. If activated, this ring will cause destruction on a galactic scale."
+In the pod, John-117 looks at Halo on his viewscreen. The words "CLASSIFIED" and a notice from the Office of Naval Intelligence appear over the image.
+
+Commander Miranda Keyes: "I want all the information you've got on the first Halo. Schematics, topography, whatever. I don't care if I have the clearance or not."
+Cortana: "Yes, ma'am."
+Commander Miranda Keyes: "Where's our target?"
+Communications Officer: "The enemy ship has stopped above the ring, ma'am. We're going to pass right over it."
+Commander Miranda Keyes: "Perfect. Given what we know about this ring, it's even more important that we capture the Prophet of Regret. Find out why he came to Earth, why he came here. Chief, take first platoon. Hard drop, secure a landing zone. Sergeant, load up two flights of Pelicans and follow them in."
+Sergeant Major Avery Junior Johnson: "Aye aye, ma'am."
+Johnson exits his pod.
+
+Commander Miranda Keyes: "Until I can move and fight I'm going to keep a low profile. Once you leave the ship, you're on your own."
+Johnson knocks twice on the hatch of John's pod as he is walking by, John-117 pounds back in acknowledgment.
+
+John-117: "Understood."
+Crewman 2: "Over the target in five..."
+Cortana: "Hang on to your helmet!"
+The pods drop, and they hell-jump onto Halo.
+
+Cortana: (as the parachute deploys) "Mind the bump."
+On Halo, an Unggoy and a Kig-Yar notice the pods flaming and streaking down towards them. The Kig-Yar snarls in alarm. He flicks his wrist, and his energy shield snaps on. The Unggoy boards a Shade and shoots at the pods, and soon another Shade starts firing. The pods land, John-117 breaks the cover open on his pod, scanning the area with an SMG.
+
+Cortana: "Could we possibly make any more noise?!"
+John-117 takes up a Rocket Launcher out of his pod and hefts it.
+
+Cortana: "I guess so."
+{Gameplay}
+
+HelljumpersEdit
+They come under fire of the Shades.
+
+Private First Class Chips Dubbo: "Sir, we gotta neutralize those turrets!"
+Gunnery Sergeant Pete Stacker: "Clear this landing zone! The Pelicans are right behind us!"
+When the Chief takes out all Covenant in the area:
+
+Cortana (COM): "Artillery disabled, Sergeant. Landing zone secure... for the moment."
+Sergeant Major Avery Junior Johnson: "I hear ya. Starting our approach - hang tight."
+Cortana: "Easier said than done. Inbound Phantoms, Chief."
+A Phantom drops off troops. The Chief eliminates them
+
+Cortana: "Another Phantom, on approach."
+
+A second Phantom drops off troops. John-117 eliminates them as well.
+
+A third Phantom drops off a squad of three Spec Ops Sangheili and a Stealth Sangheili on Legendary.
+
+Cortana: "Hold here until the Pelican arrives, Chief."
+If the Chief stays and waits for the Warthog
+
+ODST or Cortana: "Here comes our ride!"
+A Pelican arrives, dropping off a Warthog and two Marines, if the ODSTs have been killed.
+
+If John-117 proceeds up the path without waiting for the Pelican to arrive
+
+Cortana: "Let's wait here until our Warthog arrives...unless you'd prefer to walk."
+Sergeant Major Avery Junior Johnson: "I got a good view comin' in. There's a big building in the middle of this island's lake."
+Cortana: "I saw it too. It looks like a temple. If I were a megalomaniac--and I'm not--that's where I'd be."
+The Pelican drops the Warthog.
+
+ODST Sergeant: "Saddle up! We're movin' out!"
+Dubbo: "Whoa...it's like a postcard! 'Dear Sarge: kicking ass in outer space, wish you were here.'"
+Sergeant Major Avery Junior Johnson (COM): "I heard that...jackass!"
+Later, John-117 comes across a bridge held by the Covenant.
+
+Cortana: "The Covenant have control of the bridge ahead. They're going to try to bottle us up on this side of the gorge. The controls to extend the bridge should be in this structure."
+ODST or Cortana: "Watch out, Chief! Wraiths on the far side!"
+After extending the bridge:
+
+ODST or Cortana: "Good, the bridge is down. Now about those Wraiths..."
+Sergeant Major Avery Junior Johnson (COM): "Roger that. Armor's on the way."
+If John-117 stares at Regret's hologram, then walks up to the ODST
+
+Marine ODST: "Isn't that our target? What's he doing? Giving a speech?"
+Cortana: "A sermon, actually. I've been listening to it since we landed. So far, some standard Covenant literature, but I'll translate if he says anything interesting."
+If the Chief keeps staring at the hologram
+
+Cortana: "Regret's giving a speech. A sermon, to be exact. So far it's the standard Covenant liturgy, but I'll translate if he says anything interesting."
+Another Pelican approaches, carrying a Scorpion Tank.
+
+If you choose to go on foot, Warthog, or Ghost
+
+Cortana: "You don't want the Tank? Okay, we'll leave it for the others."
+John-117 passes through a multitude of Forerunner ruins.
+
+You Break It, You Buy ItEdit
+Cortana: "Careful. We're coming up to another structure."
+
+During the attack on the structure:
+
+Marine ODST: "We got a Pelican coming in! Let's clear a landing zone!"
+or
+
+Marine ODST: "Gotta Pelican coming in! Let's clear a LZ!"
+or
+
+Cortana: "Pelican inbound! Let's clear a landing zone!"
+After the Pelican drops some weapons, more Covenant arrive.
+
+ODST or Cortana: "They're all pouring out of the middle! Let's get in there."
+Once the outside is clear.
+
+Cortana: "The Covenant are holed up in the middle of this structure. We need to clear them out."
+As you progress into the building, you come across a hologram of the Prophet of Regret
+
+Prophet of Regret (Hologram): "In a gesture of peace and reconciliation, the Prophets promised to find the means of the Forerunners' transcendence, and to share this knowledge with the Elites. The Elites promised to defend the Prophets as they searched. A simple arrangement, that has become our binding Covenant!"
+Cortana: "Transcendence, huh? More like mass suicide."
+Off The Rock, Through The Bush, Nothing But JackalEdit
+Later, you find more Covenant near a waterfall flowing into a creek
+
+Cortana: "You always bring me to such nice places."
+After that, you reach a massive temple
+
+Cortana: "Good, still no word about In Amber Clad on the Covenant battlenet. It's odd, the Covenant knew we made landfall, but they don't seem to consider us a very serious threat. Boy, are they in for a big surprise."
+As you enter the temple, you find two Honor Guards standing next to another Regret hologram
+
+Cortana: "Watch yourself! Honor Guards!"
+John-117 kills the Honor Guards. Fades to white.
+
+Level ends.

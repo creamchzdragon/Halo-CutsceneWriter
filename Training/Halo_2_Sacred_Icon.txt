@@ -1,0 +1,133 @@
+Fade in on Covenant structure.
+
+Sanctum of the Hierarchs, Covenant Holy City, High Charity
+
+Camera pans down, we see a large hallway with rows of Honor Guards, Thel 'Vadamee walks through, close up of 'Vadamee.
+
+'Vadamee watches as the Jiralhanae take Honor Guard equipment from the Elites. Some Brutes fight each other for choice parts. As 'Vadamee ascends the stairs leading to the Prophet's Inner Sanctum, a pair of former Honor Guard Elites pass by him, without their helmets and carrying Plasma Rifles instead of Energy Staves. 'Vadamee walks through a large doorway, past the new Honor Guard Brutes to where the Prophet of Truth and Mercy speak with Rtas 'Vadumee and two of his Spec Ops Elites.
+
+Rtas 'Vadumee: "This is unprecedented... Unacceptable."
+Prophet of Truth: "A Hierarch is dead, Commander."
+Rtas 'Vadumee: "His murderer was within our grasp. If you had not withdrawn our Phantoms-"
+Prophet of Truth: (slightly indignantly) "Are you questioning my decision?"
+Rtas 'Vadumee: "No, Holy One! I only wish to express my concern that the Brutes-"
+Prophet of Truth holds up a hand for silence
+
+Prophet of Truth: "Re-commissioning the guard was a radical step. But recent events have made it abundantly clear that the Elites can no longer guarantee our safety."
+Rtas 'Vadumee: "I shall relay your... decision, to the Council."
+Rtas 'Vadumee and his Elites leave. He nods to 'Vadamee, who returns the nod. Prophet of Truth speaks to the Arbiter
+
+Prophet of Truth: "Politics (small sigh)... How tiresome. Do you know, Arbiter, the Elites have threatened to resign? To quit the High Council? Because of this... exchange of hats?"
+Thel 'Vadamee: "We have always been your protectors."
+Prophet of Truth: "These are trying times, for all of us."
+Prophet of Mercy: "Even as the humans' annihilation filled us with satisfaction, the loss of one of the Sacred Rings wracked our hearts with grief."
+Prophet of Truth: "Putting aside our sorrow, we renewed our faith in the prophecy that other rings would be found. And see how our faith has been rewarded."
+They turn to a large view screen of Delta Halo.
+
+Prophet of Mercy: "Halo! Its divine wind will rush through the stars, propelling all who are worthy along the path to salvation."
+Prophet of Truth: "But how to start this process? For ages, we searched for one who might unlock the secrets of the ring. An Oracle. And with your help, we found it."
+They turn toward 343 Guilty Spark, who seems to have been suspended in a gravity beam.
+
+Prophet of Mercy: "With appropriate humility, we piled the Oracle with questions. And it, with clarity and grace, has shown us... the key."
+Mercy triggers a hologram of the Index
+
+Prophet of Truth: "You will journey to the surface of the ring, and retrieve this Sacred Icon. With it, we shall fulfill our promise."
+Prophet of Mercy: "Salvation for all!"
+Prophet of Truth: "And begin the Great Journey."
+Fade to black, fade in on Delta Halo. A Phantom flies toward the surface. Cuts to Phantom interior.
+
+Tartarus: "Once the shield is down, we'll head straight to the Library. I do not wish to keep the Hierarchs waiting."
+Focus on 'Vadamee, zoom in as he speaks.
+
+Thel 'Vadamee: "The human who killed the Prophet of Regret... Who was it?"
+Tartarus: "Who do you think?"
+Thel 'Vadamee: (surprised) "The Demon is here!?"
+Focus on Tartarus
+
+Tartarus: (affirmative snort) "Why?" (re-focus on 'Vadamee) "Looking for a little payback?"
+'Vadamee draws a Carbine and readies it.
+
+Thel 'Vadamee: "Retrieving the Icon is my only concern."
+Tartarus: (skeptical laugh) "Of course."
+Cut to exterior panoramic view of Delta Halo's Library, with the Sentinel Wall in the foreground. The Phantom flies towards the Sentinel Wall and stops over a landing. A battle has been fought here recently, as evidenced by Sentinel wreckage and Covenant blood on the ground.
+
+'Vadamee drops from the Phantom, which then flies off. Behind 'Vadamee, an Enforcer rises up and slowly advances. 'Vadamee whirls around and fires three shots from his Carbine, to little effect. Suddenly, the Enforcer is hit by a sustained burst of plasma fire and loses its right-back leg. The Phantom flies by, and the Enforcer chases after it.
+
+Tartarus (COM): "Lower the shield, Arbiter! I'll pick you up when you're finished."
+{Gameplay}
+
+Uncomfortable SilenceEdit
+On the first room, there are some Constructors repairing an entrance. If the Arbiter destroys one, some Sentinels will appear (if on Legendary difficulty, the Sentinels will appear automatically) and will only stop spawning if the Arbiter destroys the Sentinel launchers that create them.
+
+After the Arbiter jumps into the passageways moving downward, and the first room, he meets a Grunt, who greets him.
+
+After the Arbiter enters the next room, he finds a group of Grunts and Jackals fighting Sentinels. After he defeats the Sentinels and cuts off any more from entering, a Grunt might speak to him.
+
+Grunt: "Arbiter... our savior!" (pause) "Stupid Jackal, say thank you!"
+If the Arbiter stares at the Grunt long enough, or just waits around:
+
+Grunt: "If hungry, eat Jackal!"
+When the Arbiter moves into the next room:
+
+Tartarus (COM): "You're getting close to one of the shield generators. Many of my Brutes have fallen attempting to take it down. Let's see if you fare better."
+When the Arbiter stands near the Grunt running toward him
+
+Grunt: "Big, scary thing! Run away! Please! Don't make me go back!"
+When the Arbiter reaches the Shield Generator
+
+Tartarus (COM): "You've reached the power source, Arbiter."
+An Enforcer descends from above
+
+Tartarus (COM): "It is useless to attack the Enforcer at the front, especially when its shields are up. Stay in the shadows, wait until it loses interest, then strike the beast when its back is turned."
+After the Arbiter destroys the Enforcer
+
+Tartarus (COM): "You've reached the power source. Overload the locks holding it in place."
+After the Arbiter overloads (or pushes them to save ammo) the first three locks
+
+Tartarus (COM): "One more, Arbiter."
+After the Arbiter overloads the last one:
+
+Tartarus (COM): "Release the power source. Now, find a way to remove it from its cradle."
+The Arbiter uses the holo-panel. The platform starts moving and the door in front of him opens.
+
+Buyer's RemorseEdit
+The Arbiter looks up, and sees the bright-green shield surrounding the Library fading away, followed by Tartarus's Phantom flying lower towards the other side of the wall.
+
+Tartarus (COM): "Our path to the Library's clear. I'll pick you up on the ledge ahead."
+The door of the approaching wall opens to another Enforcer firing on the Phantom.
+
+Tartarus (COM): (growls) "Blasted machines! Make your own way through the wall, Arbiter!"
+The Phantom leaves, followed by an attack by Sentinels, Sentinel Majors and a break-out of Flood Combat Forms.
+
+Once the Arbiter gets through the wide-opened door in the wall, he reaches a piston at the other end.
+
+As 'Vadamee proceeds through one of the hallways below, his COM link picks up a Marine's transmission.
+
+Marine Sergeant (COM): "Proceed to the objective, we'll hold out as long as we can! (screams painfully) Get it off me!"
+Marine (COM): "Suppressive fire, suppressive fire!"
+After 'Vadamee reach the next bottom floor:
+
+Marine Sergeant (COM): "Negative, ma'am! They are not Covenant!"
+
+Marine (COM): "Cover that doorway!"
+The Arbiter fights through hordes of Flood, Sentinels and Enforcers. He finally drops down to a long tunnel, and reaches the bottom of the wall.
+
+100,000 Years WarEdit
+As soon as the doorway opens, an airborne Sentinel Production Facility can be seen in the distance as it is shot down by Wraith mortars and crashes into the Quarantine Zone.
+
+The Arbiter proceeds through the snow. Orbital Insertion Pods land across the canyon.
+
+Elite: "Forerunners be praised, the Arbiter!"
+With the Elites' assistance, the Arbiter defeats small waves of Flood.
+
+Elite: "This Quarantine Zone has been compromised, we must do what we can against the Flood. Our Commander has landed further in, let us join him."
+The Arbiter crosses a bridge and through a tunnel, and meets the Spec Ops Commander, Rtas 'Vadumee.
+
+Rtas 'Vadumee: "Arbiter! What are you doing here?"
+Rtas 'Vadumee is interrupted by screeches of the Flood.
+
+Elite: "The Flood is upon us!"
+Rtas 'Vadumee: "We must hold this camp until reinforcements arrive."
+After the fight has gone on for a while, a Phantom descends from above, firing on any remaining Flood in the zone. Fades to white.
+
+Level ends.

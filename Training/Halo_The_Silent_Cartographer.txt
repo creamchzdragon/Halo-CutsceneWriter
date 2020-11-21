@@ -1,0 +1,129 @@
+Two Pelican dropships, Echo 419 and Bravo 022, approach an island, low over the water. The Master Chief is inside the leading dropship, Echo 419.
+
+Cortana: "The Covenant believe that what they call "the Silent Cartographer" is somewhere under this island. The Cartographer is a map room that will lead us to Halo's control center. The island has multiple structures and installations. One of them contains the map room."
+Foehammer (COM): "We're approaching the LZ, it's gonna be hot! Get set to come out swingin'. Touchdown! Hit it, Marines!"
+
+Staff Sergeant Stacker: "Go, go, go!"
+and/or
+
+Staff Sergeant Stacker: "Pile out people, let's move!"
+or
+
+Marine: "Pile out! Go, go, go!"
+Once the beach is cleared of Covenant hostiles:
+
+Marine: "Area's secure. All hostiles have been eliminated."
+or
+
+Cortana: "Area's secure."
+Foehammer (COM): "Affirmative. Echo 419 inbound. Somebody order a Warthog?"
+Sergeant Stacker (COM): "Hey, I didn't know you made house calls, Foehammer!"
+or
+
+Marine (COM): "Music to my ears, Foehammer!"
+Foehammer (COM): "You know our motto: We Deliver."
+As the Chief boards the driver seat of the Warthog, two Marines occupy the passenger seat and the turret.
+
+Cortana: "Okay, let's move out. Let's go find the map room that will show us the location of Halo's control center."
+As the team approaches the main building:
+
+Cortana: "There, in the cliff wall; I'll bet the Silent Cartographer is somewhere inside that facility."
+(On Heroic / Legendary): "They're already inside! We need to get in there quick, before they discover the location of Halo's control center!"
+
+Private First Class Hosky: (if he's on the Warthog looking at the passing Covenant Dropship) "Anyone else see what I see? How are we supposed to get around that, huh?"
+As the Master Chief shoots his way into the facility:
+
+Cortana: "The Covenant are putting up a real fight! The Cartographer must be here. My analysis indicates that the map room should be at the bottom floor of this facility. Let's keep going inside."
+The Chief reaches the top a slope that leads to an open door. A group of Covenant stand guard at the door, with a Zealot blocking the way in.
+
+Cortana: "Don't let them lock the doors!"
+The doors close.
+
+Cortana: "Interesting...I underestimated the Covenant's understanding of Halo's subsystems. They've locked the doors, and we don't have enough firepower to get through them."
+Cortana (COM): "Cortana to Keyes."
+Captain Jacob Keyes (COM): "Go ahead, Cortana. Have you found the control center?"
+Cortana (COM): "Negative, Captain. The Covenant have impeded our progress. We can't proceed unless we can disable this installation's security system."
+Captain Keyes (COM): (slight pause) "Understood. We're still en route to the objective. I may be out of contact when we get there. (pause) Here are your orders. I want you to use any means necessary to force your way into the facility and find Halo's control center. We have to get to the center before the Covenant, and failure, people, is not an option."
+Foehammer (COM): "Echo 419 to ground teams. I'll stay on station and keep an eye out for Covenant boogies."
+Sergeant Stacker (COM): "Second squad, ready to roll! Soon as everybody's topside!"
+Marine (COM): "LZ looks secure, Sir, nothing moving."
+Captain Keyes (COM): "Good luck, people. Keyes out."
+Cortana: "We need to find the security override to get this door open."
+As the Chief passes a path leading up into the island
+
+Cortana: "It looks like there is a path leading to the interior of the island."
+If the Chief passes the substation, which juts out of the cliffs:
+
+Cortana: "Well, there's the entrance to the security substation, but it looks like we'll have to look for another way up."
+The Chief makes his way towards the security substation, fighting past multiple Covenant troops including a pair of Hunters. Eventually, he reaches the substation. Once inside, he has to deal with another pair of Hunters.
+
+After reaching the security override panel:
+
+Cortana: "Use the holo panel to shut down the security system."
+Alternative Dialogue: If the Security Station is entered before going to the auto-locking door to the map room.
+
+Cortana: "This isn't the map room. Analyzing... (pause) This is a security override station for the main facility, located somewhere else on this island. Shut the system down so the Covenant won't be able to lock us out."
+Once the Chief shuts the system down:
+
+The previously locked door opens to reveal the Zealot Elite, which dashes out of the door in surprise.
+
+Cortana: "Good. That should open the door that leads into the main shaft."
+
+As the Chief moves down the hall from the security substation, towards the exit:
+
+Bravo 022 Pilot (COM): "Mayday, mayday! Dropship Bravo 022 taking enemy fire! Repeat! We are under heavy fire and are losing altitude!"
+Cortana (COM): "Understood. We're on our way."
+A group of Stealth Elites attempt to ambush the Chief. The Chief defeats them and heads back up.
+
+The Chief exits the substation and sees Bravo 022's wreckage on the beach below. Marine bodies and Covenant forces can be seen around it.
+
+Cortana: "Chief, Bravo 022 was bringing us some heavy weapons. After I saw we were up against Hunters, I thought you could use them. Let's move down the beach. Keep an eye out for any cargo we can salvage."
+The Chief returns to the entrance to the Cartographer which is now guarded by Hunters. The Chief defeats the Hunters and enters the structure once more.
+
+Once you enter through the now-unlocked door leading to the shaft:
+
+Master Chief walks out onto the platform overlooking the shaft and kicks a loose piece of debris down it. It falls down the seemingly endless shaft.
+
+As the Chief moves farther down into the facility, into the third of four levels
+
+Foehammer (COM): "Foehammer to ground teams, you got two enemy dropships coming in fast!"
+Sergeant Stacker (COM): "Dammit! Okay, people, we got company comin', let's set the table. Engage enemy forces on sight!"
+Cortana (COM): "It'll be easier to hold them off from inside the structure. Can you get inside?"
+Sergeant Stacker (COM): "Negative! They're closin' in too fast, negative! (pause) Chief! You gotta find the Cartographer! We'll keep 'em busy as long as we can!"
+Cortana (COM): "Give 'em hell, Marine."
+Cortana: "We'll be in a tight spot if we don't get out of here before additional reinforcements arrive. Let's find that map."
+When the Chief finally reaches the Cartographer:
+
+Cortana: "There. That holo-panel should activate the map."
+The Chief activates the holo-panel:
+
+The Silent Cartographer holo display begins to spin, and the diagram of Halo begins to break into sections.
+
+Cortana: "Analyzing... Halo's control center is located there. That structure appears to be some sort of temple or shrine, if I've interpreted this correctly. (pause) Interesting. A shrine is an unlikely place to put such a significant installation."
+
+Cortana (COM): "Cortana to Captain Keyes."
+Slight pause.
+
+Foehammer (COM): "The Captain has dropped out of contact, Cortana. His ship may be out of range or having equipment problems."
+Cortana (COM): "Keep trying. Let me know when you've reestablished contact, and then tell him that the Master Chief and I have determined the location of the control center. We'll be heading there as soon as we're topside."
+Foehammer (COM): "Affirmative. Foehammer out."
+Covenant reinforcements, including the Zealot from the first cutscene, have retaken the upper levels of the facility, forcing the Chief to fight his way back up.
+
+Once the Chief reaches to the exit of the facility
+
+Cortana (COM): "Cortana to Echo 419. The Chief and I are topside, requesting pickup."
+Foehammer (COM): "Roger. On my way."
+As the Chief boards the Pelican:
+
+Echo 419 lifts off from the platform and rises quickly, circling the center of the island.
+
+Cortana (COM): "Let's get moving. Foehammer. Here are coordinates and a flight plan I've worked out."
+Foehammer (COM): "But, Cortana... these coordinates are underground."
+Cortana (COM): "The Covenant did a thorough seismic scan. My analysis shows that Halo is honeycombed with deep tunnels - which circle the whole ring."
+The structure where the first pair of Hunters appeared lifts up, revealing an underground tunnel; Echo 419 lowers into it as the structure returns to its original position.
+
+Foehammer (COM): "I hope your analysis is on-the-money, Cortana. This Pelican won't turn on a dime."
+Cortana (COM): "Look on the bright side, Foehammer. The last thing the Covenant will expect is an aerial insertion... from underground."
+Echo 419 continues to lower through the structure, the top closes with a crash before everything goes dark.
+
+Level ends.

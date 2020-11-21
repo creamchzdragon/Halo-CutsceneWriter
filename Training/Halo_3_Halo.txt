@@ -1,0 +1,336 @@
+Rtas 'Vadum: "We are aboard, Humans... and Elites; Will you not come with us, brother?"
+Thel 'Vadam: "No. This is our fight. And I will see it finished."
+The Pelican flies towards the Halo ring.
+
+Cortana: "Johnson? Do you have the Frigate?"
+Johnson (Video COM): "Yes, ma'am. I'll land her as close to the control room as I can."
+Cortana: "Safe is better than close, Sergeant Major."
+Johnson (Video COM): "Roger that. And ma'am, It's good to have you back."
+The Pelican arrives at Halo. The rear port engine is too damaged for a normal landing. The Master Chief makes a crash landing in a snowy canyon near the Control Room. The Chief and the Arbiter clamber out. From behind the cliffs approaches the Forward Unto Dawn.
+
+Cortana: "Halo. It's so new... unfinished. I'm not exactly sure what will happen when we fire it..."
+The Arbiter tosses the Chief an MA5C Assault Rifle
+
+Master Chief: "We'll head for the Portal. And we'll all go home."
+{Gameplay}
+
+Contents[show]
+Full CircleEdit
+Assault on the Control Room.
+
+The Chief and the Arbiter mount up to the control room, making sure that they stock up enough supplies from their crashed Pelican.
+
+Cortana: "Head through the cliffs."
+The Chief and the Arbiter head through the icy caves.
+
+If the Chief does not head to the Control Room at all:
+
+Cortana: "The Control Room isn't far!"
+If the Chief heads for the Terminal instead:
+
+Cortana: "Where are you going?"
+When the Chief reaches the Terminal:
+
+Cortana: "Wait, what's that?"
+After accessing the Terminal.
+
+Cortana: "How many of these have you found?"
+If the Chief re-accesses the Terminal, or takes too long reading it:
+
+Cortana: "Come on, Chief, let's get back on track. The Control Room is outside!"
+The Chief and the Arbiter arrive at the foot of the pyramid-like Control Room structure. Suddenly, Flood Dispersal Pods begin to drop in.
+
+Gravemind: (angrily) "DID YOU THINK ME... DEFEATED?"
+Cortana: "Flood Dispersal Pods! Control Room's at the top of that tower, Chief, go! "
+If the Chief reaches the end of the wrong side of the tower.
+
+Cortana: "There should be ramps that lead to the top - check the other side!"
+The Arbiter and the Master Chief push their way up the tower, but the Flood continues to attack with overwhelming force.
+
+Johnson appears on the cliff with a Spartan Laser, shooting down Flood forms.
+
+Johnson (COM): "I got you covered, Chief. Meet you at the top of that tower."
+If you head back the other way:
+
+Johnson (COM): "Careful, I can't cover you on the far side."
+The Chief and the Arbiter continue upward.
+
+Johnson (COM): "Keep moving, Chief. I've got your back."
+The Master Chief and the Arbiter get closer to the top. Johnson continues to fire from the cliff.
+
+Johnson (COM): "Flood are crawling all over that tower; watch yourself."
+The Chief and the Arbiter reach the top floor. Johnson quickly joins them.
+
+Flood jump down the tower and attack the three soldiers.
+
+Johnson: "Spark? You in there? Open the damn door!"
+343 Guilty Spark (COM): "Of course, Reclaimer. Just as soon as you dispose of all proximate Flood threats. I'm afraid containment protocols do not allow me to-"
+Johnson: (impatiently) "Yeah, yeah, I hear you!"
+Cortana: "Was that the Monitor? You didn't tell me he was here. Well, we are finally doing what he wanted."
+The Flood continues to stubbornly attack with extreme force on the top floor.
+
+Gravemind: "I have beaten fleets of thousands! Consumed a galaxy of flesh and mind and bone!"
+The Chief, the Arbiter and Sergeant Johnson finally secure the tower.
+
+Johnson: "Open up! Coast is clear."
+Cortana (COM): "Not for long. I'm tracking additional Dispersal Pods. They'll be hitting any minute!"
+Johnson: "Chief, Arbiter! Let's move!"
+As the trio moves inside the Control Room.
+
+Gravemind (Gravemind Moment): "Do I take life or give it? Who is victim, and who is foe?"
+Cortana: "It's trying to rebuild itself on this ring!"
+Johnson: "Hurry! Control Room's close!"
+{Cutscene}
+
+The Chief, Arbiter and Johnson reach the Control Room. Flood are heard approaching, but the doors seal them out.
+
+Cortana: "Yank me, Chief."
+The Chief removes Cortana's data chip from his helmet.
+
+Johnson: "I'm not gonna lose her too."
+The Chief tosses the data chip to Johnson. Johnson heads for the control panel. 343 Guilty Spark appears from above and accompanies him.
+
+343 Guilty Spark: (humming to himself) "Oh, hello! Wonderful news - the Installation is almost complete!"
+Johnson: (uninterested) "Terrific."
+343 Guilty Spark: "Yes... isn't it? (Short but uneasy silence.) I have begun my simulations. No promises, but initial results indicate that this facility should be ready to fire...in just a few more days!"
+Johnson: (impatiently) "We don't have a few more days!" (gets ready to activate the Installation)
+343 Guilty Spark: (Shocked, Alarmed) "Bu-bu-but a premature firing will destroy the Ark!"
+Johnson: (dismissively) "Deal with it."
+343 Guilty Spark: (quietly) "...will destroy this Installation."
+Spark's "eye" suddenly turns red and blasts Johnson with his energy beam.
+
+Johnson: (screams) "Aaaah!!"
+343 Guilty Spark: "Unacceptable! Unacceptable! Absolutely unacceptable!"
+The Chief rushes to Johnson's aid. 343 Guilty Spark shoots at the Chief, who is flung backwards from the force of the blast and onto the floor. His Energy Shields drop and attempt to recharge.
+
+343 Guilty Spark: (in hysterics) "Protocol dictates action! I see now that helping you was wrong!"
+The Arbiter, hearing the commotion, moves forward, and 343 Guilty Spark turns on him as well, unleashing his beam on him and knocking him out of the Control Room. (In single-player, the doors close, sealing the Arbiter out of the room) Spark blasts the Chief again as he tries to get back up. With no shields protecting him this time, his armor starts to smoke.
+
+343 Guilty Spark: (his eye turns back to blue) "You are the child of my makers. Inheritor of all they left behind. You are Forerunner! But this ring... (his eye turns red again)... is mine."
+{Gameplay}
+
+343 Guilty Spark: "I take no pleasure in doing what must be done."
+The Chief fires whatever weapons he has at 343 Guilty Spark with no effect whatsoever. Spark counters with his powerful laser blasts and a repulsion field that forces the Chief backwards.
+
+343 Guilty Spark: "You do not deserve this ring!"
+343 Guilty Spark corners the Master Chief.
+
+343 Guilty Spark: "I have kept it safe. It belongs to me!"
+Unnoticed by 343 Guilty Spark, Johnson manages to sit halfway up and shoulder the Spartan Laser.
+
+Johnson: "Not for long!"
+Johnson shoots 343 Guilty Spark with his Spartan Laser. Caught off-guard, 343 Guilty Spark is blasted away from the Chief, falling to the ground and becoming inert.
+
+Johnson: (weakly) "Kick his ass."
+Johnson passes out. The Chief takes his Spartan Laser to destroy Guilty Spark.
+
+343 Guilty Spark rises from the floor, flying at a slightly tilted angle, his metal body visibly damaged. At this point, 343 Guilty Spark will say four sentences at random.
+
+343 Guilty Spark: "You - you cracked my casing!"
+343 Guilty Spark: "Damage! Damage! That hurt, Reclaimer!"
+343 Guilty Spark: "My eye! Do you mean to blind me!?"
+343 Guilty Spark: "Stop now, before one of us gets hurt!"
+After making the first shot, Spark begins to fly at a more tilted angle, leaking blue plasma from his sides and he begins to spark. Again, the following sentences are in random order.
+
+343 Guilty Spark: (voice breaks, then readjusts itself) "-destroy your inheritance!"
+343 Guilty Spark: "Accept your le-gacy!"
+343 Guilty Spark: "Think of you-ou-ou-our forefathers!"
+Following the second shot, Spark's casing becomes distorted, with pieces of him sheared off completely. More plasma leaks from his sides and the sparks happen more ferociously. The right side of his 'eye' has broken off. Once again, the following sentences are said in a random order.
+
+343 Guilty Spark: (Makes a garbled humming sound)
+343 Guilty Spark: (high, crackling voice) "M-m-my pr-precious!"
+343 Guilty Spark: (deteriorating, breaking voice) "I a-a-a-am the Monitor of Installation Z-Zero F-Four!"
+After making the finishing shot.
+
+343 Guilty Spark: "Oh myyyyyyyyyy-aaahh!"
+343 Guilty Spark explodes, destroyed.
+
+{Cutscene}
+
+The Master Chief bends over Sergeant Johnson, who is still alive - barely.
+
+Master Chief: "I'm getting you out of here."
+Johnson: "No... no you're not."
+Johnson grabs the Chief's hand with Cortana's chip in his.
+
+Johnson: "Don't - don't let her go. Don't... ever let her go. (Coughs) Send me out... with a bang."
+Johnson succumbs to his wounds. The Chief takes Cortana from him and lets go of his hand. He stands up, and wordlessly releases Cortana into Halo's core, gripping the data chip tightly.
+
+Cortana: (Looks sadly at Johnson's body) "Chief... I'm so sorry."
+
+The Master Chief says nothing. He shakes the chip with his hand but quickly stops. Cortana bows her head, eyes closed, and makes a gesture, activating Halo. She uploads herself back into her chip.
+
+The Chief places her chip in the back of his helmet, and then turns around. Brilliant beams of light erupt from the Core, and the whole Control Room starts to shake and fall apart. Johnson's body slides off the platform as it tilts to one side and begins to fall. The Master Chief runs for the door, which has opened again, The Arbiter can now be seen waiting for The Chief.
+
+{Gameplay}
+
+The Way the World EndsEdit
+Pedal to the Metal.
+
+Thel Vadam: "I am sorry, Spartan. But come."
+(With IWHBYD skull on.)
+
+Thel Vadam: "Well, that sucks. But come."
+Pieces of the walls around them suddenly explode; and the Master Chief and the Arbiter run for the doorway leading outside; fighting a small group of Flood along the way.
+
+The Master Chief and the Arbiter make it back outside, revealing a piece of collapsed ice forming a slope upwards.
+
+Thel Vadam: "Even in death, your Sergeant guides us all."
+Cortana: "The Dawn... of course - the Frigate! We still have a chance!"
+Cortana: "Find the doorway in the cliffs, Chief. The Dawn is on the other side."
+If you take too long to go to the doorway.
+
+Cortana: "See that doorway further on? Get to it."
+The Chief and the Arbiter head along the cliff, encountering Flood and Sentinels, who followed 343 Guilty Spark's lead and have turned against them too.
+
+They make it inside, and find themselves in the middle of a battle, between the Flood and a group of Sentinels.
+
+Gravemind (sad and defeated): "Resignation is my virtue. Like water I ebb and flow. Defeat is simply the addition of time to a sentence I never deserved... but you imposed."
+Cortana: "Don't let this ring be the end of us, Chief."
+They make it back outside.
+
+Cortana: "There! Johnson's Warthog."
+'The Arbiter takes the turret. The Chief takes the wheel.
+
+Cortana: "Come on, Spartan - go, go, go!"
+As they reach an open area, a massive explosion erupts alongside them.
+
+Cortana: "Drive, Chief. Head for the Frigate."
+
+Cortana: "Come on! Faster!"
+The Chief and the Arbiter reach a massive open structure.
+
+Cortana: "The Dawn is close. We can make it! As long as the ground doesn't fall underneath us..."
+The Warthog soon enters inside the interior of a large hallway with ramps.
+
+Cortana: "The charging sequence... it's too much for the ring to take!"
+They soon reach another open structure where battles between the Flood and a few Sentinels continue.
+
+Cortana: "Halo is ripping itself apart!"
+They come upon a large open stretch.
+
+Cortana: "Hurry Chief! Don't stop!"
+Cortana: "Charging sequence at 30%..."
+They reach one more open structure, this time a few Flood Pure Forms await them.
+
+Cortana: "50%, Chief!"
+They reach another hallway with ramps, where a larger battle between Sentinels and the Flood rages on.
+
+Cortana: "70%!"
+The Warthog makes it out of the hallway battle, to an area where the Frigate can be seen from a distance.
+
+
+Cortana: "80% charged!"
+They head for the final bend, encountering more Sentinels.
+
+Cortana: (desperately) "90% - firing sequence initiated!"
+If the player heads to an Easter Egg, they meet one last Covenant soldier.
+
+Final Grunt: "Hey, Demon! The jerk store called, and they're all out of you! Poor you, stolen at the age of six and conscripted into the military, waaaaagh! ...Okay look, if you let me live, I got the Fist of Rukt. Look, I'll be the bottom! I'll polish your boots. I'll polish your helmet! It's the gas, ha-ha! When I'm on the gas, I don't know what I'm doing half the time!"
+The Chief and the Arbiter make it to the final straight stretch to the Forward Unto Dawn, but there's a 70 m (230 ft) gap of thin air between the open cargo bay and the edge of the structure.
+
+Cortana: "Gun it, Chief! Jump! Floor it! Right into the hangar!"
+{Cutscene}
+
+The Warthog makes the jump, but doesn't land well, tumbling and rolling as it crashes into the Frigate's hangar. The Master Chief and the Arbiter recover, then the Dawn shifts. A Scorpion Tank begins sliding towards the Arbiter, who takes cover behind a pile of crates. The tank plows into it. The Chief leaps over the Warthog and hesitates, seeing the Arbiter digging himself out of the crates. The Chief nods at him, and Arbiter nods back. The Arbiter rushes to the bridge while the Chief runs to the hangar panel and plugs Cortana in to take control of the Frigate. Her image appears from a Holotank next to the panel.
+
+Cortana: "Hang on!"
+Cortana ignites the thrusters at full burn and launches the Dawn at full speed. The Chief grabs onto the terminal, hanging on for dear life as the Dawn leaves Halo's atmosphere. As the Chief tries to stay anchored, the Warthog flies out, striking the Chief on its way through the open hanger doors and out into empty space. The Chief flies off the panel, then glides down the floor towards the doors, with a self-destructing Halo looming beneath. The Chief punches his fist hard into the floor to get a grip, halting near the back end of the hangar. Cortana reaches out her arm towards him, scared of losing him.
+
+Cortana: "Chief!"
+The Scorpion flies out towards the Chief. He ducks his head just in time as it flies over him, narrowly missing the Chief but smashing the floor behind him and falling back towards Halo. The Chief begins to climb back up to Cortana, finally making it to the Holotank. Meanwhile, the Arbiter makes it to the bridge and sits down at the controls. The Chief braces behind the panel, plugging Cortana back into his helmet.
+
+Cortana: "If we don't make it..."
+Master Chief: (Determined) "We'll make it."
+Cortana: "It's been an honor serving with you, John."
+The Chief finally rests his head back, exhausted. Halo suddenly explodes, engulfing the hangar in a binding white light. All goes blank.
+
+Level ends
+
+EulogyEdit
+{Finale}
+
+On a hillside near the Gateway to the Ark, which has now been shut down, Marines gather. Fleet Admiral Lord Terrence Hood removes his hat, and begins his speech.
+
+Lord Hood: "For us, the storm has passed. The war is over. But let us never forget those who journeyed into the howling dark and did not return. For their decision required courage beyond measure..."
+Background Memory: The front half of the Forward Unto Dawn enters the Earth's atmosphere, and crashes into the Indian Ocean.
+
+Lord Hood: "...sacrifice, and unshakable conviction that their fight, our fight, was elsewhere."
+Background Memory continued: An engineering crew cuts into the Dawn with torches. The Arbiter emerges from the wreckage.
+
+The Arbiter is revealed to be present at the memorial, standing solemnly with the Marines.
+
+Lord Hood: "As we start to rebuild, this hillside will remain barren, a memorial to heroes fallen. They ennobled all of us, and they shall not be forgotten."
+Admiral Hood puts his hat back on, and salutes. Sergeant Pete Stacker turns to the other marines present.
+
+Gunnery Sergeant Pete Stacker: "Present arms!"
+Seven Marines raise their Battle Rifles and each fire a single burst of three shots: a 3-volley salute. The view pans over the Ark Portal, now closed and silent, and Mt. Kilimanjaro against the evening sky.
+
+Later, Hood and the Arbiter stand alone at the Memorial, which appears to be a Pelican wing, decorated with pictures of the fallen, including Commander Miranda Keyes and Sergeant Major Avery Johnson.
+
+Lord Hood: "I remember how this war started. What your kind did to mine. I can't forgive you. But..."
+Hood holds out his hand to the Elite.
+
+Lord Hood: "You have my thanks. For standing by him to the end."
+The Arbiter slowly shakes Admiral Hood's hand. After letting go, Hood's eyes are drawn to one part of the memorial in particular.
+
+Lord Hood: "Hard to believe he's dead."
+The Arbiter looks away, toward the Shadow of Intent, hovering silently in the sky.
+
+Thel 'Vadam: (quietly) "Were it so easy."
+The Arbiter leaves the Memorial. His Separatist Phantom heads back to the Shadow of Intent, hovering in about the same position the Portal to the The Ark once was. The Arbiter meets Shipmaster Rtas 'Vadum on the bridge, looking at a holographic image of Earth.
+
+Rtas 'Vadum: "Things look different. Without the Prophets' lies clouding my vision. I would like to see our own world - to know that it is safe."
+Thel Vadam: "Fear not. For we have made it so."
+The Arbiter clenches his fist to his chest.
+
+Rtas 'Vadum: "By your word, Arbiter." (clenches his fist to his chest likewise to Thel 'Vadam.)
+The Arbiter takes a seat on the command chair, the one normally used by Rtas 'Vadum.
+
+Thel 'Vadam: "Take us home."
+The Shadow of Intent leaves Earth, to rejoin the remains of the Covenant Separatist fleet in space. Going back to the memorial, the view shows that underneath the print "UNSCDF March 3, 2553", the number "117" is carved into the metal of the wing, and the rank of Master Chief Petty Officer of the Navy is taped to the upper right of it as a tribute to the Master Chief.
+
+Fade to black. Credits roll.
+
+EpilogueEdit
+{Epilogue}
+
+Cortana: "Chief? Can you hear me?"
+The Master Chief, very much alive, awakens, floating in zero gravity in a debris-filled hallway on board the Dawn.
+
+Cortana: (relieved) "I thought I'd lost you, too."
+The Master Chief looks at a gaping hole in the hallway. He drifts to his floating Assault Rifle, and holsters it, then begins to drift to the end of the hallway.
+
+Master Chief: "What happened?"
+Cortana: "I'm not sure. When Halo fired, it shook itself to pieces. Did a number on the Ark. The Portal couldn't sustain itself. We made it through just as it collapsed."
+The Chief reaches the end of the hallway, which opens up into empty space. The Forward Unto Dawn is revealed to be sheared in half, floating in a cloud of its own debris, still red-hot from the sudden Slipspace slowdown.
+
+Cortana: "Well... some of us made it."
+The Dawn's remaining half continues to drift aimlessly in unknown space.
+
+The Chief begins to drift further inside the ship, finding a row of cryotubes, complete with a Holotank to plug Cortana into.
+
+Cortana: "But you did it. Truth and the Covenant, the Flood..."
+The Chief plugs Cortana's data chip into the Holotank and she appears.
+
+Cortana: "It's finished."
+The Master Chief turns off the flashlight on his helmet.
+
+Master Chief: "It's finished."
+The Chief places his Assault Rifle in one of the rackets on the wall.
+
+Cortana: "I'll drop a beacon. But it'll be a while before anyone finds us."
+The Chief climbs into one of the cryotubes.
+
+Cortana: "Years, even."
+The cryotube door begins to close.
+
+Cortana: "I'll miss you."
+Master Chief: "Wake me. When you need me."
+Cortana smiles, nodding. The cryotube closes and seals, freezing the Master Chief and bringing the Halo Trilogy to its conclusion.
+
+{Legendary-only Scene}
+
+The back half of the Forward Unto Dawn is seen drifting towards an unknown planet. The planet eclipse its star at first, but the star slowly comes out from behind the planet, casting light upon it momentarily before blinding the view completely.
+
+Game ends

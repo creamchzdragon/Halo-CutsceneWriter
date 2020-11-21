@@ -1,0 +1,116 @@
+Long shot of the Control Room. Master Chief and 343 Guilty Spark teleport in, obviously in the middle of a conversation, explaining something about the Flood.
+
+343 Guilty Spark: "...which means that any organism of sufficient mass and cognitive capability is a potential vector."
+Master Chief pauses as though sensing something is not quite right.
+
+343 Guilty Spark: "Is something wrong?"
+Master Chief: "No... Nothing."
+343 Guilty Spark: "Splendid. Shall we?"
+Master Chief and 343 Guilty Spark move up to the main control panel.
+
+343 Guilty Spark: (random humming) "Unfortunately, my usefulness to this particular endeavor has come to an end. Protocol does not allow units with my classification to... perform a task as important as the reunification of the Index with the Core. That final step is reserved for you, Reclaimer."
+Master Chief takes the Index, and puts it into a slot on the console. Lights and holograms appear, but then fade.
+
+343 Guilty Spark: "Odd. That wasn't supposed to happen."
+Cortana suddenly appears over the console.
+
+Cortana: "Oh, really!?"
+There is a flash of light, and 343 Guilty Spark is thrown back, and down to the ground.
+
+Master Chief: "Cortana!"
+Cortana: "I've spent the last 12 hours cooped up in here, watching you toady about, helping that thing get set to slit our throats!"
+Master Chief: "Hold on now, he's a friend."
+Cortana: (Mockingly) "Oh! I didn't realize. He's your pal, is he? Your chum? (angrily) Do you have any idea what that bastard almost made you do?!"
+Master Chief: (Patiently) "Yes... activate Halo's defenses, and destroy the Flood, which is why we brought the Index to the Control Center."
+Cortana: "You mean this?"
+Index hologram appears in Cortana's hand.
+
+343 Guilty Spark: "A construct?! In the Core?! That is absolutely unacceptable!"
+Cortana: "Sod off!"
+343 Guilty Spark: "What impertinence! I shall purge you at once!"
+Cortana: (smiles nastily) "You sure that's a good idea?"
+Cortana's avatar absorbs the Index.
+
+343 Guilty Spark: (outraged) "How... how... how dare you! I'll--"
+Cortana: "Do what? I have the Index! You can just float and sputter!"
+Master Chief: "Enough! (The Chief brings both hands up in the middle of them as if to stop a fight, then turns back to face Cortana.) The Flood is spreading. If we activate Halo's defenses, we can wipe them out."
+Cortana: "You have no idea how this ring works, do you? Why the Forerunners built it? Halo doesn't kill Flood, it kills their food. Humans, Covenant, whatever. We're all equally edible. The only way to stop the Flood is to starve them to death. And that's exactly what Halo is designed to do: Wipe the galaxy clean of all sentient life. You don't believe me? Ask him!" (Points at Spark.)
+Master Chief hesitates, and then turns to 343 Guilty Spark.
+
+Master Chief: "Is it true?"
+343 Guilty Spark: (pauses) "More or less. Technically, this installation's pulse has a maximum effective radius of twenty-five thousand light years. But, once the others follow suit, this galaxy will be quite devoid of life, or at least any life with sufficient biomass to sustain the Flood." (Pause) "But you already knew that... I mean, how couldn't you?"
+Cortana: "Left out that little detail, did he?"
+343 Guilty Spark: "We have followed outbreak containment procedure to the letter. You were with me each step of the way, as we managed this crisis."
+Cortana: (alarmed) "Chief, I'm picking up movement!"
+343 Guilty Spark: "Why would you hesitate to do what you have already done?"
+Cortana: (urgently) "We need to go, right now."
+Four Sentinels float up behind 343 Guilty Spark, their beams aimed menacingly on the Chief.
+
+343 Guilty Spark: "Last time, you asked me, if it were my choice, would I do it? Having had considerable time to ponder your query, my answer has not changed."
+Master Chief looks around at the Sentinels, and backs towards the panel. He takes Cortana's disk out of the console, and inserts it into his head.
+
+343 Guilty Spark: "There is no choice. We must activate the ring."
+Cortana: (urgently whispers in Master Chief's head) "Get - us - out - of - here!"
+343 Guilty Spark: "If you are unwilling to help, I will simply find another. Still, I must have the Index. Give your construct to me, or I will be forced to take her from you."
+Master Chief: "That's not going to happen."
+343 Guilty Spark: "So be it." (to the Sentinels) "Save his head. Dispose of the rest."
+343 Guilty Spark teleports away, and his Sentinels attack
+
+Cortana: "Look out!"
+After the Sentinels are destroyed:
+
+The Gun Pointed at the Head of the UniverseEdit
+Cortana: "We can't let the Monitor activate Halo. We have to stop him - we have to destroy Halo. According to my analysis of the available data, I believe the best course of action is somewhat... risky. An explosion of sufficient size will help destabilize the ring, and will cut through a number of primary systems. We need to trigger a detonation on a large scale, however. A star ship's fusion reactors going critical would do the job. I'm going to search what's left of the Covenant battlenet, and see if I can locate the Pillar of Autumn's crash site. If the ship's fusion reactors are still relatively intact, we can use them to destroy Halo."
+Once outside, into the canyon
+
+Cortana: "I haven't located the crash site yet but we need to buy some time, in case the Monitor or his Sentinels find a way to activate Halo's final weapon, without the Index. The machinery in these canyons are Halo's primary firing mechanisms. They consist of three phase pulse generators that amplify Halo's signal, and allow it to fire deep into space. The power levels are enormous. I can't even begin to calculate the pulse's range. So, if we damage or destroy these generators, the Monitor will need to repair them before Halo can be used. That should buy us some time. I'm marking the location of the nearest pulse generator with a nav point. We need to move in and neutralize the device."
+Once down to ground level:
+
+Cortana: "Wait. We should commandeer one of those Banshees; we'll need it to reach the pulse generator in time."
+Once in the Banshee:
+
+Cortana: "Good, let's get moving. The nav point marks our target."
+Once you reach the room the generator is in:
+
+Cortana: "That's the pulse generator. The center core is the signal amplifier. That's what we need to shut down. We need to interrupt the pulse generator's energy stream. I've adjusted your shield system so that it will deliver an EMP (Electro Magnetic Pulse) burst to disrupt the generator. You will need to walk into the beam, to trigger it. The EMP blast should neutralize the generator. But it will also drain your shields, and you will be vulnerable until they recharge."
+After the generator is neutralized:
+
+Cortana: "Objective accomplished! The pulse generator has overloaded. Scanning... the generator's central core is offline. Well done."
+After going back outside, to the canyon:
+
+Cortana: "The second pulse generator is located in the adjacent canyon. Move out, and I'll mark the target with a nav point when we get closer."
+Once onto the bridge in the middle of this canyon:
+
+Cortana: "Head through that door. That's the way to the next canyon."
+Once in the canyon with the 2nd pulse generator in it:
+
+Cortana: "OK. Let's take care of the next pulse generator."
+If you continue on to toward the 3rd canyon, before destroying the 2nd pulse generator:
+
+Cortana: "Wait! We haven't destroyed the pulse generator yet. Find a Banshee, and fly it up to the location marked by the nav point."
+After you destroy the 2nd generator:
+
+Cortana: "That did it! The pulse generator overloaded. One more to go."
+Once outside again:
+
+The Tunnels BelowEdit
+Cortana: "I've located the Pillar of Autumn. She put down twelve-hundred kilometers up spin. Energy readings show her fusion reactors are still powered up. The systems on the Pillar of Autumn have fail safes that even I can't override, without authorization from the Captain. We'll need to find him or his neural implants, to start the fusion core detonation. One target remaining. Let's take care of the final pulse generator."
+Once you reach the tunnel leading to the 3rd canyon:
+
+Cortana: "That tunnel leads to the next section of the canyon. The final pulse generator we need to destroy is through there."
+Once you enter the third canyon:
+
+Final RunEdit
+The Chief fights through an armada of both Flood and Covenant with supporting vehicles. After you destroy the final generator
+
+Cortana: "Final target neutralized. Let's get out of here."
+Master Chief: "Let's find a ride, and get to the Captain."
+Cortana: "No, that'll take too long."
+Master Chief: "You have a better idea?"
+Cortana: "There's a teleportation grid that runs throughout Halo. That's how the Monitor moves about so quickly. I learned how to tap into the grid when I was in the Control Center. Unfortunately, each jump requires a rather... consequential expenditure of energy."
+Master Chief: "Something tells me I'm not gonna like this."
+Cortana: "But I'm pretty sure I can take the needed energy from your suit without permanently damaging your shields. Needless to say, I think we should only try this once."
+Master Chief: "Do it."
+Master Chief is teleported away. Fades to black.
+
+Level ends.

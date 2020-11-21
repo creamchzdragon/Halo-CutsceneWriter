@@ -1,0 +1,252 @@
+Scene fades in on Thel 'Vadam and Rtas 'Vadum, who is in a Wraith with its hatch open, conversing. The two are looking towards the Control Room of Delta Halo
+
+Thel 'Vadam: "What is that place?"
+Rtas 'Vadum: "Where the Councilors were meant to watch the consecration of the Icon. The start of the Great Journey."
+Focus on 'Vadam:
+
+Gravemind (flashback): "There is still time to stop the key from turning."
+Thel 'Vadam: "I must get inside."
+Rtas 'Vadum: "Then mount up, Arbiter. I know a way to break those doors."
+'Vadam turns to face the Control Room as Rtas 'Vadum enters his Wraith and closes the hatch behind him.
+
+{Gameplay}
+
+Contents[show]
+Your Ass, My Size-24 HoofEdit
+As they travel to where a Scarab is visible, docked up on a ledge:
+
+Rtas 'Vadum: "There, Arbiter. That Scarab's main gun will break the Control Room's door. At the far end of the beach there's a passage into the cliff. It'll take you up to the Scarab."
+After clearing the area:
+
+Rtas 'Vadum: "The Brutes control the cruiser, Arbiter. I'll remain here, make sure no reinforcements get in behind you. Then, I'm going to take the cruiser back!"
+'Vadam walks into a room with a Sangheili and two Mgalekgolo.
+
+Spec Ops Elite: "The Arbiter? I thought he was dead! Hold your fire. The Hunters have come to our aid, Arbiter. They will fight/stand by our side."
+'Vadam fights his way to a room where two Councilors and two Hunters are being held prisoner behind force field doors.
+
+If the Spec Ops Elite lives at this point and follows you to the room:
+
+Spec Ops Elite: "Free our brothers! Death to the Brutes!"
+Once you clear the room, free the Hunters and Councilors, then head to the top floor to the Scarab.
+
+'Vadam and his Elites arrive upon a group of Brutes preparing to execute the Marine prisoners.
+
+Tartarus (COM): "Mine will do. Kill the others."
+Brute 1: "Yes, Chieftain. (to other Brute) A day's ration says I can do this in one cut."
+Brute 2: "Two cuts at least."
+Brute 1: "Done. Wait, movement!"
+Brute 2: "Elites!"
+Sergeant Major Avery J. Johnson: "Go, go, go!"
+Gunnery Sergeant Pete Stacker and Staff Sergeant Marcus Banks start fighting the Brutes, Johnson jumps into the Scarab and disappears. The Scarab starts moving.
+
+{Cutscene}
+
+
+'Vadam turns around to see the Scarab's main cannon aimed at him.
+
+Sergeant Johnson (COM): "Listen, you don't like me and I sure as hell don't like you."
+Cut to Scarab's helm, Johnson at the controls.
+
+Sergeant Johnson: "But if we don't do something, Mr. Mohawk's gonna activate this ring. And we're all gonna die."
+Thel 'Vadam: "Tartarus has locked himself inside the Control Room."
+Sergeant Johnson (COM): "Well, I just happen to have a key." (The Scarab's cannon opens) "Come on. Grab a Banshee and give me some cover. He's gonna know we're comin'."
+{Gameplay}
+
+Backseat DriverEdit
+Two Banshees arrive and the Elite pilots jump out
+
+Elite: "Take my Banshee, Arbiter!"
+'Vadam does so, Johnson fires on enemy Wraiths.
+
+Sergeant Johnson (COM): "Ha! How do you like it?!"
+They approach the Control Room.
+
+Sergeant Johnson (COM): "Stay clear of the doors. Hey, bastards, knock knock!"
+If the Arbiter stalls:
+
+Johnson (COM): "Stay clear of the doors!"
+Johnson (COM): "Are you trying to get killed? Gimme some room!"
+If the Arbiter stalls:
+
+Johnson (COM): "What, do I have to spell it out for you? MOVE!!!"
+Johnson (COM): "Hey, listen, I'm gonna count to three. One... two... three! Don't say I didn't warn ya!"
+If the Arbiter moves when Johnson is counting:
+
+Sergeant Johnson (COM): "Good! Now stay put!"
+Sergeant Johnson (COM): "Hey, bastards. Knock knock!"
+If the Arbiter turns back:
+
+Sergeant Johnson (COM): (unamused) "Ha ha, that's real funny. I'm still shootin'!"
+The Scarab's cannon fires, destroying Control Room's door. 'Vadam enters the Control Room, runs into some Brutes.
+
+Brute: "Do not let the Arbiter into the chamber! The Chieftain must complete his holy work!"
+'Vadam either kills the guards or sneaks past them, then heads into the main chamber of control room.
+
+Delusions and GrandeurEdit
+{Cutscene}
+
+Tartarus and four Brute Captains stand in front of the control panel, holding Keyes and 343 Guilty Spark.
+
+Tartarus: "Come, human, it is easy." (He tries to get Miranda to insert the Index) "Take the Icon in your hands... (growls impatiently) And do as you are told!"
+He slams the Index on the console, which flashes red lights.
+
+343 Guilty Spark: "Please, use caution! This Reclaimer is delicate."
+Tartarus: "One more word, Oracle, and I'll rip your eye from its socket!" (he turns to Keyes, pushes her forward)
+Commander Keyes: (exhales sharply)
+Tartarus: (soft menacing growl) "Which is nothing compared to what I will do to you."
+Thel 'Vadam walks in.
+
+Thel 'Vadam: "Tartarus, stop."
+Tartarus: (gasps, jerks his neck up in surprise) "Impossible!"
+Thel 'Vadam: "Put down the Icon."
+Tartarus turns to face 'Vadam.
+
+Tartarus: "Put it down? And disobey the Hierarchs?"
+Thel 'Vadam: "There are things about Halo even the Hierarchs do not understand."
+Brutes step forward menacingly, Tartarus waves them off
+
+Tartarus: "Take care, Arbiter. What you say is heresy!"
+Thel 'Vadam: "Is it? (gently) Oracle, what is Halo's purpose?"
+343 Guilty Spark: "Well collectively, the seven—"
+Tartarus grabs 343 Guilty Spark and jerks him around.
+
+Tartarus: "Not another word!"
+Sergeant Johnson (off screen): "Please ...
+Tartarus lowers 343 Guilty Spark to see Johnson standing next to 'Vadam. He holds a Beam Rifle and aims it directly at Tartarus.
+
+Sergeant Johnson: "Don't shake the light-bulb."
+Brutes growl and approach
+
+Sergeant Johnson: (raises Beam Rifle to Tartarus' head) "If you wanna' keep your brain inside your head, I'd tell those boys to chill."
+Tartarus barks as commanded, the Brutes back off.
+
+Sergeant Johnson: (to 'Vadam) "Go ahead. Do your thing."
+Thel 'Vadam: (to Guilty Spark) "The Sacred Rings, what are they?"
+343 Guilty Spark: "Weapons of last resort, built by the Forerunners to eliminate potential Flood hosts, thereby rendering the parasite harmless."
+Thel 'Vadam: "And those who made the rings? What happened to the Forerunners?"
+343 Guilty Spark: "After exhausting every other strategic option, my creators activated the rings. They and all additional sentient life within three radii of the galactic center, died, as planned."
+Close up on 'Vadam, he lowers his head in sadness.
+
+343 Guilty Spark: (slightly awkward) "Would you... like to see the relevant data?"
+Thel 'Vadam: (turns his attention back to Tartarus) "Tartarus. The Prophets have betrayed us."
+Tartarus pauses, then throws 343 Guilty Spark at Johnson's head, knocking him down. He then grabs Keyes' hand and forces the Index into the console
+
+Tartarus: "No, Arbiter! The Great Journey has begun. And the Brutes, not the Elites, shall be the Prophets' escort!"
+Tartarus grabs his hammer as his energy shield turns on. The main platform splits into three as Halo charges up.
+
+{Gameplay}
+
+Elite reinforcements show up and wipe out the Brute Captains. Tartarus jumps to the platforms. Johnson hangs back, firing on Tartarus with his Beam Rifle.
+
+343 Guilty Spark: "Charging sequence initiated. Primary generators coming online."
+Commander Keyes: "Well, shut them down!"
+343 Guilty Spark: "Apology. Protocol does not allow me to interfere with any aspect of this sequence."
+Commander Keyes: "Then how do I stop it?"
+343 Guilty Spark: "Well, it will take some time to go over the proper procedures, I—"
+Commander Keyes: "Quit stalling!"
+343 Guilty Spark: "Under more controlled circumstances, I would suggest the Reclaimer simply remove the Index."
+Commander Keyes: "That's it? Johnson, I'm on it!"
+Sergeant Johnson: "Hang tight, ma'am! Not until that Brute is dead! (when knocking off Tartarus' shield for the first time) Hey, Mohawk! How'd that feel?"
+If the Arbiter stalls:
+
+Tartarus: "You want revenge? Well, here I am. Come and take it!"
+or
+
+Tartarus: "What's the matter, Arbiter? Afraid of my little hammer?"
+If the Arbiter further stalls:
+
+Tartarus: "Just like the rest of your race, cowardly and weak!"
+After the Arbiter scores a hit on Tartarus for the first time:
+
+Tartarus: (slams his hammer on the ground) "A lucky hit. You shall not land another."
+Sergeant Johnson: (when knocking off Tartarus' shield for the second time) "His shield is down, let 'em have it!"
+343 Guilty Spark: "Secondary generators charging. All systems are performing well within operational parameters."
+Commander Keyes: "You're telling me that you cannot stop the sequence?"
+343 Guilty Spark: "Reclaimer, please understand that interrupting the wave generation process will severely damage this installation."
+Commander Keyes: "Give me a direct answer!"
+343 Guilty Spark: "I am but a Monitor. The Reclaimer can do as it likes."
+Sergeant Johnson: (knocking down Tartarus' shield for the third time) "There goes his shield!"
+(knocking down Tartarus' shield for the fourth time)
+
+Sergeant Johnson: "Got his shield! Hit him now!"
+(knocking down Tartarus' shield for the fifth time)
+
+Sergeant Johnson: "Quick while his shield is down!"
+The fight continues
+
+343 Guilty Spark: "Power generation phase complete. The installation is ready to fire. Starting final countdown."
+Sergeant Johnson: "Come on, Arbiter! Kick that guy's ass!"
+343 Guilty Spark: "Firing sequence initiated. And may I say, Reclaimers, it has been a pleasure to serve you both. Goodbye."
+Sergeant Johnson: "I can keep his shield down, but you've gotta finish the job!"
+'Vadam finally kills Tartarus.
+
+{Ending}
+
+Ending Edit
+Keyes jumps onto a rotating platform, ducks to avoid one of the other platforms passing right above her, reaches a main platform, and grabs the Index. The entire room shakes, making Miranda hold the Index up to her chest in fear.
+
+Cut to exterior of Control Room. All the built up energy fires into space.
+
+Cut to Halo's exterior, a large pulsing ball of energy is being formed in the center, the shot from the Control Room reaches it, the ball glows, explodes, then dissipates.
+
+Cut to interior of Control Room, which seems to be running on emergency power, as many of the lights are dimmed or not functioning. Keyes stands in front of a holographic depiction, Johnson rides 343 Guilty Spark to her.
+
+Commander Keyes: "What's that?"
+343 Guilty Spark: "A beacon."
+Commander Keyes: "What's it doing?"
+343 Guilty Spark: "Communicating. At superluminal speeds with a frequency of—"
+Commander Keyes: "Communicating with what?"
+343 Guilty Spark: (a bit surprised) "The... other installations."
+Commander Keyes: "Show me."
+343 Guilty Spark interfaces with the hologram, it depicts the seven Halos, a red message points to one ring (most likely either Installation 05, where they are, or Installation 04, which has been destroyed).
+343 Guilty Spark: "Fail-safe protocol: In the event of unexpected shutdown, the entire system will move to standby status. All remaining platforms are now ready for remote activation."
+Commander Keyes: "Remote activation? From here?"
+343 Guilty Spark: (patronizing) "Don't be ridiculous."
+Sergeant Johnson: "Listen, tinkerbell, don't make me..."
+Keyes puts a hand on his shoulder.
+
+Commander Keyes: "Then where? Where would someone go to activate the other rings?"
+343 Guilty Spark is truly baffled.
+
+343 Guilty Spark: "...Why, the Ark, of course."
+'Vadam comes up behind Johnson and Miranda Keyes.
+
+Thel 'Vadam:(walks up to them) "And where, Oracle, is that?"
+Fade to black. Fade in on the Forerunner Dreadnought exiting Slipspace, and heads straight to Earth. Covenant and UNSC ships are engaging each other.
+
+Officer (COM): "We've got a new contact, unknown classification!"
+Fade in on interior of Forerunner ship, John-117 listens in.
+
+Lord Hood (COM): "It isn't one of ours, take it out."
+Master Chief: "This is SPARTAN-117, can anyone hear me? Over."
+Cut to Cairo Station's bridge, everything looks damaged.
+
+Lord Hood: (to officer) "Isolate that signal! Master Chief? You mind telling me what you're doing on that ship?"
+Cut to Master Chief.
+
+Master Chief: "Sir. Finishing this fight."
+Fades to black.
+
+Level ends.
+
+Credits play.
+
+Epilogue Edit
+{Epilogue}
+
+Fades in on the Flood-infested High Charity.
+
+A Flood spore floats through the air, the camera pans off to the walkway outside the Council Chamber.
+
+Cut to a damaged door that keeps trying to close, Gravemind's tentacles creep through.
+
+Gravemind: "Silence fills the empty grave, now that I am gone."
+Cut to Council Chamber, Gravemind's tentacles reach across.
+
+Gravemind: "But my mind is not at rest, for questions linger on. I will ask, and you will answer."
+Cortana's hologram appears, she holds up her hand, the tentacles stop and move off.
+
+Close-up on Cortana's face
+
+Cortana: "All right... shoot."
+Fades to black.

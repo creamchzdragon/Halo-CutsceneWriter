@@ -1,0 +1,116 @@
+The Master Chief flies a Banshee to High Charity. He finds an opening into the hive. (In co-op, Thel 'Vadam will follow the Chief and land his Banshee next to the Spartan's Banshee.)
+
+Sergeant Major Johnson (COM): "Chief, I'll round up our survivors, fall back to the Dawn."
+The Chief drops down onto a wide platform from a hole above ('Vadam follows him in co-op)
+
+Johnson (COM): "Arbiter will do the same with the Elites."
+(Co-op Change) Johnson (COM): "The Shipmaster will do the same with the Elites."
+
+The Chief shakes off some organic material that is stuck to his boot.
+
+Johnson (COM): "Cortana's in there somewhere..."
+{Gameplay}
+
+RampantEdit
+Graverobber.
+
+The Chief begins searching, further in the hive.
+
+Gravemind (Gravemind Moment): "Child of my enemy, why have you come? I offer no forgiveness; a father's sins passed to his son."
+The Chief drops down a Portal.
+
+Cortana (Cortana Moment): (A strange mix of cries of agony and psychotic laughter)
+Cortana (coming out of a speaker within a crashed Pelican): "I tried to stay hidden, but there was no escape! He cornered me, wrapped me tight... and brought me close."
+As the Chief goes deeper into the hive.
+
+Gravemind (Gravemind Moment): "Of course, you came for her... We exist together now. Two corpses, in one grave..."
+Cortana: (distant) "A collection of lies; that's all I am! Stolen thoughts and memories!"
+Gravemind (Gravemind Moment): "And yet, perhaps a part of her...remains?" (maniacal laughter, fades into Cortana's voice)
+Cortana: (deranged laughter)
+In the large room where the Tilt skull is located, a Terminal can be activated, but does not count towards the Marathon Man achievement. If activated, it displays another Cortana Moment.
+
+Cortana (Terminal): "It was the coin's fault! I wanted to make you strong, keep you safe... (drop in tone) I'm sorry, I can't..."
+Cortana begins to show signs of Rampancy.
+
+Cortana: (casually and kindly, as though nothing is wrong) "May I speak with you, please?... What's your name? It's very nice to meet you!... You like games? So do I."
+The Chief struggles through into more narrow, Flood-contaminated tunnels.
+
+Cortana: (upset and frightened) "I'm just my Mother's shadow... don't look at me, don't listen! I'm not who I used to be..."
+As the Chief nears a large room (with the route to the reactor room at the top):
+
+Gravemind (Gravemind Moment): (angrily) "Time has taught me patience! But basking in new freedom, I will know all that I possess!"
+The Chief continues to the reactor room.
+
+Cortana (Cortana Moment): (panicking, her voice slightly distorted) "I have walked the edge of the abyss. I have seen your future, and I have learned!"
+The image of Cortana suddenly turns a tinge of green. She clutches her head and writhes in pain.
+
+Gravemind (Gravemind Moment): (angrily) "Submit! End her torment and my own!"
+The Chief enters the reactor room, passing by bones and skulls back at the entrance.
+
+The Chief finds a door out of the reactor room, and follows it.
+
+Cortana (Cortana Moment): (panicking, voice slightly distorted) "There will be no more sadness, no more anger, no more envy!" (a reference to the three main stages of rampancy.)
+Gravemind (Gravemind Moment): (enraged) "You will show me what she hides...or I shall feast upon your bones!"
+The Chief begins to reach the end of the hallway.
+
+Cortana (Cortana Moment): (Speaking in a calm, distorted, monotone voice as though brainwashed. Her image is green.) "This is UNSC AI Serial Number CTN 0452-9. I am a monument to all your sins." (a reference to the Chief and Cortana's first meeting with the Gravemind)
+The Chief rushes to the end of the hallway, to find Cortana lying prone in a Stasis Field in a center podium. The room resembles the Sanctum of the Hierarchs. He beats and bashes the shield until it finally fails.
+
+{Cutscene}[dead link]
+
+Cortana: (weakly) "You found me."
+Master Chief leans closer towards the panel Cortana's on. The AI lies pitifully on the podium, pain and shame on her face. The animated code that usually flows across her skin is absent.
+
+Cortana: (weakly) "But so much of me is wrong... out of place. You might be too late..."
+The Chief kneels right next to Cortana.
+
+Master Chief: "You know me. When I make a promise..."
+She looks up at the Chief. Cortana starts to glow.
+
+Cortana: "You... keep it. (she raises her head, and sounds amused) I do know how to pick 'em."
+Master Chief: "Lucky me. Do you still have it?"
+Cortana slowly gets up. As she does, she begins to glow more brightly, and the lines of code and equations once again begin to fall over her surface. She opens her palm and a hologram of the Index appears above it.
+
+Cortana: "The Activation Index from the first Halo ring. A little souvenir I hung onto... just in case. (she looks around) Got an escape plan?"
+The Chief gets back up on his feet.
+
+Master Chief: "Thought I'd try shooting my way out - mix things up a little."
+The Chief takes Cortana's old data chip out of his helmet and holds it in front of her. Cortana touches its core and uploads herself into the chip, and the Chief inserts Cortana back, at long last, into his armor.
+
+Cortana: (jokingly exasperated) "Just keep your head down... There's two of us in here now, remember."
+{Gameplay}
+
+Nor Hell A Fury...Edit
+Shoot your way out.
+
+If the Chief continues to stay in the room Cortana was in.
+
+Cortana: (weakly) "Chief, get me out of this place. I... I don't want to stay."
+The Chief heads back up the hallway.
+
+Gravemind (Gravemind Moment): (roars) "Now, at last, I see! Her secret is revealed!"
+The Master Chief makes it back into the reactor room.
+
+Cortana: (weakly) "Wait, we need to buy some time. This reactor... start a chain reaction. Destroy High Charity."
+The Flood begin to swarm the reactor room, realizing the Chief's plan. However, he successfully destroys all three reactor pylons.
+
+Gravemind: (roars in pain)
+Cortana: "You hurt it, Chief. But not for long. We need to get to Halo - destroy the Flood once and for all."
+If the Chief takes too long:
+
+Cortana: "An explosion just made us an exit! I'll mark it on your HUD, Chief, go!"
+When the Chief reaches the halfway point escaping:
+
+Cortana: "Analyzing the route ahead... I have it mostly figured out. Just keep moving, I'll update your HUD as you go."
+Cortana: "Corridors ahead have all collapsed. I'll find another way, Chief; be careful."
+
+Cortana: "There, Chief, into the maintenance tunnel."
+The Chief finds his way back when...
+
+Cortana: "I've got a friendly contact! But who would be crazy enough to come in here?"
+Chief and Cortana find The Arbiter battling Flood with a Flamethrower. The Chief assists.
+
+Cortana: (amused) "Wait, you two made nice? What else have you been up to while I was gone...?"
+{Cutscene}[dead link]
+
+The Master Chief and The Arbiter find a Pelican, possibly from In Amber Clad, nearby and board it. The Chief uploads Cortana into the Pelican's holotank and starts up the engines. One of the Gravemind's tentacles advances to the Dropship, but the heat from the thrust forces it to retreat. The Pelican takes off, smoke pouring lightly from the left engine. The tentacle comes back and tries to wrap around the Dropship, but the Chief escapes its grip. The Pelican barely escapes from a massive explosion caused by the reactor going critical as High Charity is finally destroyed, and the Pelican makes its way to the new Halo ring.

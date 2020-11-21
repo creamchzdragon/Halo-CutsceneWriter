@@ -1,0 +1,89 @@
+Thel' Vadamee is seen arriving on a cliff face via teleporting from the Gravemind. The view shows a view of Delta Halo's Control Room. He then turns to his left and finds a conveniently-placed Plasma Rifle, lying on a rock stained with Sangheili blood, and readies himself on the path ahead.
+
+{Gameplay}
+
+Oh, So That's How it IsEdit
+Thel 'Vadam sees Brute Shot grenades going off in the distance, followed by Plasma Rifle bursts firing in the air
+
+Brute: "Weaklings!"
+'Vadam picks up an Energy Sword.
+
+Sangheili: (dying) "The Brutes have betrayed us... the Councilors..."
+'Vadam sees a Brute shooting at a dead Sangheili.
+Brute: "Let's just throw them over the edge!"
+Brute: "Where's the fun in that?"
+Another Brute approaches the two other Brutes.
+
+Brute "I already checked there!"
+Brute: "Just making sure..."
+'Vadam ambushes the Brutes and assassinates them.
+
+Brute Captain: (growls) "Go see what's taking them so long!"
+Brute Captain: (if spotted) "He's still just an Sangheili. Go! Kill him!"
+Or alternatively, if spotted:
+
+Brute: (sarcastically) So, you've come to save your friends!
+After 'Vadamee reaches the doors of a structure, a cloaked Special Operations Sangheili arrives from the door and helps 'Vadam to kill any remaining Brutes.
+
+Spec Ops Sangheili: "By the Prophets ... what have these Brutes done?"
+The Sangheili turns and looks at 'Vadam, then tightens his fist.
+
+Spec Ops Sangheili: "They have shed our brothers' blood... and for that, they must die!"
+Insertion Drop Pods land on the canyon, unveiling Sangheili reinforcements.
+
+Spec Ops Sangheili: "A Zealot! So much for a stealthy advance."
+Zealot Sangheili: "Bah! Over so soon?"
+If 'Vadam moves into the structure before the rest of the Sangheili reinforcements do..
+
+Zealot Sangheili: "Arbiter! Save some for the rest of us!"
+If 'Vadam waits until the reinforcements enter the structure.
+
+Zealot: "Make haste! There are more Brutes to kill!"
+Once the Sangheili clear the first room of the structure, they find a couple of Grunts running about. With their help, the Sangheili finish off the remaining Brutes, Jackals and Drones in the area.
+
+'Vadam and his allies enter the next room where several more Brutes take defensive positions.
+
+Zealot: "Ha ha! Long have I waited for this!"
+Brute: "Not all dead? Raise the alarms!"
+Later, 'Vadam finds a Grunt cowering in a corner. Sometimes, he will speak as follows:
+
+Cowardly Grunt: "Please ... no hurt! Me like Elites! Brutes stinky bad-bad! Me stay here, make sure no Brutes come behind mighty Arbiter!" (Chuckles nervously)
+As 'Vadam and the allies enter a hallway with dead Sangheili, Grunts, and weapons scattered about.
+
+Spec Ops Sangheili: (praying to dead Grunts and Sangheili) "Start the journey... be at peace."
+Alternatively:
+
+Spec Ops Sangheili: " ...And yet I live."
+or
+
+Zealot Sangheili: (sadly, kneeling over dead Unggoy) "He is no more."
+'Vadam and his allies go into another room, where more Covenant Loyalist forces await. The forces are easily defeated.
+
+The lance soon enters another room, with more Sangheili and Grunt corpses and scattered weapons. As the door to the outside opens, several Brutes and Jackals are taken by surprise as the Sangheili (and any remaining Grunts) charge at them.
+
+As the Sangheili head forward, more Brutes await and are soon eliminated. A few Ghosts are placed near the position. The Arbiter pilots one of them, and the Sangheili follow on foot.
+
+'Vadam takes the vanguard and surprise-attacks the nearby Brute camp head-on. The Sangheili follow, as a big battle takes place between Plasma Turrets, Ghosts and infantry.
+
+After clearing the Loyalist forces in the area, Jackals behind follow up to reinforce the camp, and after they are eliminated, 'Vadam and his allies follow up on the next camp, where a Grunt on a Plasma Turret aids the Covenant Separatists. A few more Brute-controlled Ghosts and a Spectre try to stop the Separatist forces with failure.
+
+A small Jackal camp awaits in the next area, and is easily taken care of by 'Vadam. Some Sangheili take the opportunity to pilot the Ghosts throughout the camp.
+
+Another Loyalist camp awaits with Power Cores placed at the front to stop the Separatists, and a few Jackal Snipers as support. The Separatist forces crush the defenses and rush through to the next area.
+
+Fight ClubEdit
+The next area is guarded by multiple Brutes and a few Wraiths. Once most of the area is cleared of Brutes, a few more Sangheili Drop Pods land, to reinforce the current Separatist pack.
+
+Inside a structure room, they find a cache of Human and Covenant weapons
+
+Sangheili: "What vulgar taste! Even as trophies, these weapons are worthless!"
+Vadamee and his allies get through the Brute forces and a Brute-controlled Ghost and enters a cave to find Jackals and another Brute-controlled Ghost.
+
+{Cutscene}
+
+'Vadam exits the last door. A Wraith approaches him slowly. Arbiter readies his weapon. The lid opens to reveal Rtas 'Vadum
+
+Rtas 'Vadum: "By the rings, Arbiter!? The Councilors! Are they -"
+Thel 'Vadam: "Murdered... By the Brutes."
+Rtas 'Vadum: "Vile, disloyal beasts! The Prophets were fools to trust them!"
+They see Phantoms fly over them. It stops above the platform of the Delta Halo Control Room. Tartarus lands from the gravity lift, with Commander Miranda Keyes and 343 Guilty Spark in captivity. Tartarus greets the Brute guards with growls. He enters, and the doors close behind him.

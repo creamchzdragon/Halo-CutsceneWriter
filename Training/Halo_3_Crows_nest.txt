@@ -1,0 +1,316 @@
+Crow's Nest Flight Controller: "Sorry for the tight squeeze. (to the other Flight Controller) Tell the Commander her ace is in the hole."
+Kilo 023 touches down. Medics load an injured marine on a stretcher and move. The Master Chief, Thel 'Vadam and Johnson get off. Marines sitting by the landing pad see the Chief get out of the Pelican.
+
+Marine #1: "Hey. Check it out."
+Marine #2: "No way! A Spartan?!"
+Marine #3 (Blind-by-injury): "For real? You better not be..."
+Marine #2: "No man, he's here! We're gonna be alright!"
+Lieutenant Commander Miranda Keyes comes out onto the Landing Pad to meet Johnson, 'Vadam and the Master Chief.
+
+Commander Keyes: "Where'd you find him?"
+Sergeant Johnson: "Napping. Out back."
+They salute, as she salutes back and smiles.
+
+Commander Keyes: "Hmm, I'll bet. It's good to see you Chief."
+Keyes shakes the Chief's hand.
+
+Master Chief: "Likewise, ma'am."
+Commander Keyes: "Let's get you up to speed."
+Down the hallways of the base, wounded Marines lay against the walls. Two Marines chatting to each other notice Commander Keyes and the Master Chief. They make way and salute.
+
+Commander Keyes: "The Prophet of Truth's ships breached the Lunar perimeter. Smashed what was left of the Home Fleet."
+As 'Vadam walks by, the Marines lower their hands and stare in astonishment.
+
+Commander Keyes: "Terrestrial casualties from the subsequent bombardment were..."
+Medics race by with an injured Marine on a stretcher. Johnson tends to an injured Marine.
+
+Commander Keyes: "...extreme. Truth could've landed anywhere, but he committed all his forces here. East Africa. The ruins of New Mombasa. Then, they started digging."
+Master Chief: "What about Halo?"
+Commander Keyes: "We stopped it, but only temporarily. Now, the Prophet of Truth is looking for something called 'The Ark', where he'll be able to fire all the Halo Rings. If he succeeds, Humanity, The Covenant, every sentient being in the Galaxy..."
+Master Chief: "The rings will kill us all."
+Technician: "Ma'am, I have Lord Hood."
+Commander Keyes: "Patch him through."
+Lord Hood appears on the main screen.
+
+Lord Hood (Video COM): "Good news, Commander Keyes?"
+Commander Keyes: "As good as it gets, sir."
+Lord Hood (Video COM): "So I see. What's your status, son?"
+Master Chief: "Green. Sir."
+Lord Hood (Video COM): "Glad to hear it. The Commander's come up with a good plan. But without you, I wasn't sure we could pull it off."
+Commander Keyes: "Truth's ships are clustered above the excavation site. And his infantry has deployed Anti-Aircraft Batteries around the perimeter. But, if we neutralize one of the batteries, punch a hole in Truth's defenses..."
+Lord Hood (Video COM): "I'll initiate a low-level strike. Hit 'em right where it hurts. I only have a handful of ships, Master Chief. It's a big risk. But I'm confident—"
+The power cuts completely.
+
+Technician: "Hell! Not again!"
+Commander Keyes: "Emergency generators! Now!"
+Marine Technician: "Shielding failed. They're down and charging."
+Commander Keyes: "As soon as they're up, re-establish contact with Lord Hood. Let him know that-"
+The Prophet of Truth suddenly appears on all the screens.
+
+Prophet of Truth (Video COM): "You are, all of you, vermin. Cowering in the dirt, thinking what, I wonder? That you might escape the coming fire? No. Your world will burn until its surface is but glass! And not even your Demon will live to creep, blackened from its hole to mar the reflection of our passage... the culmination of our Journey. For your destruction is the will of the gods! And I? I am their instrument!"
+
+The power returns.
+
+Sergeant Johnson: "Cocky bastard. Just loves to run his mouth!"
+Master Chief: "Does he usually mention me?"
+Commander Keyes thinks, and realizes Truth's meaning.
+
+Commander Keyes: "Give the order. We're closing shop."
+Marine Technician: "Ma'am?"
+Commander Keyes: "We're about to get hit."
+Marine Technician (COM): "All personnel! Defense code Alpha-one. Prepare for immediate evacuation!"
+Commander Keyes: "The wounded. We're getting them all out."
+Sergeant Johnson: "If I have to carry 'em myself."
+Marine Technician: "Ma'am, squad leaders are requesting a rally point. Where should they go?"
+Miranda walks up the stairs and draws a Pistol. She pulls the slide back.
+
+Commander Keyes: "To war."
+She lets go and moves on.
+
+{Gameplay}
+
+Know Your Role...Edit
+Perimeter breach.
+
+Marine Technician: "We just lost the Perimeter Cameras."
+Commander Keyes: "Motion Trackers?"
+Marine Technician: "They're down or we're not receiving. Can't tell."
+Commander Keyes: "Any of our birds squawking?"
+Technician: "No ma'am. Wait, Overwatch has contacts. Phantoms, closing in on our position."
+Commander Keyes: "Any birds less than five minutes out, bring them in. Tell everything else to scatter."
+Technician: "Aye aye."
+Technician: (whispering) "Who would've thought we'd have this many wounded?"
+Technician: "Pelicans are gonna take extra time to load."
+Commander Keyes: "We knew they'd find us eventually. But we have a plan, let's make it happen."
+All personnel: "Yes, sir!"
+Sergeant Johnson: "Arbiter and I will guard the Ops Center. Don't worry about the Commander, Chief. I got her. But the Marines downstairs could use your help."
+(Co-op Change) Sergeant Johnson: "Chief, move out. You too, Arbiter. The Commander will brief you as you go."
+
+The Master Chief meets with two Marines from downstairs.
+
+Marine: "Follow me, sir."
+Marine: "Perimeter's this way."
+(With IWHBYD Skull) Marine: "This base was built for some 20th century war, and it's pretty damn cool!"
+
+The Chief follows the Marines downstairs.
+
+Marine: "Come on, sir. I'll show you the way."
+The Chief finds many weapons to stock up on.
+
+Marine: "This base was built for some 20th-century war. It's full of old tech, like these door controls."
+The Marine opens the door. The Chief walks on through to find Marines in a large cave setting up defenses for the Ops Center.
+
+Gunnery Sergeant Reynolds: "Get those turrets up. You watch your fields of fire!"
+or
+
+Gunnery Sergeant Stacker: "Get those turrets up! Watch your fields of fire!"
+
+Marine 1: "How'd they find us?"
+Marine 2: "Probably just smelled you, man."
+Marine 1: "Hey, bite me. I'm sick of hiding anyways."
+Gunnery Sergeant (Reynolds or Stacker): "Quiet. Cut the chatter."
+Marine: "What is it, Sergeant?"
+Gunnery Sergeant (Reynolds or Stacker): "Calm before the storm, Marines. Enjoy it."
+The cave shakes.
+
+Gunnery Sergeant (Reynolds or Stacker): "Point of entry, best assessment?"
+Marine: "The hangar, Sergeant."
+Gunnery Sergeant (Reynolds or Stacker): "Agreed. Master Chief, get there."
+(Co-op Change) Gunnery Sergeant (Reynolds or Stacker): "Agreed. Chief, Arbiter. Get there."
+
+The Master Chief proceeds on, meeting up with two Marines.
+
+PFC Chips Dubbo: "We're with you, Chief."
+Marine: "Yeah, get some!"
+PFC Chips Dubbo: "Squad down in the hangar's real shorthanded, Chief."
+Marine: "If we don't get there quick, they're gonna get rolled."
+The Chief grabs some Fragmentation Grenades from a weapons case near the door, then opens it, and lets the Marines lead the way.
+
+Commander Keyes (COM): "Chief? Good, this channel is secure. My fire-teams are spread thin. We can't hold out forever. I need that hangar cleared for evac, ASAP."
+Marine: "Those Brutes secure the hangar; we won't be able to get our birds out."
+The Marines find the vehicle access. A Warthog is in battle with many Covenant soldiers. Grunts lob Plasma Grenades and destroy it. The Chief and accompanying Marines engage and win, pushing onward. They reach an open door heavily guarded and defeat the Covenant there and continue through into the narrow corridors.
+
+If the Master Chief continues to the end of the vehicle access, there is a Marine knocking on the door asking for the doorman to let him in. This is a Red vs Blue Easter Egg; the voices and the lines depend on the difficulty level. (See the Password-Lacking Marine)
+
+Soon the Chief and Marines reach the hangar.
+
+Marine 1: "Wipe those bastards off the deck!"
+Marine 2: "Pelicans can't launch until the hangar's clear!"
+The Chief and Marines on the offense secure the deck. Multiple Phantoms drop troops into the hangar, attempting to take it. From a distance, Hornets and Banshees are seen to be engaged in an aerial fight near a Cruiser which keeps supplying Covenant reinforcements to the base. The Chief and Marines take turrets and defend the hangar. The UNSC forces prevail. The Phantoms retreat and their troops fall.
+
+The Pelican hanging on a crane in one of the docks slides out and is released. The Dropship lands to evac the Marines in the hangar, while the Master Chief restocks on weapons and ammo.
+
+Pelican Pilot (if the Chief is in the way of where it lands): "Need you to step aside sir; can't land till you do."
+Sergeant Johnson (COM): "Chief, Ops Center. Double time! The Brutes are pressing hard."
+If you linger:
+
+Sergeant Johnson (COM):"Come on Chief, hustle on back!"
+The Chief heads back to the Ops Center. Marines pass by for evac. Back in the vehicle access, two Marines, staying behind until the next evac, hear sounds of Drones' wings beating and metal banging in the ventilation pipes.
+
+Marine 1: "Hey. You hear that?"
+Marine 2: "Yeah. And I don't like it."
+Commander Keyes (Loudspeaker): "Attention! Hostiles reported outside the barracks."
+The Chief heads back into the corridors, with the two Marines following.
+
+Commander Keyes (Loudspeaker): "Barracks are under attack! All available combat teams, respond!"
+The COM systems remain silent. The banging and fluttering noises continue on.
+
+Commander Keyes (Loudspeaker): "Anyone in the barracks, I need a sit-rep. Now!"
+The Master Chief meets with the Marines in the cave, defending the Ops Center.
+
+Marine: "Sir, this way."
+A Drone suddenly appears above him and picks him up. (The Drone can be killed before it picks up the Marine. If it does, he can still be saved by simply shooting the Drone, which will drop the Marine).
+
+Female Marine: "Look! Coming outta the vents!"
+A swarm of Drones starts pouring out the ventilation shafts, and engulfs the room.
+
+Marine: "Light 'em up! Light 'em up!!"
+Female Marine: "What the hell are these things, Sergeant?!"
+Gunnery Sergeant (Reynolds or Stacker): "Drones! A whole swarm! Take 'em down! Short, controlled bursts!
+The Marines open fire on the swarm. The Chief finds a turret and unloads on them. The swarm eventually falls. Marines in the Ops Center open the doors, letting the Chief in.
+
+Gift With PurchaseEdit
+Butchers in the barracks.
+
+The Master Chief meets with Johnson smoking a cigar and other defending Marines setting up an explosive device, but Thel 'Vadam isn't with them. (Single Player Only)
+
+Gunnery Sergeant (Stacker or Reynolds): "If I try to hook up a timer, it might just go off by itself."
+Commander Keyes (Video COM): "Johnson."
+Sergeant Johnson: "Mm-hmm?"
+Commander Keyes (Video COM): "You might wanna put that out."
+Johnson drops his cigar and stamps on it.
+
+Commander Keyes (Video COM): "Chief, have a look. A little going-away gift for the Covenant. We've linked it to smaller charges throughout the base. Johnson, soon as the evacuation is complete, start the timer."
+Sergeant Johnson: "Understood."
+Commander Keyes (Video COM): "Good luck everyone. See you on the last Pelican out."
+The feed disconnects.
+
+Johnson: "Follow me, Chief."
+(Co-op Change) Johnson: "Chief, Arbiter. Follow me."
+
+Johnson leads the Chief to the back of the room, guarded by four Marines, and a Weapons Locker sits by it.
+
+Sergeant Johnson: "Brutes have taken the barracks. Marines are trapped inside. Those apes ain't much for mercy, Chief. We both know what they do to prisoners."
+The Master Chief takes weapons and ammo from the locker.
+
+Sergeant Johnson: "Get to the barracks, save those men. Then escort them to the Landing Pad for evac."
+If you stay near the bomb:
+
+Sergeant Johnson: "I'll guard the bomb Chief, get yourself to the Barracks."
+The Chief heads through the corridor to the Motor Pool. While down there, he spots a Brute Pack, lead by a Brute Chieftain with a Gravity Hammer.
+
+Brute: "A fresh scent! Must be close."
+Brute Chieftain: "Spread out! Track it down!"
+The Brutes disperse; the Chief takes the pack and Chieftain head-on alone.
+
+After wiping the Brute Pack out, the Master Chief continues on through a corridor, but it's caved in. Finding a hole in the floor, he jumps down into a shaft, and at the bottom are several pipe entrances, which Drones fly in and out of.
+
+Cortana (Cortana Moment): "You have been called upon to serve."
+Master Chief jumps down through vertical shafts into a canal, where he finds Thel 'Vadam, fighting off another swarm of Drones.
+
+Thel 'Vadam: "Half-wit insects! The Prophets use you like they used me! Reject their lies! Rebel, or all your hives will perish!" (Single Player Only)
+After 'Vadam takes care of the Drones, he and the Chief regroup.
+
+Thel 'Vadam: "Spartan, the Brutes have taken your soldiers. As prisoners or meat for their bellies, I do not know. In case some yet live, let us be careful when we shoot."
+The Master Chief and 'Vadam head through the door, seeing a captive Marine thrown hard into a pillar, where multiple Marine corpses lie. The Marine dies and falls limply to the ground, and the Chief and 'Vadam rush in. One Marine being held by a Brute begs for mercy as it decides to kill him, too.
+
+
+Marine Prisoner: "No! Please!"
+Brute: "Look, it has soiled itself! These are whelps, not warriors!"
+If the camera is detached in theater mode, you can see that the barracks are filled with Brutes torturing Marines. For example, there is a Brute Captain holding a marine by the ankle.
+
+If the Chief fails to save him, the Brute breaks his spine and throws him on the ground behind him, laughing.
+
+If the Chief saves the Marine:
+
+Marine Prisoner: "That was close, too close."
+or
+
+Marine Prisoner: "Close, too damn close."
+The Chief and 'Vadam kill the Brutes and release the prisoners (optional). While the Marine rushes for a weapon, the Chief and 'Vadam save every prisoner they can.
+
+Thel Vadamee: "Again, the Brutes show their weakness."
+Gunnery Sergeant (Reynolds or Stacker): "Everyone on your feet! Grab a weapon!"
+Female Marine: "Payback time! OO-RAH"
+Taking out the Brutes, the surviving Marines grab weapons from more piles of corpses, taking a second to grieve for their comrades while the Chief and 'Vadam resupply and reload. They continue their rescue throughout the barracks, defeating the Brutes and rescuing (a maximum of) seven Marines, including a Sergeant.
+
+
+Thel 'Vadam: "We did all we could. Let us move the survivors to the landing pad. There is a lift outside."
+(Co-op Change) Gunnery Sergeant (Reynolds or Stacker): "You did the best you could, sir. Let's get the survivors up to the hangar. There's an elevator just outside the barracks."
+
+The Chief leads the survivors outside to the lift. He activates it and they wait for it to come down. While they wait, matters get worse.
+
+Sergeant Johnson (COM): "Commander, we lost the Ops Center. Brutes attacked in force. Couldn't hold them off. We're falling back to the hangar. But don't wait for us."
+Hocus (COM): "What should I do, ma'am?"
+Commander Keyes (COM): "Hold position! I'm not leaving without him."
+The Chief, 'Vadam and the Marines board the elevator back up to the flight deck. While heading up, Kilo 23 gets into trouble.
+
+Hocus: "Ma'am, I've got movement. Above and below. Brutes! They got jump-packs!"
+Commander Keyes (COM): "They're going after the thrusters. Shake them off, Lieutenant!"
+Kilo 23 takes off, getting out of the Brutes' reach. Noticing the Chief and 'Vadam, the Brutes attack them. After successfully retaking the flight deck, a door at the road below opens, and Johnson approaches them, holding an SMG. Seeing Johnson and his surviving squad at the doorway under attack from Drones, the Chief and 'Vadam assist.
+
+Sergeant Johnson: "Drones! Go! I'll cover you!"
+The few Drones are quickly eliminated. Kilo 23 returns for final evac. The barracks survivors and Johnson's squad board the Pelican dropship.
+
+Sergeant Johnson: "Brutes. In the Ops Center. They disarmed the bomb. Sorry Commander, there were too many. Even for me."
+Commander Keyes (COM): "Chief, get back to the Ops Center. Kill those Brutes. Rearm the bomb. I've gotta get these men outta here. But I'll radio with another exit. Good luck."
+Johnson and Thel 'Vadam board the Pelican. The Master Chief goes along the road Johnson previously came from, passing by destroyed Warthogs and dead Marines. (In Co-op, 'Vadam will accompany the Chief)
+
+Last One Out, Get the LightsEdit
+Bomb armed. Time to go.
+
+The Chief reaches a door at the end of the road.
+
+Cortana (Cortana Moment): "You will be the protectors of Earth and all her colonies."
+The Chief walks on through to another roadway, with Covenant Plasma Cannons set up. Using the Plasma Cannons and/or using all available cover, he gets back to the Motor Pool next door to the Ops Center.
+
+If the Chief is taking a while:
+
+Sergeant Johnson (COM): "Chief, follow the service tunnel to the Motor Pool."
+Sergeant Johnson (COM): "Head through the Motor Pool to get to the Ops Center."
+The Chief heads back up the corridor behind the Ops Center, and sneaks in and witnesses a Chieftain communicating with the Prophet of Truth using the Ops Center communications.
+
+Brute Chieftain: "We have taken their Command Center!"
+Truth (Video COM): "Have you discovered how they plan to stop me?"
+Brute Chieftain: (nervously) "Not just yet, Noble Prophet."
+Truth (Video COM): "Find out what I need to know, or your place on the path is forfeit. Tell me you understand!"
+Brute Chieftain: "Yes, Holy One. It shall be done."
+Truth disconnects from the screen.
+
+Brute Chieftain: "Have the Drones scour these machines! Find out what these heathens know about the Ark!"
+As the two Grunts and Brute Captains get busy, the Chief takes them by surprise and defeats them, taking back the Ops Center and the bomb.
+
+If the Chief waits around a bit.
+
+Sergeant Johnson (COM): "Hit the switch, Chief. Arm that bomb!"
+The Master Chief reactivates the bomb and the alarm sounds.
+
+Commander Keyes (COM): "That did it, Chief! Bomb's armed."
+Sergeant Johnson (COM): "We got your exit. A service elevator in the hangar. Head downstairs, cut through the caves!"
+The Chief heads back into the cave, where Grunts run wildly, then through the corridors.
+
+If the Chief takes his time:
+
+Sergeant Johnson (COM): "South hangar, straight through the caves Chief."
+Cortana (Cortana Moment): "There will be a great deal of hardship on the road ahead."
+He continues back out to the vehicle access, where Drones, some Jackals and Grunts flee, and back down the corridors to the hangar.
+
+Cortana (Cortana Moment): "You will become the best we can make you."
+The Chief gets to the hangar, where Phantoms flee, and Grunts run around in panic and some trying to catch the fleeing Phantom, holds up and looks miserable.
+
+Sergeant Johnson (COM): "There isn't much time, Chief. Find that elevator."
+If the Chief takes his time.
+
+Sergeant Johnson (COM): "Bomb's about to blow! Go, go, go!"
+If it takes the Chief more time to get to the elevator.
+
+Sergeant Johnson (COM): "Get on the elevator, Chief! You're out of time!"
+The Master Chief makes it to the service elevator, and activates it. The door doesn't fully shut. Something explodes and flames flicker through the gap.
+
+Cortana (Cortana Moment): "This place will become your home."
+The elevator descends. The Master Chief hears a massive boom. He looks up and sees the flames roar through the open door. The violent shaking disconnects the elevator and sends it plummeting down. It crashes and the Chief blacks out.
+
+Cortana (Cortana Moment): "This place will become your tomb."
+The screen goes black.
+
+Level ends.

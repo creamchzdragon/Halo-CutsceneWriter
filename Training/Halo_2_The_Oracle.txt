@@ -1,0 +1,168 @@
+A door slides open. Two Special Ops Elites cover the entrance with Plasma Rifles while Special Ops Grunts file in. The Elites cautiously advance, followed by Rtas 'Vadumee and Thel 'Vadamee. Rtas 'Vadumee pauses and sniffs the air.
+
+Thel 'Vadamee: "What is it?"
+Rtas 'Vadumee: "That stench...I've smelled it before."
+JuggernautEdit
+The assault team proceeds through a small room, where a large tank containing some small, floating, fleshy lifeforms can be seen. The team approaches a doorway, and through the transparent floor of the next room, they can see the shadows of Heretics and strange creatures battling. Eventually, all of the Heretics are killed. The victorious creatures have familiar screams...
+
+SpecOps Elite 1: "By the Rings. What is that?"
+SpecOps Grunt 1 or 2: (whimpers)
+SpecOps Elite 1: "Quiet."
+The creatures all leave through another doorway.
+
+SpecOps Elite 1: "It's moved on. Quickly, before it returns, let's find the Heretic Leader and finish him off."
+The team moves into a laboratory, strewn with deformed corpses.
+
+SpecOps Elite 2: "What happened here?"
+SpecOps Grunt 1: "Me have bad feeling about this."
+SpecOps Grunt 2: "You always have bad feeling! You had bad feeling about morning food nipple!"
+SpecOps Elite 2: "Close your jaws, or I shall bind them shut!"
+A floating orb enters the room, and the image of the Heretic Leader appears in the air.
+
+SpecOps Grunt 1: "See! Heretic!"
+The team fires on the image, which quickly becomes apparent as a hologram and nothing more.
+
+Rtas 'Vadumee: "Hold your fire. Hold your fire!"
+Sesa 'Refumee: "I wondered who the Prophets would send to silence me. An Arbiter... I'm flattered."
+Rtas 'Vadumee: "He's using a holodrone. He must be close. Come out, so we may kill you."
+Sesa 'Refumee: (laughs) "Get in line."
+The Heretic Leader vanishes, and moments later, familiar tiny bulbous creatures start to appear.
+
+SpecOps Elite 1: "Leader!"
+Rtas 'Vadumee: "Stand firm! The Flood is upon us!"
+The team battles the oncoming Flood Infection Forms. Unless the Combat Form corpses are destroyed, the Flood begin reanimating them.
+
+SpecOps Elite 2: "Heretic fools! What have they done?"
+The Flood assault subsides, and a doorway opens out of the labs.
+
+Rtas 'Vadumee: "Go, Arbiter! I'll follow when our reinforcements arrive."
+SpecOps Elite 1 or 2: (whispers) "This place is filled with the parasite, not even Heretics deserve this!"
+'Vadamee and the survivors ride an elevator down to the lower levels of the labs, fighting the Flood and Sentinels. They enter a hallway strewn with corpses.
+
+SpecOps Elite 1 or 2: "We should have brought weapons to burn these bodies. Every one is a potential vessel for the Flood."
+The team advances into a lab filled with battling Heretics and Flood.
+
+SpecOps Elite 1: "Heretics! Above!"
+'Vadamee manages to press outside to the exterior of the station. He sees Flood battling more Heretics, and a Phantom swoops in to provide reinforcements and covering fire.
+
+Phantom Pilot (COM): "Leader, the storm is about to hit! We cannot maintain our position!"
+Rtas 'Vadumee (COM): "Bring the Phantoms closer to the mine. We're not leaving until the leader of these Heretics is dead. Arbiter, the Flood have spread throughout the station! We don't have enough troops to manage such a large infestation. Find the leader of these Heretics, kill him now!"
+'Vadamee and his troops advance into the heart of the installation. They encounter the Heretic Leader fleeing.
+
+SpecOps Grunt 1: "Heretic boss! You see, you see?"
+Sesa 'Refumee takes cover behind a shielded door before 'Vadamee can catch him.
+{Cutscene}
+
+Sesa 'Refumee: "This will save me from the storm, but you will be consumed."
+'Vadamee pounds angrily on the portal, but cannot break through as the doors seal. The SpecOps Commander and his troops arrive.
+Rtas 'Vadumee: "Arbiter, where is he? Stinking Floodbait boxed himself in tight. We'll never break through this!"
+'Vadamee notices a hologram of the station, and watches it thoughtfully.
+Thel 'Vadamee: "Then we shall force him out."
+Rtas 'Vadumee: "How?"
+Thel 'Vadamee: "The cable. I'm going to cut it. (turns to Rtas 'Vadumee) Get everyone back to the ships!"
+{Gameplay}
+
+Rtas 'Vadumee: "Warriors, return to the landing zone! The Arbiter is going to continue upward, cut this station loose, and scare the Heretic from his hole!"
+SpecOps Elite 1: "May our Lords guide you."
+SpecOps Elite 2: "We shall not forget your sacrifice."
+If you have an Energy Sword already
+Rtas 'Vadumee: "Keep your blade handy. I doubt the cable can withstand its bite."
+If you do not have an Energy Sword
+Rtas 'Vadumee: "Take my blade. I doubt the cable can withstand its bite."
+Hey, Watch This!Edit
+'Vadamee rides the elevator to the upper level where the cable is located.
+
+Rtas 'Vadumee (COM): "All of my Phantoms are in the air, Arbiter. Go ahead, cut that cable!"
+If you spend too much time fighting
+
+Rtas 'Vadumee (COM): "Sever the cable at the points where it connects to the structure!"
+After cutting the first cable
+
+Rtas 'Vadumee (COM): "That's one! By the Prophets, look at the station list!"
+After cutting the second cable
+
+Rtas 'Vadumee (COM): "One final cable, Arbiter!"
+'Vadamee cuts the final cable, and the entire station groans with the stress. All the Flood and Sentinels present stop their fighting and look upward towards the cable. The top of the station tears away, and it plummets into the atmosphere. The remaining Sentinels, if any, were swept out into the sky.
+
+Rtas 'Vadumee (COM): "That did it! The station is in free fall! The Heretic Leader is on the move, do not let him escape! We'll stay with you as long as we can!"
+Thel 'Vadamee drops back down into the station and advances past Heretics protecting the Heretic Leader's rear.
+
+Heretic Elite: "Our lives for the truth, the truth and the Covenant!"
+'Vadamee enters what looks like the main power generator for the station.
+
+Rtas 'Vadumee (COM): "Are you still alive, Arbiter? We're keeping pace as best we can."
+The Heretic Leader escapes via a Banshee and cuts across the station. Thel 'Vadamee pursues in one of his own.
+
+Rtas 'Vadumee (COM): "What lunacy! He'll never escape this maelstrom in a Banshee! Wait! The hangar, there was a Seraph fighter inside! Arbiter, you know what to do!"
+{Cutscene}
+
+The Arbiter fires at the Heretic Leader's Banshee as it flies away, then dodges as the Banshee fires at him in return. The Arbiter dashes out, and get inside another Banshee and pursues the Heretic.
+
+{Cutscene}
+
+The Arbiter's Banshee tries to land on a platform, but fails and crashes into it instead. The Arbiter holds on to the edge of the platform, raises himself up, and continues to go inside.
+
+Dead Or Alive...Actually, Just DeadEdit
+'Vadamee fights through the first portion of the station back toward the hangar. There, he confronts the Heretic Leader as he is boarding the Seraph.
+
+{Cutscene}
+
+Thel 'Vadamee: "Turn, heretic."
+The Heretic Leader turns to face the Arbiter
+
+Sesa 'Refumee: "Arbiter. I would rather die by your hands than let the Prophets lead me to slaughter."
+Thel 'Vadamee: "Who has taught you these lies?"
+A familiar humming is heard. The Arbiter looks up and sees 343 Guilty Spark descending from above.
+
+Thel 'Vadamee: (shocked) "The Oracle!"
+343 Guilty Spark: "Hello! I am 343 Guilty Spark. I am the Monitor of Installation 04."
+Sesa 'Refumee: "Ask the Oracle about Halo. How they would sacrifice us all for nothing!"
+343 Guilty Spark: "More questions? Splendid! I would be happy to assist you."
+Any questions are cut off as the Heretic opens fire on 'Vadamee with twin Plasma Rifles. 'Vadamee falls back, taking cover while his shield generator recharges. As he does so, the Heretic Leader floats back toward the Seraph and pulls out two holodrones.
+
+Sesa 'Refumee: "The Elites are blind, Arbiter ... but I (holds up two Holodrones) ... will make them see."
+The Heretic Leader releases the drones, which become copies of him. They turn to look at the Arbiter.
+
+{Gameplay}
+
+'Vadamee battles the Heretic Leader.
+
+If the player activates their Active Camouflage:
+
+Sesa 'Refumee: "Arbiter! Show yourself!"
+During the battle, the Heretic Leader will continue to taunt Thel 'Vadamee.
+
+Sesa 'Refumee: "How did the Prophets buy your loyalty Arbiter? With a new command, a new fleet,...or was it the promise ... their "Great Journey"?"
+Sesa 'Refumee: "Look around you, Arbiter. This facility and dozens like it resulted in the study of the Parasite, but where are the weapons, Arbiter? What was the result? All that time and effort and the best the Forerunners could do was put these foul creatures on ice."
+Sesa 'Refumee: "And now where are these "Gods" the Prophets would have us worship! Transcended? (laughs)... Hardly. (intending on killing the Arbiter) Come, Arbiter, let me show you where they went."
+343 Guilty Spark will also talk to Thel 'Vadamee throughout the battle.
+
+343 Guilty Spark: "This mining facility predates Installation Alpha by several hundred years. It was retrofitted to research possible offensive and defensive measures against the Flood. Indeed, I designed and oversaw the construction of this facility's various outbreak management systems."
+If you continue the fight long enough
+
+343 Guilty Spark: "The cable on top of this mine was designed as a fail safe in case an outbreak took place. I am glad someone had the foresight to cut it!"
+343 Guilty Spark: "Fortunately, all the Flood on this installation will perish once this facility enters the planet's nitrogen core."
+If you miss Sesa 'Refumee with your shots
+
+Sesa 'Refumee: "I see the Prophets have chosen poorly, Arbiter!"
+If Sesa 'Refumee kills you
+
+Sesa 'Refumee: "Come, Oracle, we have much work to do."
+After the Arbiter kills the Heretic Leader:
+
+{Cutscene}
+
+'Vadamee has killed the Heretic Leader and is dragging his corpse to the hangar door.
+
+343 Guilty Spark: "Unfortunate. His edification was most enjoyable."
+Thel 'Vadamee: "I had no choice, Holy Oracle. This Heretic imperiled the Great Journey."
+343 Guilty Spark: "Oracle? Great Journey? Why do you meddlers insist on using such inaccurate verbiage-ohhhhh myyyyy!!!!!"
+343 Guilty Spark is snatched by an unseen force and pulled away. He is dragged through the air, directly to the top of the Fist of Rukt, the gravity hammer of Tartarus. Tartarus, standing beneath a Phantom, pulls 343 Guilty Spark off the end of his hammer.
+
+Thel 'Vadamee: (disbelievingly) "That... is the Oracle!"
+Tartarus tosses 343 Guilty Spark into the Gravity Lift casually.
+
+Tartarus: (indifferently) "So it is. Come, we are leaving this system."
+Fades to black.
+
+Level ends.

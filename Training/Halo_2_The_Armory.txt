@@ -1,0 +1,117 @@
+A Master Gunnery Sergeant inspects the Master Chief's new armor.
+
+Master Gunnery Sergeant: "Well, I guess it was all obsolete, anyway."
+Master Gunnery Sergeant: "Your new suit's a Mark VI, just came up from Songnam this morning. Try and take it easy till you get used to the upgrades."
+Master Gunnery Sergeant: "Okay, let's test your targeting, first thing. Please look at the top light."
+Once the Chief does as he's told
+
+Master Gunnery Sergeant: "Good. Now look at the bottom light."
+Once the Chief does as he's told
+
+Master Gunnery Sergeant: "Alright. Look at the top light again."
+Once the Chief does as he's told
+
+Master Gunnery Sergeant: "That's it. Now the bottom one."
+Once the Chief does as he's told
+
+Master Gunnery Sergeant: "Okay."
+If the Chief doesn't pass the first diagnostic test.
+
+Master Gunnery Sergeant: "Tracking looks sketchy, I'm gonna run you through the full diagnostic. The diagnostic software sets your targeting system to be normal. Go ahead and look at the four lights, Chief. You want me to leave it like that, or make it inverted?"
+If the Chief wants it to be Inverted as selected.
+
+Master Gunnery Sergeant: "Okay, now it's inverted. Go ahead and target 'em one more time. Should I leave it inverted, or put it back to normal?"
+If the Chief wants it back to Normal as selected.
+
+Master Gunnery Sergeant: "Okay, now it's back to normal. I'll leave your targeting set to normal. If you change your mind, you can switch the setting anytime."
+Once diagnostic tests are complete.
+
+Master Gunnery Sergeant: "Stand by. I'm gonna offline the inhibitors. Move around a little, get a feel for it. When you're ready, come and meet me by the zapper."
+If the Chief explores the armory, jumping, and hitting stuff about.
+
+Master Gunnery Sergeant: "Hey, take it easy!"
+or
+
+Master Gunnery Sergeant: "Careful, you'll pull a tendon doing that!"
+or
+
+Master Gunnery Sergeant: "Fine, but don't come cryin' to me when you rip your leg out of its socket."
+The Master Chief moves over to the shield recharge station.
+
+Master Gunnery Sergeant: "Pay attention, 'cause I'm only going over this once. This station'll test your recharging energy shields. Step on in, I'll show ya."
+If the Chief looks away from him.
+
+Master Gunnery Sergeant: "Over here, Chief. Focus."
+If the Chief keeps looking away from the Sergeant.
+
+Master Gunnery Sergeant: "This is important. You could at least look at me when I explain it."
+or
+
+Master Gunnery Sergeant: "I'm talkin' to you Chief. Look at me."
+or
+
+Master Gunnery Sergeant: "I know you Spartans think you know everything, but it couldn't hurt you to at least look this way."
+or
+
+Master Gunnery Sergeant: "Look, just 'cause the brass kisses your ass don't mean I will. Look at me when I talk to you."
+The Chief steps in the station.
+
+Master Gunnery Sergeant: "Your new armor's shields are extremely resilient, very efficient. Much better than the Covenant tech we used for the Mark V."
+If the Chief waits.
+
+Master Gunnery Sergeant: "Are you listenin' to me?"
+Master Gunnery Sergeant: "Step into the red square Chief, and we'll get started."
+If the Chief keeps waiting over and over again.
+
+Master Gunnery Sergeant: "Chief, stand in the red square."
+Master Gunnery Sergeant: "You have to stand in the red square before we can start the test."
+Master Gunnery Sergeant: "Go ahead and stand in the red square. It'll just take a minute."
+Master Gunnery Sergeant: "Come on, son. Step into the red square."
+If the Chief steps into the red square but stalls and doesn't press the switch.
+
+Master Gunnery Sergeant: "Go ahead and press the red switch to start the shield test."
+If the Chief doesn't do as he's told and waits.
+
+Master Gunnery Sergeant: "Just place your hand on the touch-pad to activate the switch."
+Master Gunnery Sergeant: "Hit the switch! It won't hurt... much."
+Master Gunnery Sergeant: "Go ahead and use that switch in front of you."
+Master Gunnery Sergeant: "The switch right in front of you will start the shield test."
+Master Gunnery Sergeant: "It's a switch. You press it."
+The Chief presses the red switch. The machine zaps the Chief's shields, and they slowly recharge.
+
+Master Gunnery Sergeant: "Bingo! As you can see, they recharge a lot faster!"
+The elevator door opens, and a Sergeant, known as Sergeant Johnson, steps out wearing a dress uniform.
+
+Master Gunnery Sergeant: "If your shields go down, find some cover, wait for the meter to read fully charged."
+Sergeant Major Johnson: "That, or he can hide behind me. You done with my boy here, Master Gunns? I don't see any training wheels."
+Master Gunnery Sergeant: "His armor's working fine, Johnson, so shut your chili-hole. You're free to go, son, just remember, take things slow."
+Sergeant Johnson: "Don't worry, I'll hold his hand."
+If the Chief stalls
+
+Sergeant Johnson: "C'mon, Chief. They're waiting for us on the bridge."
+If the Chief continues to stall again and again.
+
+Sergeant Johnson: "Get on the lift, Chief. We're gonna be late."
+Sergeant Johnson: "I don't want to keep the brass waiting, Chief."
+Sergeant Johnson: "Fine, you can tell Lord Hood why we're late!"
+Sergeant Johnson: "Get your shiny green posterior on this elevator!"
+Sergeant Johnson: "Would it help if I said, "Please"?"
+Note that the above statement triggers the Unnamed Skull on Legendary.
+
+The Master Chief enters the elevator.
+
+Master Gunnery Sergeant: "So, Johnson, when you gonna tell me how you made it back home in one piece?"
+Sergeant Johnson: "Sorry, Gunns. It's classified."
+Master Gunnery Sergeant: "Huh! My ass! Well, you can forget about those adjustments to your A2 scope! And you're surely..."
+The doors close and the elevator rises.
+
+Sergeant Johnson: (sarcastically) "Well, he's in a particularly fine mood. Maybe Lord Hood didn't give him an invitation."
+The elevator stops, the doors open and the Chief and Johnson get out to board a small tram. It starts to move, with a view of the crew of the Cairo Station going about their business and a backdrop of windows displaying the station and the stars. The planet Earth comes into view. As the tram starts moving, Sergeant Johnson comments on the things passing by the windows.
+
+Sergeant Johnson: "Earth... haven't seen it in years. When I shipped out for basic, the Orbital Defense Grid was all theory and politics. Now look! The Cairo is just one of three hundred geosync platforms. That MAC gun can put a round clean through a Covenant capital ship. With coordinated fire from the Athens and the Malta, nothing's getting past this battle cluster in one piece."
+Several UNSC ships drift past the station.
+
+Sergeant Johnson: "Ships have been arriving all morning. Nobody's saying much, but I think something big's about to happen."
+The tram stops, and they walk out to join a crowd of cheering Marines.
+
+Level ends.

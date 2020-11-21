@@ -1,0 +1,111 @@
+It is a night sky: several bright pinpoints of white light, stars, hang in the center. It's a tranquil forest, with lush forestry and a winding river. Then, Cortana's voice begins whispering in voice-overs.
+
+Cortana (V.O.): "They let me pick. Did I ever tell you that? Choose whichever Spartan I wanted."
+Cortana (V.O.): "You know me. I did my research. Watched as you became the soldier we needed you to be."
+As the camera pans down, something comes into view entering the atmosphere, trailing flames splitting the night sky. Although it is not recognizable at this time, it is the Prophet of Truth's Dreadnought.
+
+Cortana (V.O.): "Like the others, you were strong and swift and brave. A natural leader."
+The fireball comes nearer, at an oblique angle to the camera.
+
+Cortana (V.O.): "But you had something they didn't. Something no one saw, but me."
+A second, lesser fireball breaks off from the main one. It moves at an oblique angle to the first, which is to say, towards the camera. It moves closer while the first vanishes behind a spray of trees.
+
+Cortana (V.O.): "Can you guess?"
+The object moves even nearer, and its trajectory begins to curve until it is heading directly for the camera.
+
+Cortana (V.O.): "Luck."
+The fireball roars past the camera and smashes into the ground with an earth-shattering impact. For a moment, we can see that the area is a jungle, quiet and peaceful, and now, full of light and sound. Cortana's last words are tinged with humor.
+
+Cortana (V.O.): "Was I wrong?"
+Fades to black.
+
+Pan down on the same forest, but now it's early morning, with the sun streaming through the trees onto the smoking ruin where the object hit ground. In the foreground, an armored gauntlet is visible. In the background, several Marines move around; First Squad. The one in the back wears a Sergeant's cap. The Marines of First Squad anxiously observe an object just below the camera position. A dread silence permeates the jungle.
+
+Marine #1: "This ain't good."
+Marine #2: "Damn. How far did he fall?"
+The Sergeant in the hat turns around and takes a long drag on his cigar.
+
+Marine #3: "Two kilometers, easy."
+The Sergeant blows out smoke. It is none other than Sergeant Major Avery J. Johnson.
+
+Sergeant Johnson: "Stay sharp!"
+The Marines move closer to the object while one aims his gun to the left then the right of the camera looking for any sign of the enemy. For the first time, we can see that it is the Master Chief. He lies at one end of his own personal crater, the result of falling about two kilometers. Despite the motionlessness of the man inside, the armor is neither scratched nor singed, apart from a large scrape across the upper right of the chestplate. The Chief lies in an odd position, like a dropped statue; the figure is still; hands raised awkwardly. The Spartan is still and silent. The Marines move closer to the Chief, taking up combat positions. One sits down beside him and takes out a small computer.
+
+Sergeant Johnson: "Corpsman?"
+Marine Corpsman: (doubtfully) "His armor's locked up. Gel layer could have taken most of the impact..."
+He taps something in on the computer. With a hiss, the Chief's outstretched arms collapse onto his chest. The Marine checks for vital signs. No readings.
+
+Marine Corporal: "I don't know, Sergeant Major."
+Johnson kneels by the side of his fallen friend and places a hand on his chest, feeling for breath, or any sign that the man is alive. He inadvertently breathes smoke into the Chief's face. After a few seconds, he sighs sadly, reaches behind the Chief's head and pulls Cortana's empty chip out of his helmet.
+
+Sergeant Johnson: "Radio for VTOL, heavy lift gear. We're not leaving him here."
+An armored hand reaches up and grabs his wrist. It is the Master Chief's.
+
+Master Chief: "Yeah. You're not."
+He pushes himself slowly to his feet.
+
+Sergeant Johnson: (gives off a small sigh of relief) "Crazy fool! Why do you always jump? One of these days, you're gonna land on somethin' as stubborn as you are! And I don't do bits and pieces!"
+The Chief says nothing. Instead, he reaches down and takes Cortana's chip from the Sergeant's hand and lets go of his arm.
+
+Sergeant Johnson: "Where is she, Chief? Where's Cortana?"
+The Chief stares at the data crystal, and for a second, Cortana's face flashes across the screen, along with an echo from the previous game.
+
+Cortana (V.O.): "Don't make a girl a promise... if you know you can't keep it."
+Johnson gives him a confused look.
+
+Master Chief: "She stayed behind."
+The Chief inserts the chip into the port at the back of his helmet.
+
+Sergeant Johnson: "Corporal? Make it quick."
+Marine Corporal: "Sorry, sir. (to Master Chief) Your armor's still in partial lockdown."
+{Gameplay} (Note: This sequence only appears if playing on Single Player and on Normal or Easy.)
+
+The Corporal gives him a screen with a red light.
+
+Marine Corporal: "Look up here, sir."
+It goes green when the Master Chief looks at it.
+
+Marine Corporal: "Okay. Now down here."
+If the calibration doesn't work:
+
+Marine Corporal: "Tracking looks off, Sergeant Major."
+Sergeant Johnson: "Make it quick, we've got to move."
+Marine Corporal: "Up here sir."
+The Chief looks up.
+
+Marine Corporal: "Again, down here."
+The Chief looks down.
+
+Marine Corporal: "Good." (to Johnson) Everything checks out, Sergeant Major."
+Sergeant Johnson: "Kick off the training wheels, Corporal. He's good to go."
+CutsceneEdit
+The Chief looks around, taking in his surroundings. Somewhere near him is a familiar sight... the heat-wave effect of a Covenant Active Camouflage. Johnson gives it a nod. An Elite decloaks, revealing itself to be the Arbiter, Thel 'Vadam. The Master Chief moves with fluid grace, brushing aside Johnson and another Marine next to 'Vadam, drawing Johnson's pistol from its holster.
+
+Sergeant Johnson: "Chief, wait!"
+The Master Chief jams the pistol between 'Vadam's mandibles.
+
+Sergeant Johnson: "The Arbiter's with us!"
+'Vadam glares at the Master Chief, showing no sign of discomfort or making any move to point the gun away from himself. The Chief hesitates to lower his gun.
+
+Sergeant Johnson: "Come on now."
+Johnson grabs the Chief's shoulder.
+
+Sergeant Johnson: "We got enough to worry about without you two tryin' to kill each other!"
+The Spartan slowly lowers his gun. 'Vadam clacks his mandibles together: a shrug.
+
+Thel 'Vadam: "Were it so easy."
+Thel Vadam makes to move past the Master Chief, but the Spartan pushes him back, and 'Vadam turns and walks away.
+
+Thel 'Vadam: "We must go. The Brutes have our scent."
+Sergeant Johnson: (Easy/Normal) "Then they must love the smell of green."
+Sergeant Johnson: (Heroic) "Then they must love the smell of hero."
+Sergeant Johnson: (Legendary, variant 1): "Then they must love the smell of bad ass."
+Sergeant Johnson: (Legendary, variant 2) "Then they must love the smell of bad ass. And I left a little present for you, Arbiter. And I'm walking away. Ha-ha-ha!"
+Sergeant Johnson: (Legendary, variant 3) "Then they must love the scent of testosterone."
+Sergeant Johnson: (Legendary, variant 4) "Then they must love the scent of a real man."
+Sergeant Johnson: (Legendary, variant 5) "Then they must love the smell of Bvlgari. Yeah, I'm doing a little product placement! I gotta get paid, too!"
+He grabs an Assault Rifle from a nearby Marine and holds it out to the Chief. Swiftly, the Spartan snatches it, as if annoyed by 'Vadam.
+
+Fades to black.
+
+Level ends.

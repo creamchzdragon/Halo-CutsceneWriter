@@ -1,0 +1,192 @@
+Military Operations Urban Terrain.
+
+{Gameplay}
+
+A convoy of three Warthogs: two M831 TT Warthogs and one M12 Warthog LRV roll down a tunnel of Tsavo Highway, with the Chief riding shotgun in the LRV. (On co-op, Thel 'Vadam and N'tho 'Sraom ride shotgun on the TTs, but Usze 'Taham uses the Turret of the Warthog the Master Chief is riding on).
+
+Commander Miranda Keyes (COM): "Chief, the Prophet of Truth has found the Ark. Our only chance of stopping him is a surprise aerial assault. Clear this sector of Covenant anti-air defenses. Make a hole for the Admiral’s ships. Good hunting. Keyes out."
+The Warthogs emerge from the tunnel in a parking lot scattered with destroyed Warthog chassis and Marine and Grunt corpses. The Warthogs roll to a halt as the Marines and Master Chief walk out, and the Marines form a perimeter outside the locked door.
+
+Gunnery Sergeant Reynolds: "Ready when you are, Chief. Open the door and take point. We’ll cover you with the .50."
+or
+
+Gunnery Sergeant Pete Stacker: "Ready when you are, Chief. Open the door, take point, we'll cover you with the .50!"
+The Master Chief opens the door into an empty factory section and then into a next section with Covenant. An M12 Warthog LRV and a sqaud of Marines follow him in.
+
+Prophet of Truth (Hologram): "With my gentle encouragement, our Lords' holy relic springs to life. It is unfortunate that our enemies also bear witness to its glory. But soon their dull eyes will be closed; seared by the Rings' unforgiving might."
+Sergeant Stacker: "Chief, open the door; we can roll on through!"
+A set of doors is opened, leading to a factory tunnel full of Brutes, Jackals, Grunts, and even a pair of Ghosts. Beyond that is another door that will lead to Lake Bed A. After cleansing the tunnel, the UNSC forces open the next door, revealing a massive expanse with cruising Ghosts and a heavy Covenant garrison.
+
+Lord Hood (COM): "Kilo 23, this is Forward Unto Dawn. I need a sit-rep, Commander."
+Miranda Keyes (COM): "Atmospheric disturbances is intensifying above The Artifact, Admiral."
+Lord Hood (COM): "And Sierra-117?"
+Miranda Keyes (COM): "Moving as fast as he can, sir. I know he’ll get it done."
+A Phantom deploys a standard Wraith at the far side of the lake bed.
+
+After the Anti-Aircraft Wraith in the nearby area is destroyed.
+
+Hocus (COM): "Hell yeah! Boom! The Fly Boys are gonna love us for that!"
+Sergeant Major Avery Johnson (COM): "That-a-way, Chief! Target destroyed. Move to the next area, over."
+Master Chief and the remaining Marines exit the lake bed into the confines of the factory again, where a War Chieftain wielding a plasma turret and his attendant Brutes, Jackals, and Grunts have a pair of Marines pinned down in the adjacent section.
+
+Marine: "They just keep coming!"
+Female Marine: "Check your fire! It’s the Chief! Flush ‘em out, sir. We'll nail them with the .50."
+After the Chieftain and his troops are killed by the Chief and Marines:
+
+Marine: "We’ve made a hole. Hurry, before any more Covenant show up!"
+If the Master Chief brought the Warthog from the last section:
+
+Marine: "Hey! We got a hog!"
+The Marines defending the warehouse open the door. The Chief and accompanying Marines head through.
+
+Female Marine: "We're down to our last mags, sir. Thought those last ones had us."
+Marine: "We've got a Phantom, overhead!"
+A Phantom hovering overhead above a glass roof frightens the Marines a little. The Master Chief and Marines quickly move to the next section as the glass roof shatters and a horde of Drones descend. Eventually they are fought off and the Master Chief and Marines enter the next factory tunnel section.
+
+Cortana (Cortana Moment): "I have defied Gods and Demons..."
+At the end of the tunnel are four Mongoose vehicles, next to a rack of weapons. Marines rush to man the ATVs.
+
+Female Marine: "Mount up, Rockets in back!"
+The Chief opens the tunnel's door.
+
+Female Marine: "Gotta move fast, and punch hard!"
+The Chief takes a Mongoose {or can take any other vehicle of choice} and joins the Marines in the assault on the Anti-Air Wraiths in the neighboring lake bed. While a small squad of Marines are pinned down on the boardwalk on the northern side of the lake bed, Covenant vehicles mill in the center.
+
+Sergeant Johnson (COM): "We’ve got Anti-Air Wraiths in the next lake bed, Chief!"
+The ATV's quickly take out the first Anti-Air.
+
+Marine: "One down, one to go!"
+A few Choppers along with Phantoms carrying Ghosts overwhelm the lake bed with Banshees above. The second Anti-Air Wraith is taken out. The ATVs, Hornets, and Missile Pods eventually clear the lake bed of Covenant resistance.
+
+Sergeant Johnson (COM): "Both AA Wraiths have been neutralized...standby. Something big, closing in on your location."
+JudgmentEdit
+Scarab. BFG. End of World.
+
+There is the booming of the anti-aircraft emplacement in the distance, but also an ominous mechanical grinding noise.
+
+PFC Chips Dubbo (COM): "What's that sound?"
+The booms and grinding get louder.
+
+Chips Dubbo (COM): "It’s getting closer!"
+Marine (COM): "Oh, this can't be good man..."
+Sergeant Major Avery Johnson (COM): "Scarab! Find some cover. Now!"
+A massive Scarab walker lumbers down from the roof of the factory onto the lake bed, and dust rises as its legs slam into the ground, destroying a Troop Transport Warthog in the process. Marine vehicles and a pair of Marine-manned Missile Pod turrets open up in volleys.
+
+Marine: "Use rockets! Target its joints!"
+If the Chief waits around:
+
+Sergeant Johnson (COM): "Its armor's too thick!"
+or
+
+Sergeant Johnson (COM): "Aim for its legs, Chief!"
+If the Chief wastes more time:
+
+Sergeant Johnson (COM): "Jump on top of it Chief, just like New Mombasa."
+The Chief, Marines, and Missile Pod emplacements eventually take out one of the Scarab's joints, forcing it to lower and consume all power into getting back up again, and deactivating its primary weapon.
+
+Marine: "Now, while it's down! Find a way inside!"
+Once the Chief boards the Scarab.
+
+Sergeant Johnson (COM): "Look for something big...power core, something like that."
+On the upper deck of the Scarab, several Brutes, Jackals and Grunts await the Chief, forcing the Chief to kill anyone in his path.
+
+If the Chief stays on the Scarab for a while.
+
+Sergeant Johnson (COM): "Look for the core, Chief. You'll know it when you see it."
+The Chief finally finds and overloads the power core.
+
+Chips Dubbo (COM): "Get away! It's gonna blow!"
+The Chief jumps off the Scarab and runs for it. The Scarab detonates violently.
+
+Miranda Keyes (COM): "Well done, Chief! I’m sending in a few Pelicans."
+Sergeant Johnson (COM): "One more target, Chief. There’s a Covenant AA gun in the next area. Take it down and Lord Hood can start his attack run."
+A Pelican lands, deploying Thel 'Vadam. The surviving Marines lead 'Vadam and Master Chief to a locked door leading to the factory's warehouse.
+
+Thel 'Vadam: "There was honor in our Covenant once...and there shall be again!"
+Female Marine: "We've got this area locked down, sir. Follow us, we’ll get you through."
+The door opens up, leading to a dirty tin-walled section filled with wounded Marines and civilians laying on the floor. Several grim-faced Marines are standing behind sandbags, tending to the wounded, and operating the sole UNSC field radio available.
+
+Cortana (Cortana Moment): "I am your shield. I am your sword."
+Wounded Marine: "Ahh! Somebody, get me some morphine!"
+Voices begin to play through the radio and are attentively monitored by a pair of Marines operating it.
+
+Naval Officer (COM): "All Brute cruisers are pulling back to Truth’s ship. Winds inside the storm just hit 200 kilometers per hour. Energy cascades all over the artifact!"
+There is a moderate pause within the radio conversation, before another starts between Commander Keyes and Lord Hood. This conversation foreshadows the very end of the last cutscene in the level.
+
+Miranda Keyes (COM): "Admiral, a single Covenant ship has slipped in-system!"
+Lord Hood (COM): "Just one? What's its range and disposition?"
+Miranda Keyes (COM): "Above the artifact, inside the orbital line. Seems to be holding steady."
+Lord Hood (COM): "The attack proceeds as planned, Commander. We’re not going to get another shot at Truth."
+Miranda Keyes (COM): "Sir. Yes, sir."
+The Master Chief and Thel 'Vadam pass through a stained area of bolted tin plates until they reach the periphery of the warehouse, where a trio of Marines are pinned down under sandbags as Spiker projectiles fly through the air. Farther forward is a steel bridge where a pair of Marines frantically open fire on Brutes all around them with a Heavy Machine Gun.
+
+Marine: "We’ve got company!"
+After the Brutes between the sandbags and the bridge are killed by the UNSC forces, another group of Brutes charges from the next section, chasing two Marines.
+
+A surviving Brute from the previous wave tries to warn the charging Brutes of the impending doom but is too late.
+
+Brute: No, fall back!
+They then run towards the bridge and a Marine fires the bridge-mounted turret.
+
+Marine: "Hold the line! Enemy charging!"
+Thel 'Vadam: "Be careful!"
+After the next wave of charging Brutes is killed.
+
+Master Chief, 'Vadam, and surviving Marines make their way into the next section, where behind a mass of stacked crates a Brute violently throttles a construction worker. Three other workers armed with Pistols flee from the Brute and his pack. The throttling Brute roars out.
+
+Brute: "Kill them for honor!"
+Construction Worker: "Get to safety!"
+After the current group of Brutes are killed:
+
+The next section is littered with civilian corpses and a few live Factory Workers cowering in the corner. A door leading to the outside of the factory is nearby. The door is opening up, and a group of four construction workers runs in. However, they are cut down by two massive green beams of energy blowing up the fusion cores next to the workers: a pair of Hunters appears.
+
+The Hunters charge in over the worker corpses and after the Master Chief, Thel 'Vadam, and the awaiting Marines. The cowering workers get up and are relieved to see fellow humans.
+
+Construction Worker: "I thought we were the only ones left-"
+Their celebration is cut short for they sight the hunters and retreat behind the approaching Marine forces.
+
+If the fight continues for a while:
+
+Gunnery Sergeant Pete Stacker: "Gotta get around ‘em, Chief! Look for gaps in their armor!"
+
+After the two Hunters are killed, the Marines, Master Chief, and Thel 'Vadam run past the Hunter corpses and through the open door to a series of low-roofed buildings where a Brute Chieftain awaits with numerous other Brutes, Jackals, and Grunts. The Prophet of Truth sermonizes from a holographic pedestal behind them.
+
+Prophet of Truth (Hologram): "Take heart, my brothers! Only our enemies should fear this raging storm!"
+The assault force finally defeats the Covenant defenders and continues on ahead.
+
+Prophet of Truth (Hologram): "Darkened skies and lashing fire are all that remains for them when we, the worthy, have passed beyond."
+Thel 'Vadam: (upon seeing Truth's hologram) "I will not be shamed. Not again! Not by you!"
+The Chief, 'Vadam, and the remaining Marines charge around the remaining buildings to the hill where the massive anti-aircraft emplacement stands. Before the hill's slope are a Marine, a Surface-to-Air Missile Launcher, and a few corpses behind sandbags and a weapons rack. Grunts tentatively run down the slope to face the onrushing UNSC forces while mid-way up the hill a Grunt manning a turreted Plasma Cannon stands side-by-side with a War Chieftain wielding a Fuel Rod Gun with his captains and bodyguards. The anti-air emplacement opens fire on a surging UNSC Longsword, destroying it and catching it on fire as the wreck soars into the cliffs below.
+
+Miranda Keyes (COM): "Chief! Hood's ships are closing fast! Destroy that gun; we’re out of time."
+The Chief, 'Vadam, and all Marines and civilians push up the hill, taking down all Covenant defense.
+
+Sergeant Johnson (COM): "Chief, that gun’s been firing non-stop: it’s gotta be running hot! It’s gonna be opening up its access panel!"
+If the Chief delays:
+
+Sergeant Johnson (COM): "Wait till it opens up, vents its excess plasma. Shove some lead down its throat!"
+The anti-aircraft emplacement's lower section opens to reveal a white sphere. Steam vents as the panel continually opens. The Master Chief destroys the sphere.
+
+{Cutscene}
+
+The AA Gun explodes, sending the upper section flying down the cliff. The Master Chief and 'Vadam stand on the cliff side of the crater on the hill of the recently destroyed anti-aircraft emplacement. Multiple squadrons of Longswords streak overhead, followed by three UNSC Frigates, including the UNSC Forward Unto Dawn, Lord Hood's flagship. The Covenant fleet is hovering before them, with the Forerunner Dreadnought centered below them at the center of The Artifact.
+
+Lord Hood (COM): "All ships: fire at will!"
+The Frigates engage the Forerunner Dreadnought. Their Magnetic Accelerator Cannons discharge in volleys, and explosions coat the Dreadnought's surface, but the ship remains unscathed. The Forerunner structure begins to open like a starfish. The Dreadnought is lowered into the structure, an energy beam being focused on it. The beam of light grows thicker and expands, sending of a shockwave. Everything soon blacks out.
+
+Cortana (Cortana Moment): "This...is the way the world ends."
+A large glowing sphere of blue light soon appears, centered by pitch darkness, in the sky above the artifact, and the vessels of both UNSC and Loyalist fleets are drifting in the air, disorganized. The large fins of the Portal are focusing energy on the sphere.
+
+Lord Hood (COM): "(coughs) What did Truth just do? (coughs) Did he activate the rings?"
+Miranda Keyes (COM): "No, sir. But he certainly did something..."
+Thel 'Vadam roars angrily as the Forerunner Dreadnought rises safely into the sphere, followed in close order by the rest of the Covenant fleet.
+
+Lord Hood (COM): "Evac wounded and regroup. Wherever Truth went-"
+Naval Officer (COM): "Sir, new contact - slipping in!"
+A damaged CCS-class Battlecruiser emerges from Slipspace to the east of Voi, and hurtles just over the Chief and 'Vadam. It is smoking with rancid fumes. The air is darkened and smog rises, veiling the sun. As the ship loses altitude and crashes to the ground out of sight, there is a flash of light and a deep rumbling is heard, followed by silence. An omen of ancient evil is in the air.
+
+Thel 'Vadam: "What is it? More Brutes?"
+Master Chief: "Worse."
+Fades to black.
+
+Level ends.

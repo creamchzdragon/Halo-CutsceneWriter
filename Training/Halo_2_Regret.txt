@@ -1,0 +1,170 @@
+Master Chief starts to walk past a hologram of Prophet of Regret chanting a sermon
+
+Cortana: "Wait, go back."
+Master Chief puts Cortana in the holo-projector, her avatar appears.
+
+Cortana: "That's what I thought he said. The Prophet of Regret is planning to activate Halo!"
+Master Chief: "Are you sure?"
+Cortana snaps her fingers, the hologram starts speaking in English
+
+Prophet of Regret (Hologram): "I shall light this holy ring, release its cleansing flame, and burn a path into the divine beyond!"
+Cortana snaps her fingers again, and the hologram freezes.
+
+Cortana: (smugly) "Pretty much."
+Master Chief: "Commander, we've got a problem."
+Commander Keyes (COM): "So I hear."
+The view changes into In Amber Clad's bridge, where Keyes studies a hologram of the Index.
+
+Commander Keyes: "But from what I understand, the Prophet will need an object, the Index, to activate the ring."
+Commander Keyes changes the hologram to the Library
+
+Commander Keyes: "I've located a Library similar to the one you found on the first Halo. If the rings work the same way, the Index should be inside."
+Sergeant Johnson (Video COM): "I'll bet the Covenant are thinkin' the exact same thing."
+Commander Keyes: "Then, we'd better beat them to it, Sergeant. Extract your men, and meet me at the Library."
+Sergeant Johnson (COM): "Yes, ma'am."
+The view changes back to Master Chief and Cortana.
+
+Commander Keyes (COM): "I'll secure the Index, Chief."
+Master Chief puts Cortana back in his armor.
+
+Commander Keyes (COM): "You take out the Prophet. He's given us all the intel we need."
+{Gameplay}
+
+TestamentEdit
+A swarm of Drones descend upon the Chief. After defeating them, he proceeds outside, where ruins are infested with Covenant forces.
+
+Cortana: "You know, I think the Forerunners built these new structures around the old, to protect them, to honor them. Pure speculation, mind you. I'd need to make a thorough survey to be sure."
+The Chief proceeds to a large platform, just in time to see a Gondola being activated and speeds away.
+
+Cortana: "I wish I had more time to decipher these inscriptions. The Forerunners revere this place, that much is clear. But was it a temple, or a university... I can't say."
+Once the Chief and his Marine companions clear the platform:
+
+Commander Keyes (COM): "Cortana, the Covenant are getting nosy. I don't want to give away my position, so I'm rerouting a few stragglers back to you. I apologize; these Pelicans are all the support you're gonna get."
+Cortana: "Understood, ma'am."
+Cortana: "A gondola's launching from the far towers. Big surprise, it's full of Covenant reinforcements."
+After all hostiles are eliminated by the Chief:
+
+Cortana: "Well, they were nice enough to bring us a ride."
+If either Private Chips Dubbo and/or Sergeant Stacker are with the Chief.
+
+Pvt. Chips Dubbo: "Alright, everyone aboard."
+GySgt. Stacker: "I'll drive."
+Pvt. Chips Dubbo: "What's to drive? It comes here, it goes there."
+If the Chief waits around the Gondola.
+
+Cortana: "This gondola won't get us all the way to the main temple, but it'll get us close. Let's get on board."
+If the Chief continues to wait:
+
+Cortana: "If you hit the activation switch, it should drive itself."
+The Chief activates the Gondola.
+
+One-Way TicketEdit
+The Chief and the two Marines are attacked by a swarm of Drones as they cross the lake. The trio eliminates them.
+
+Cortana: "This lake couldn't have been created by volcanic action, which means it was either built this way on purpose, or was created by some other cataclysmic event... Sorry, were you trying to kill something?"
+After the Chief and the Marines clear the Gondola, they move inside a structure and clear out Covenant forces surrounding an elevator.
+
+Cortana: "Ah, now I see. There's a submerged section that connects these towers to the outlying structures. Looks like we're going down. Unless you'd... prefer to swim."
+Pvt. Chips Dubbo: "Full car, comin' up!"
+If the Chief waits around for too long.
+
+Cortana: "All right, let's see where this elevator goes."
+As the Chief and the Marines journey underwater in the elevator, and peer around the murky depths.
+
+Cortana: "I've intercepted a secure transmission from Regret's Carrier to the something called High Charity. It seems to be a formal apology to the Prophets of Truth and Mercy. Apparently, Regret jumped the gun when he attacked Earth. He's asking the other Prophets to 'forgive his premature arrival', arguing that 'no human presence was foretold.' That explains why there were so few ships in his fleet. But it's odd that a Prophet would have such bad intel about his enemy's homeworld."
+Once the Chief and the Marines that are alive clear the current area of Covenant, in a large chamber, looking at a huge hologram of the Prophet of Regret.
+
+Cortana: "And people say I've got a big head."
+If the Chief stares at Regret's hologram for long enough:
+
+Prophet of Regret (Hologram): "Most of those we encountered in our search were compelled to join our Union. To take part in moment of promise, Freedom for Allegiance, Salvation for Service! But some, like the Humans, chose to impede our progress. Block our access to sacred sites, damage Holy Relics! For their transgressions, the Humans shall be hunted until none remain alive!"
+Pvt. Chips Dubbo: "Oh man, he's so dead."
+If the Chief stalls:
+
+Cortana: "Keep moving. Let's find our way back to the surface."
+When the Chief and surviving Marines reach another submerged elevator and go underwater again.
+
+Cortana: "Regret's carrier just received a response from High Charity. A very well encrypted message from the Prophet of Truth. Listen to this: 'Your haste has jeopardized the fulfillment of our Covenant, threatened our grand design. That you shall be spared a public display of our contempt is thanks only to Mercy and his wise counsel.' Truth, Mercy, Regret. Three Prophet Hierarchs. Killing Regret should shake up the Covenant leadership. But frankly, it sounds like you might be doing Truth a favor."
+After emerging from the elevator, there is another hologram of the Prophet of Regret spouting religious rhetoric.
+
+Prophet of Regret (Hologram): "Every member of the Covenant shall walk the path. None will be left behind when our Great Journey begins! That is the Prophets' age-old promise. And it shall be fulfilled!"
+Cortana: "'Great Journey'? Doesn't he know what these rings do?"
+Later, when the Chief clears the nearby outdoor area of Covenant and secure a landing zone:
+
+Pelican Pilot (COM): "This is my last run, Chief! I'm nearly out of fuel. We've secured the first tower cluster, so I'll set down there. Call when you're ready for evac."
+The Pelican drops off more weapon pods and some Marines.
+
+The Chief and the Marines clear the next nearby outdoor structure area of Covenant, and encounter another gondola.
+
+Note: Only two Marines will follow the Chief.
+
+Cortana: "There, another gondola. Looks like it leads straight to the main temple. Not much further now."
+Pvt. Chips Dubbo: "Oh, great! We're gonna ride another one of these death-traps!"
+Marine: "If you forget about the Covenant and the fact we're stuck on some freaky alien world, it's actually kinda fun."
+As the Chief starts the gondola.
+
+Commander Keyes (COM): "How's it going, you two?"
+Cortana: "So far, so good. We're approaching the main temple now."
+Commander Keyes (COM): "Roger that. I'm as close to the Library as I can get. There's some sort of ... barrier. We're trying to find a way around it. I'll keep you posted."
+The Chief fights off Covenant forces trying to stop him, and disembarks from the gondola.
+
+{Cutscene}
+
+The Master Chief walks off the gondola and looks around, then up. There are an uncountable number of Slipspace ruptures, and hundreds of Covenant ships come out of Slipspace, followed by High Charity.
+
+Cortana: "That's the largest Covenant fleet I've ever seen... the largest anyone's ever seen."
+Cortana: "Get inside the temple and kill Regret, before it can stop us!"
+{Gameplay}
+
+Sorry, Were You in the Middle of Something?Edit
+Pvt. Chips Dubbo: (gazing at High Charity) "Man! Look at the size of that thing!"
+If the Chief stalls:
+
+Cortana: "There's no time, Chief. Get inside and take care of the Prophet."
+As the Chief enters the temple:
+
+Cortana: "The Covenant fleet has launched multiple waves of Phantoms. Too many for me to track... we don't have much time."
+Cortana: "There are Honor Guards all over this place! Watch your back."
+When you enter the throne room and look at Regret:
+
+Cortana: "There's the target, take him out!"
+After the Chief enters the "throne room", the Prophet talks to him.
+
+Prophet of Regret:
+
+Randomly distributed:
+
+"Your very existence offends me, Demon!"
+"The Great Journey will not be postponed!"
+"Guards! Remove this vermin from my sight!"
+"Human filth, you confound this sacred place?"
+"You dare to interrupt my sermon?!"
+"Incompetents! I'll kill it myself!"
+"Are my guards too much for you, Demon? (laughs)"
+"Warriors! Attack! The Demon must die."
+"Surely, you can do better than that?"
+"You shall not hide from me Demon!"
+"Why anyone would fear this Demon is beyond me!"
+"Perhaps you underestimated me, no?"
+"This is the humans' greatest warrior? (laughs)"
+If the Chief waits around.
+
+Cortana: "His throne's shielding is protecting him. Get in close and do whatever you can."
+If the Chief continues to wait.
+
+Cortana: "You've got to get him out of that throne."
+Cortana: "Quick, board his throne!"
+The Chief defeats the Prophet. His throne overloads and explodes.
+
+Cortana: "Bad news, the Phantoms are turning around. The fleet is preparing to fire on our position. We need to get out of here."
+{Cutscene}
+
+The Master Chief is standing outside the temple. A Covenant ship is directly overhead. A huge purple beam, similar to a gravity lift, comes down, hits the temple, and starts getting brighter and brighter. It's obviously a weapon (likely an Energy Projector). The Chief turns, runs around a corner, and jumps a ledge, landing about several feet below where he was. He runs the entire length of the temple, as the temple starts exploding. He barely makes it off, and is flung into the water, where he slowly begins to sink with other bits of stone from the temple.
+
+As the Chief continues to sink, a pair of tentacles come up from the bottom. A deep, disembodied voice speaks out.
+
+Gravemind: "This is not your grave..."
+The tentacles wrap around the Master Chief, dragging him down.
+
+Gravemind: "But you are welcome in it."
+Level ends.

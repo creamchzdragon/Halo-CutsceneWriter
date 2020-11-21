@@ -1,0 +1,160 @@
+Full Contact SafariEdit
+Warning: Hitchhikers may have Jet Packs.
+
+The Chief starts to wake up.
+
+Gunnery Sergeant Reynolds: "What happened?"
+Note that sometimes Sgt. Stacker will appear in the place of Reynolds but will still say the dialogue.
+
+The Master Chief comes to in the wreckage of the elevator, with wounded Marines being treated and other Marines trying to regroup. The elevator shaft above is engulfed in flames.
+
+Lieutenant Commander Miranda Keyes (COM) (Signal with much static): "Chief, please respond. What's your status over? If you can hear me, find transport. Head for the town of Voi."
+Wounded Marine: "Ah! I've got a broken rib."
+Marine Corpsman: "Hey. You wanna bleed out?"
+Wounded Marine: "No..."
+Marine Corpsman: "Then I've gotta keep pressure on the wound."
+Wounded Marine: (cough) (cough) I think I broke something!
+On the other side of the underground vehicle maintenance bay, a Marine Sergeant shows up at the other side of the elevator wreckage and begins to handle the situation.
+
+Gunnery Sergeant Reynolds: (runs up to the gate, coughs loudly, and fires a Battle Rifle burst at a security camera to perhaps prevent any remaining Covenant forces from finding the squad of marines) "Settle down, Marines! Somebody hit the emergency power. (coughs)."
+Marine: "On it, Sergeant."
+Marine: "Another bombing run?"
+or
+
+Marine: "Did we get everyone out, sir?"
+or
+
+Marine: "'You think the Brutes know where we are?"
+Marine: "Any word from Charlie-Two? We got separated."
+Marine: "Nah, man. Alpha-Six. They're all gone too."
+Marine: "The swelling, could be a fracture. You think you can stand?"
+Marine: "I don't know, doc."
+Gunnery Sergeant Reynolds: "If you can walk, set your boots on the line."
+The Master Chief and any Marines fit for duty form up on the other side of the maintenance bay, with two Warthogs parked and functional.
+
+Female Marine: "What's our situation, Sergeant?"
+Gunnery Sergeant Reynolds: "Not sure, can't reach the Commander, too far underground."
+The Master Chief jumps in either Warthog.
+
+Gunnery Sergeant Reynolds: "Chief's got the right idea. Let's mount up, get the hell outta these caves."
+Marines: "Yes sir!"
+If the Master Chief gets into a Warthog first or opens the door.
+
+The Master Chief and Marines get in the Warthogs.
+
+Marine: "I'll get the door, sir."
+The Marine opens the door (or the Chief can too), and the Warthogs proceed down the tunnel.
+
+Gunnery Sergeant Reynolds: "Second Squad? We're coming through!"
+The Warthogs take out small resistance at the gate leading out of the caves, and head out.
+
+Gunnery Sergeant Reynolds: "Don't leave any of 'em standing!"
+or
+
+Gunnery Sergeant Reynolds: "Conserve ammo. Run 'em over!"
+Marine: (looking at the fleeing Jackals) "Look at the little bastards run!"
+or
+
+Marine: "Surprise, crap-face!"
+After taking out a fleeing Lance they observe the massive wreckage from the New Mombasa Orbital Elevator, along with a crashed Phantom. The Chief finds a cliff and sees a long line of the elevator's wreckage.
+
+Female Marine (COM): "The Mombasa Space Elevator."
+Marine (COM): "It collapsed when the city got glassed."
+Female Marine (COM): "But the tower was thousands of kilometers high!"
+Marine (COM): "Yeah? Well now it's scattered all over the Savannah."
+Female Marine #1 (COM) (astonished whisper): "Holy crap..."
+The Chief listens to a radio transmission from the wreckage of a crashed Phantom
+
+Unknown Brute Commander (COM): "Chieftains! Rally your packs!"
+Unknown Brute Commander (COM): "Kill all survivors, let none near the crater!"
+Unknown Brute Commander (COM): "The Prophet will soon complete his blessed task!"
+The Warthogs continue on.
+
+Gunnery Sergeant Reynolds: "Chief, still can't get the Commander. COMs are a mess, Pelicans are scattered. Best thing now, get some distance between us and the base. Brutes are gonna be looking for survivors."
+The Warthogs reach another crashed Phantom and kill the troops around it.
+
+Unknown Brute Commander (COM): "I see it, pack brothers! The Holy Relic! What fools, to live so long on hallow ground! Never know what lay beneath the surface."
+The Warthogs keep pressing on, encountering a Phantom and its many troops. The Phantom leaves and it doesn't take long before the Warthogs overpower the infantry.
+
+Gunnery Sergeant Stacker (COM): "I repeat: My convoy's been hit. I've got wounded-(static). We're on the Tsavo Highway about-(static)-east of Voi. Someone, anyone, please, respond! (Static and cut-off)."
+Marine: "Tsavo Highway is just ahead, Chief."
+The Warthogs arrive at the Highway, encountering Brute Choppers and several infantry hostiles. One Chopper rams and destroys a fully manned attacking Warthog, followed by another Chopper.
+
+If the Chief dismounts the vehicle and goes into the small checkpoint where Sgt. Stacker is located.
+
+Gunnery Sergeant Stacker: "We were en route to Voi Chief. Banshees jumped us, started strafing... pretty much ruined our day."
+If Pete Stacker was the Sergeant you started the level with, Reynolds will be present instead but may or may not say the above dialogue.
+
+After the Covenant who attacked the Supply Convoy are finally defeated, the Warthogs' journey forward into the tunnels is blocked off by a Anti-Vehicle Barrier. A swarm of Drones fly out of the tunnel, but is defeated.
+
+If Stacker's on a Warthog with the Chief:
+
+Gunnery Sergeant Stacker: "Marines in Voi really needed my supplies, Chief. But I'm pretty sure they'll be plenty happy to see you."
+If the Chief waits for a while at the barrier:
+
+Gunnery Sergeant Stacker: "Take down that barrier, Chief. Power Supply should be inside the tunnel."
+or
+
+Gunnery Sergeant Stacker: "Chief, the barrier only works against vehicles. You should be able to walk right through."
+The Chief walks through the shield, and destroys its power source.
+
+Prophet of Truth (Hologram): "The gods will not begrudge our excavation. By uncovering this relic, we add homage to their glory. When the dust settles, we will all see what I already know: here lies the Path, the start of our Great Journey."
+The Warthogs continue along the Tsavo Highway through the tunnel. When they get out and reach a bridge, a CCS-class Battlecruiser soars ahead.
+
+ONI Recon 111 (COM): "Commander. This is ONI Recon One-Eleven. The cruisers above-(static). They found-(static)"
+Commander Keyes (COM): "Say again, Recon? You're breaking up."
+ONI Recon 111 (COM): "There's something in the crater, Ma'am. Something beneath the storm."
+The Warthogs reach a gap in the bridge and cannot continue. The Master Chief clambers across broken beams and bars and continues on foot. The Marines follow.
+
+The Broken PathEdit
+Wraiths and Choppers.'
+
+Commander Keyes (COM): "Master Chief? Finally, a good connection. Truth has excavated a Forerunner Artifact, we have to assume it's The Ark."
+Sergeant Johnson: "Keep pushing to the town of Voi, Chief. Resupply birds will meet you in the next valley."
+The Chief finds Marines pinned down and under heavy fire from Brutes and their allies. The Chief and the Marines eventually clear the sector.
+
+Female Marine: "We've got reinforcements, Marines!"
+Marine: "Woohoo! Yeah!"
+Marine: "Booyeah!"
+Marine: "Ohhhh-yee-HAH!!"
+A Phantom approaches with reinforcements.
+
+Female Marine: "Sir, Recon spotted Covenant armor ahead. Pelicans are inbound with heavy weapons, we need to hold out 'till they arrive."
+The Master Chief takes out the Phantom's reinforcements.
+
+Marine: "Wraith! Get to cover!"
+A Wraith from further up the trail arrives. The Chief, lacking heavy weapons or ammo for heavy weapons, has to board the Wraith and neutralize it.
+
+Johnson (COM): "Watch it now, Pelicans coming in! Brutes have plenty of armor between here and Voi Chief, but this Warthog should help you punch on through."
+The Master Chief has a choice of taking one of the Warthogs the Pelicans drop off, or the Wraith that previously attacked if not destroyed. The Tunnel onward on the Tsavo Highway is closed off, so the Chief goes on the trail where the Wraith came from, finding a short tunnel around back onto the Tsavo Highway, but obstructing the way are some Choppers patrolling and soon they are taken out.
+
+Marine: "Wraith, Master Chief, circling that hill! Brute Choppers too, so watch your back!"
+Nearly a dozen more Choppers, a few Wraiths and Shade Turrets defend the route back onto the highway. Despite being greatly outnumbered and outgunned, the Chief and the Marines clear the zone. The Chief takes a look at the massive storm over the vast crater beyond the cliff.
+
+Marine (COM): "Look at the size of that thing! Wonder how old it is?"
+Marine (COM): "Don't know. But I do know that ain't a normal storm."
+The Chief observes the cruisers over the crater.
+
+ONI Recon 111 (COM): "Commander, I can see most of it now. Readings are all over the EM spectrum."
+Commander Keyes (COM): "Roger that, Recon. Shut off your gear, fall back. I'll monitor from Kilo 23."
+The Chief continues along the Highway.
+
+Johnson (COM): "Chief, the gate to Voi is dead ahead. Smash the Brute blockade, open her up!"
+Prophet of Truth (Hologram): "My Dreadnought, the vessel that has so long been the focus of our worship, now rests on it's true pedestal. Even now, its engines spark greater ones below, relics long without power, yet ready to fulfill their divine purpose. Stand fast! Keep our enemies at bay! Soon, my brothers, we will all have our reward!"
+The Master Chief goes on foot and encounters heavy defenses by the Brutes, led by a War Chieftain. He eventually clears it. The only thing left standing between the UNSC and Voi is another Shield Barrier in the tunnel. The Chief destroys the power source with ease.
+
+{Cutscene}
+
+Pelicans, including Kilo 23, arrive and drop Warthogs and Marines, Commander Keyes is piloting one of them.
+
+Commander Keyes: "Lord Hood? We made it."
+Lord Hood (Video COM): "Music to my ears, Commander. What about the Ark?"
+Commander Keyes: "Fully uncovered, sir."
+An Assault Carrier passes over head
+
+Lord Hood (Video COM): "Then we don't have much time. Marines? The Prophet of Truth doesn't know it yet, but he's about to get kicked right off his throne. We will take our city back. And drive our enemy into the grave they've been so happily digging. One final effort is all that remains."
+The Pelicans fly off. The Master Chief draws his MA5C and walks to one of the Warthogs to retake Voi from the Covenant.
+
+Fade to black.
+
+Level ends.

@@ -1,0 +1,186 @@
+Cortana: "We're coming in too fast!"
+The Bumblebee flies over a cliff, trailing smoke. The Chief watches from inside as the craft heads towards the ground at an alarming rate.
+
+Bumblebee Pilot: "Damn! Air brake failure! They blew too early! I'm losin' her. Brace for impact!"
+A violent crash is heard. Fade to white.
+
+Cortana: "Chief? Chief! Can you hear me? At last! Are you alright? Can you move?"
+As the Chief exit the life pod:
+
+Cortana: (quietly) "The others...the impact. There's nothing we can do."
+As the Chief exits the area:
+
+Cortana: "Warning! I've detected multiple Covenant drop ships on approach. I recommend moving into those hills. If we're lucky, the Covenant will believe that everyone aboard this lifeboat died in the crash."
+If the Chief start exploring:
+
+Cortana: "I'm reading thousands of types of flora. The ring's ecosystem is incredibly sophisticated."
+If the Chief begins to cross the bridge:
+
+Cortana: "Alert! Covenant Drop ship inbound! They must be looking for survivors. I recommend immediate evasion!"
+
+If the Master Chief lingers:
+
+Cortana: "Alert! Covenant drop ship has detected us, here they come."
+A Covenant drop ship arrives, accompanied by two Banshees. The Chief either eliminates or evades dropped Covenant troops and proceeds through a canyon.
+
+Cortana: "I'm reading a lifeboat beacon over the next hill. We should check to see if there are any survivors."
+The Chief approaches the surviving Marines.
+
+Private Bisenti: "Good to see you, sir! Welcome to the party!"
+or
+
+Private Bisenti: "Thank God it's you, sir! I thought we were the only ones to make it off of the Pillar of Autumn!"
+or
+
+Private Bisenti: "Thank God you're here, Master Chief. I thought we were in real trouble."
+
+Staff Sergeant Johnson: (sighs) "It's a mess, sir. We're scattered all over this valley. We called for evac, but until you showed up, I thought we were cooked."
+Cortana: "Don't worry, Sergeant. We'll stay here until evac arrives."
+Private Mendoza (COM): "Heads up! I got a Covenant drop ship headin' in, over here!"
+The Chief heads behind the structure to deal with the Covenant forces.
+
+Private Mendoza (COM): "Look sharp! Covenant drop ship on approach! I could use some help over here!"
+The Chief deals with the next wave.
+
+Private Mendoza (COM): "Uh-oh, another bandit droppin' in behind us! They're tryin' to flank us!"
+If all of the Marines are dead:
+
+Cortana: "We couldn't save them... I recommend to stay here and wait for extraction."
+If the Chief starts to leave the area:
+
+Cortana: "Where are you going? The lifeboat beacon is our only chance to getting reunited with the rest of the crew, we need to stay with it."
+After the final wave of drop ships:
+
+Foehammer (COM): "This is Pelican Echo 419. Anybody read me? Repeat: any UNSC personnel, respond."
+Marine, SSGT Johnson or Cortana (COM): "Roger, Echo 419. This is Fire Team Charlie. We read you. Is that you, Foehammer?"
+Foehammer (COM): "Roger, Fire Team Charlie. Good to hear from ya!"
+Marine, SSGT Johnson or Cortana (COM): "If you're not too busy, Foehammer, we could use a lift. We have survivors to transport to the Command Shuttle."
+Foehammer (COM): "I'm on my way."
+
+Cortana: "Look, more lifeboats! They're coming in fast. If those lifeboats make it down, the Covenant are going to be right on top of them. (COM) Foehammer, we need you to disengage your Warthog. The Master Chief and I are going to see if we can save some soldiers."
+Foehammer (COM): "Roger, Cortana. Okay, Charlie Team, Warthog deployed. Saddle up and give 'em hell!"
+Cortana (COM): "Roger, Foehammer. Stand by to evac survivors and transport them to safety."
+Foehammer (COM): "That's affirmative. Echo 419 staying on station. Foehammer out."
+Cortana: "The Master Chief and I need some backup, can you spare a few men?"
+SSGT Johnson (If you've kept him alive) or PFC Fitzgerald: "Sure, Cortana. All right ladies, volunteers step up on the double! The rest of you, get to the drop ship."
+If you walk away from the dropped Warthog towards the distant cave.
+
+Cortana: "We'll need that Warthog if we want to get to the other lifeboats in time."
+If the Chief explore the area on foot or delay for more than five minutes:
+
+Cortana: "Survivors would probably stick close to their emergency beacons."
+A NAV point appears on the distant cave.
+
+Cortana: "We need to find where each lifeboat has landed."
+The Chief's Warthog approaches a large cave structure.
+
+Cortana: "This cave is not a natural formation. Someone built it, so it must lead somewhere.
+The Chief drives into the cave.
+
+Cortana: I've hacked into the Covenant battlenet. They're actually broadcasting tactical data on unencrypted channels! We should show them who they're dealing with. Master Chief, I'm going to use your suit's transponder system to monitor their chatter."
+After navigating the tunnels, the Chief emerges in a large cavern, with a chasm dividing the floor into two halves. There is no visible way to cross. Covenant forces occupy his side of the cavern. He kills all the Covenant present.
+
+Cortana: "There must be some mechanism to cross this cavern. Look for a control panel or switch."
+The Chief ascends to a balcony, finds a control panel, and activates it.
+
+When the Chief engages the panel, four giant silver beam-generating structures extend across the chasm, and an energy bridge slowly fades into coherence.
+
+(NOTE: The cutscene mentioned will not occur unless you kill all the enemies in the area. However, the energy bridge will still activate in gameplay.)
+
+The Chief crosses the bridge, and navigates through more tunnels.
+
+Cortana: "New traffic on the Covenant Battlenet... a lot more crew made it off the Autumn than I had predicted - the Captain really gave them hell! If we can find Captain Keyes and other survivors, we have a chance to coordinate an effective resistance."
+The Chief arrives at the exit to the cave.
+
+There are three crash sites, and different lines of dialogue are said depending on the order you visit them in. The conversation between Cortana and Foehammer is always said in the order shown here, irrelevant as to which order you visit the sites in.
+
+The Chief approaches the rock slide crash site. There are up to seven Marines that can be saved here.
+
+Cortana: "Survivors detected. Marines are concealed in those rocks."
+Marine Sharpshooter: "Contact! Covenant drop ship, down there!"
+If the Covenant charges into the rocks:
+
+Marine: "Fall back! Fall back!"
+Marines will all get on top of the highest rock, where the sniper is.
+
+If the Chief leaves the area before evac arrives:
+
+Cortana: "Where are you going? We need to stay with the Marines."
+The Chief fends off a few waves of Covenant Forces.
+
+Foehammer (COM): "Echo 419 to Cortana, come in."
+Cortana (COM): "We read you, Echo 419. We have survivors and need immediate dust-off."
+This line changes to reflect which two pods you haven't yet found:
+
+Foehammer (COM): "Roger, Cortana. On my way. I've spotted additional lifeboats in your area. One near the cliff edge. And another near the head of the river. Hard to see from my altitude, but it looks like there are more survivors."
+Cortana (COM): "Acknowledged. We're on our way."
+If all of the Marines are killed:
+
+Cortana: "No survivors..."
+If the Chief dawdles:
+
+Cortana: "We need to find the other two lifeboats."
+The Chief approaches the river head crash site.
+
+Cortana: "There are some Marines, hiding in the hills above the structure."
+The Chief makes his way up into the hills where the Marines are. There are three Marines that can be saved here.
+
+Marine: "You're a sight for sore eyes Chief. We're in a bad way. We've got wounded here."
+Cortana: "I'll call in a dropship to pick them up."
+The Chief defends the survivors from more waves of Covenant drop ships.
+
+Foehammer (COM): "Echo 419 to Cortana, Foehammer's on station and ready for another pickup."
+Cortana (COM): "Affirmative, Foehammer. We're ready for dust off, approach when ready. We're going to look for the last lifeboat, Echo 419, good luck."
+If all Marines are killed:
+
+Cortana: (bitterly) "They're all dead."
+As the Chief leaves the second lifeboat:
+
+Cortana: "Warning! I've picked up reports that the Covenant have located and secured the Pillar of Autumn's crash site. The good news is the Captain's still alive. The bad news is that the Covenant has captured the entire surviving command crew. Let's hurry and find the final lifeboat, so we can link up with the rest of the survivors."
+The Chief approaches a lifeboat near the river. There are no bodies nearby.
+
+Cortana: "Lifeboat detected. No sign of survivors..."
+PFC Fitzgerald: "This lifeboat is trashed, Chief. There are weapons and supplies but...no bodies."
+or
+
+PFC Fitzgerald: "The lifeboat's totaled, sir. There are weapons and supplies everywhere, but I can't find any bodies. Maybe somebody made it out of here alive."
+or
+
+PFC Fitzgerald: "What a mess! The weapons lockers must have broken open. There are weapons and supplies all over the place. Where's the bodies, though?"
+The Chief crests a hill and sees a structure on the cliff's edge.
+
+Cortana: "Maybe they took cover in that structure. Let's check it out."
+If the Chief leaves the area before finding the survivors:
+
+Cortana: "We should search the interior of those structures before we leave."
+
+The Chief locates a way into the structure, where he finds up to five Marines and naval crewmen battling the Covenant. He assists them in killing the Covenant forces.
+
+Cortana: "I've called for evac."
+Marine: "Roger that. Marines! Assemble for evac, pronto!"
+If all of the Marines and techs are killed:
+
+Cortana: (sadly) "We weren't able to save any of the Marines. A one hundred percent casualty rate."
+or
+
+Cortana: "Dead. They're all dead. Get to the drop ship and let's get back to base."
+If there are still Covenant in the area when you emerge from the structure:
+
+Cortana: "We should secure the area before the drop ship arrives."
+The Chief mops up the last of the Covenant in the immediate area.
+
+Cortana (COM): "That's the last of them."
+Foehammer (COM): "Roger that. I'm on my way."
+Cortana: "New traffic on the Covenant battlenet. I've found Captain Keyes! He's being held on a Covenant cruiser, the Truth and Reconciliation, a ship I disabled before we abandoned the Autumn. The Truth and Reconciliation touched down on a desert plateau roughly three hundred kilometers up-spin."
+Echo 419 arrives.
+
+Cortana: "There's our ride. Get aboard, and let's get out of here."
+Foehammer (COM): "Welcome aboard, Master Chief. Ready for dust-off."
+The Chief climbs on board the Pelican.
+
+Cortana: "We should move out, Lieutenant. And then we'll need your help on our rescue mission."
+Echo 419 flies away from the area.
+
+Fade to black.
+
+Level ends.

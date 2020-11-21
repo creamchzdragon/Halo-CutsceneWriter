@@ -1,0 +1,207 @@
+Opening cinematic-The camera skims low over a large body of water, tinted gold by an oncoming sunrise. The main menu theme rises.
+
+The camera slowly pans up as it flies over the sand, revealing a burnt coastline, and a giant gouge where the terrain has been ripped away and the sea has flooded into the newly-formed canyon. At the top of that canyon rises the massive stern of the Pillar of Autumn, relatively intact. The camera circles around the side and front of her, revealing that her nose is hanging just slightly off a massive cliff, and that the antennae along the bow have been bent and torn away. The entire bow has been burnt badly; the metal is scarred. The once powerful cruiser looks almost pitiful, and it is clear its only purpose left is to destroy Halo. As the camera circles around to reveal the starboard side, a slightly damaged, smoking Banshee drifts into view.
+
+The camera cuts to a view of the outside through one of the ship's Bumblebee docking slips. The damaged Banshee comes into the frame and veers wildly towards the Pillar of Autumn.
+
+Cortana: (panicked) "This thing is falling apart!"
+Master Chief: (calmly) "It'll hold."
+Cortana: "We're not gonna make it!"
+Master Chief: "We'll make it."
+Cortana: (urgently) "Pull up! Pull up!"
+The Banshee drops just before reaching the Bumblebee slip and smashes into the side of the Pillar of Autumn, sending debris and fire hurling out madly.
+
+
+Cortana: (sardonic) "You did that on purpose, didn't you?"
+The Master Chief's hand appears from below and grips the edge of the slip, and he pulls himself up and onto the Pillar of Autumn.
+
+Cortana: "We need to get to the bridge. From there, we can use the Captain's neural implants to initiate an overload of the ship's fusion engines. The explosion should damage enough systems below it to destroy the ring."
+As the Master Chief heads for the bridge, he discovers Covenant, Flood, and Sentinels fighting through out the ship. Eventually, he reaches the bridge.
+
+Cortana: "The bridge. We made it. Let's get to work."
+The Master Chief clears out the Covenant Spec Ops team guarding the bridge.
+
+Cortana: "I need you to upload me into the control systems. The terminal is located next to the main view screen."
+
+The Master Chief takes Cortana's chip from his helmet and inserts it into the cylindrical terminal near the front of the bridge. Cortana's avatar appears above it.
+
+Cortana: "I leave home for a few days, and look what happens. This won't take long."
+She concentrates for a moment, and the main screen flickers to life. "Self Destruct Sequence Initiated" is displayed across the top, and numbers begin counting down from what is, as far as we can tell, a random starting point between five and fifty-nine minutes.
+
+Cortana: "There. That should give us enough time to make it to a lifeboat and put some distance between ourselves and Halo before the detonation."
+The Master Chief moves to unplug Cortana from the terminal, but stops abruptly when he hears an all-too-familiar voice.
+
+343 Guilty Spark (COM): "I'm afraid that's out of the question, really."
+Cortana: (groans) "Oh, hell."
+343 Guilty Spark (COM): "Ridiculous! That you would imbue a warship's AI with such a wealth of knowledge! Weren't you worried it might be captured? Or destroyed?"
+Cut to Cortana.
+
+Cortana: "He's in my data arrays, a local tap!"
+Cut to 343 Guilty Spark in the engine room. He's busy scanning a console.
+
+343 Guilty Spark: "You can't imagine how exciting this is! To have a record of all of our lost time! Human history, is it? Fascinating."
+343 Guilty Spark flutters around Engineering, as groups of Sentinels hover around in the background, and scans another console.
+
+
+343 Guilty Spark: "Oh, how I will enjoy every moment of its categorization! And to think that you would destroy this installation, as well as this record. I am shocked. Almost too shocked for words."
+Cut to the bridge. A tone sounds over the ship's speakers. The countdown timer freezes.
+
+Cortana: (with a note of frustrated awe in her voice) "He stopped the self-destruct sequence..."
+The Master Chief surveys the bridge carefully with his Assault Rifle, never missing a beat.
+
+343 Guilty Spark (COM): "Why do you continue to fight us, Reclaimer? You cannot win! Give us the construct, and I will endeavor to make your death relatively painless and -"
+He is cut off as another tone sounds.
+
+Cortana: "At least I still have control over the comm channels."
+Master Chief: "Where is he?"
+Cortana: "I'm detecting taps throughout the ship, Sentinels most likely. As for the Monitor ... he's in Engineering. He must be trying to take the core offline! Even if I could get the countdown restarted ... I don't know what to do." (She shrugs her arms in desperation)
+Master Chief: "How much firepower would you need to crack one of the engine's shields?"
+Cortana: "Not much. A well-placed grenade perhaps, but why-"
+File:Grenadetoss.jpg
+She turns to see the Master Chief, who is calmly tossing a fragmentation grenade up and down
+
+Cortana: (nods) "Okay, I'm coming with you."
+The Chief reaches for Cortana just as a squad of Sentinels descends from above and take position along the shattered windows of the bridge
+
+Cortana: "Chief! Sentinels!"
+The Sentinels open fire, shattering the main display and touching off the Chief's shields. The Chief quickly drops behind cover, removes Cortana from the terminal and places her into his helmet, and raises his rifle.
+
+The Chief dispatches the Sentinels and leaves the bridge.
+
+Cortana: "The ship was heavily damaged when it crashed. Head to the cryochamber. We should be able to get to the engine room through there."
+The Chief heads for Engineering, fighting past more Flood, Covenant, and Sentinels. Along the way, he makes a brief detour to the ship's Armory to stock up on weapons. Inside the Armory, he is ambushed by a group of Flood, including several cloaked Combat Forms (presumably infected Stealth Elites). He defeats these enemies and hurries to Engineering.
+
+Cortana: "Engine room located. We're here."
+The Chief enters Engineering which is crawling with Flood and Sentinels. Guilty Spark is also present.
+
+Cortana: "Alert! The Monitor has disabled all command access. We can't restart the countdown. The only remaining option is to detonate the ship's fusion reactors. That should do enough damage to destroy Halo. Don't worry; I have access to all of the reactor schematics and procedures. I'll walk you through it. First, we need to pull back the exhaust couplings. That will expose a shaft that leads to the primary fusion drive core."
+Throughout this entire sequence, 343 Guilty Spark mumbles randomly at the Chief, trying to convince him to spare the installation.
+
+"You would destroy this installation, as well as this fascinating record?"
+"Do you require medical attention?"
+"Your behavior is not in accordance with established protocols."
+"Oh, how touching."
+"Detaching the failsafe just now?"
+"Please. Surrender the construct and I will endeavor to make the necessary repairs as quickly as possible."
+"The Flood continue to multiply, Reclaimer!"
+"Why do you continue to ignore your task?"
+"Are you perhaps ill?"
+"Why do you continue to resist us, Reclaimer?"
+"Inconsistent!"
+"Inadequate safeguards."
+"This AI construct possesses far too much data."
+"Weren't you worried it might be compromised?"
+"Unacceptable, Reclaimer!"
+"Not acceptable, Reclaimer. You must surrender the construct, so that we may return to our appointed task."
+"Your behavior necessitates repair and revision."
+"Surrender the construct to me, or I will be forced to take you offline permanently."
+"Reclaimer, we must keep moving ... Reclaimer?"
+The Chief opens one of the manifolds.
+
+Cortana: "Good! Step one complete! We have a straight shot into the fusion reactor! We need a catalyst explosion to destabilize the magnetic containment field surrounding the fusion cells. Use an explosive. I recommend a grenade or a rocket. If you run out of explosives, there is an armory station located near the engine room's entrance."
+The Chief knocks out the first reactor.
+
+Cortana: "Analyzing. Fusion reactor number one destabilizing. Use explosives on the other three reactors. That should be enough to trigger a wildcat explosion of the engines."
+The Chief destroys two more reactors, leaving only one left.
+
+Cortana: "Keep it up! Only one more fusion reactor to go!"
+The Chief takes out the final reactor.
+
+Cortana: "That did it! The engine's gone critical! Based on the current rate of decay, we should have fifteen minutes to get off the ship; we don't have much time! We should move outside and signal for evac. Accessing schematics... there's a service lift at the top of the engine room! It leads to a class-7 service corridor that runs along the ship's dorsal structure. Hurry!"
+The Chief reaches the elevator. A mass of Spec Ops Covenant descends to meet him. He defeats the Covenant and starts the long ride up.
+
+Cortana (COM): "Cortana to Echo 419, come in Echo 419!"
+Foehammer (COM): "Roger, Cortana. I read you, 5 by 5."
+Cortana (COM): "The Pillar of Autumn's engines are going critical, Foehammer! Request immediate extraction! Approach the crash site and be ready to pick us up at external access Junction 4C as soon as you get my signal!"
+Foehammer (COM): "Affirmative. Echo 419 going on station."
+A few moments later, still on the elevator.
+
+Foehammer (COM): (concerned) "Echo 419 to Cortana. Things are gettin' noisy down there. Everything okay?"
+Cortana (COM): "Negative, negative! We have a wildcat destabilization of the ship's fusion core. The engines must have sustained more damage than we thought! (Off radio) Analyzing... we have six minutes (five minutes if on Legendary difficulty) before the fusion drives detonate. We need to evac now!"
+The Chief reaches the top of the elevator.
+
+Warning: Hitchhikers May Be Escaping ConvictsEdit
+Cortana: "Activating final countdown timer. When it reaches zero, the engines will detonate. The explosion will generate a temperature of almost 100,000,000 degrees. Don't be here when it blows."
+If you leave the Warthog station on foot:
+
+Cortana: "We can't make it on foot, we need a vehicle!"
+If you're still leaving the station on foot:
+
+Cortana: "Alert: We need to keep moving, get back in the Warthog."
+The Chief drives down the corridor. Flood, Covenant, and Sentinels are fighting all around him. Eventually he nears the site where Foehammer is supposed to extract him.
+
+Cortana (COM): "Cortana to Echo 419! Request extraction now, on the double!"
+Foehammer (COM): "Affirmative, Cortana. Foehammer inbound."
+The Chief arrives at a wide open platform.
+
+Cortana: "Wait, stop! This is where Foehammer is coming to pick us up. Hold position here."
+If you wait for Foehammer:
+
+Echo 419 appears around the hull of the Pillar of Autumn, listing badly and flaming at the engines. A pair of Banshees close in on the Pelican.
+
+Cortana (COM): "Cortana to Echo 419! Two Covenant Banshees are approaching on your six! Evade! Say again, evade!"
+An explosion lurches the Pelican the starboard wing dips, ablaze, and Foehammer yells into the speaker as she passes under the platform.
+
+Foehammer (COM): (panicked) "I'm hit! Mayday! Mayday! Airfoil structures have been shot to hell! I can't hold her! I can't hold her!"
+Foehammer continues to yell into the speaker, her words becoming inaudible as the roar of the damaged engines are heard in the background. The Pelican flies into the distance, still ablaze, collides into the Pillar of Autumn's hull and explodes, debris flying everywhere.
+
+Cortana (COM): "Echo 419!...(off speaker) She's gone. Calculating alternate escape route. (Timer restarts) The ship's inventory shows one Longsword fighter still docked in Launch Bay 7. If we move now, we can make it!"
+If you hurry past the platform, Cortana's message is cut short.
+
+If you go where the Thirsty Grunt is.
+
+Thirsty Grunt: "Ugh... Good thing that the food nipple will be waiting for me at the starship, cause man; I worked up a Big, Grunty, Thirst!"
+The Chief comes around the final S-curve in the corridor.
+
+Cortana: "Chief, up ahead there's a gap in the trench! At top speed, we should be able to clear it!"
+The Chief clears the gap. As he reaches the bay, heavy fighting between the Covenant and Flood is seen. A Longsword fighter is docked at the end. A barricade forces the Chief to get out of the Warthog and finish the journey on foot.
+
+Cortana: "That's the ship! Move! We need to get aboard now!"
+
+As you reach the ramp leading up to the Longsword platform—cinematic:
+
+The Chief (with no weapon in hand) makes a break across the platform for the Longsword, the Flood closing in behind him. He makes it through the open door just before them, and slams the hatch closed as he runs through.
+
+Cortana: "We're cutting it close!"
+The Chief sprinting for the cockpit, is jarred by an explosion and braces himself against a wall, shaking his head. He reaches the cockpit, jumps into the seat, quickly punches a series of buttons, and takes the controls in his hands.
+
+Master Chief: "Here we go."
+The Longsword rises above the platform slowly, turning to face the open end of the bay, and lights its engines, rocketing away from the exploding ship. The camera cuts to an exterior view of the Pillar of Autumn, as it burns and explosions flare all along its length. A horde of Flood stumble slowly towards it, and the Longsword arrows from the starboard side of the ship away into the sky the camera cuts to follow the Longsword, looking back towards the Pillar of Autumn as the explosions intensify. The Longsword clears the atmosphere, flying away from Halo. The Master Chief stares straight ahead, piloting the fighter as quickly as he can. Cut to a frontal view of the Longsword; as it sweeps past the camera, the distant side of Halo is drowned out in a huge light, which grows and grows, and then a massive shock front sweeps through the ring, shattering it into sections. In the cockpit, a screen beeps and displays: "ENGINE TEMP CRITICAL".
+
+Cortana: "Shut them down, we'll need them later."
+The Chief flips a few switches and the Longsword's engines die, leaving it drifting. Debris from the blast hurtles past it, still hot and glowing.
+
+Cortana: "Fancy a look?"
+The Master Chief rises from his chair and moves to one of the Longsword's windows. Halo has broken into a few dozen large fragments, all of which are slowly spinning away from each other. As the Chief watches, one massive fragment comes swiftly from the far side of the ring and collides with another, closer one, splitting it in half, and the two go spinning off in a giant gout of fire and debris. Silent explosions spread throughout Halo's remains. The ring has been destroyed.
+
+Master Chief: (braces himself against the frame of the Longsword cockpit) "(quietly) Did anyone else make it?"
+Cortana: "Scanning." (Pause) "Just ... dust and echoes. We're all that's left."
+The Master Chief shakes his head and moves back to his seat.
+
+Cortana: (hesitant) "We did what we had to do ... for Earth. An entire Covenant armada obliterated, and the Flood... we had no choice. Halo ... It's finished."
+Master Chief': "No...I think we're just getting started."
+The Chief removes his helmet, but the cockpit's frame blocks the view of his head. The camera tracks the Longsword for a few a moments, Basis looming large in the background, before panning to focus on a large spiral galaxy hanging in the sky, an ornament emblazoned across the heavens. A few final, dark notes of a cello play, and everything fades.
+
+After the credits:
+
+A glowing object flies away from Halo's wreckage, towards the camera. 343 Guilty Spark has survived.
+
+Bonus Ending (This is only seen when beating The Maw on Legendary mode, and is to be considered non-canon.)
+
+Staff Sergeant Johnson struggles with a Stealth Elite for an Assault Rifle, among a multitude of dead Flood forms with the Pillar of Autumn in the background.
+
+Sergeant Johnson: "C'mere you motherf-! I'm gonna... Grrr... ah."
+
+They suddenly stop and turn to see the ship about to explode in the distance.
+
+Sergeant Johnson: "Oh shi..."
+
+Johnson turns to the Elite.
+
+Sergeant Johnson: "This is it, baby! (affectionately) Hold me."
+
+Hugging Elite: "...mmf."
+
+The two embrace as the ship explodes and the Elite additionally places his right hand on Sergeant Johnson's bottom.
+
+(NOTE: this ending did not really happen in Halo canon, as Sergeant Johnson was actually on a Pelican at the time.)

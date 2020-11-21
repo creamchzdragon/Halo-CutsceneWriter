@@ -1,0 +1,375 @@
+Fades into space. Halo is visible above Threshold.
+
+The camera slowly turns and zooms in onto the Pillar of Autumn. Longsword escorts soar alongside.
+
+Captain Jacob Keyes: "Cortana, all I need to know is did we lose them?"
+Cortana: "I think we both know the answer to that."
+Inside ship, the camera focuses on Keyes.
+
+Captain Jacob Keyes: (sighs) "We made a blind jump. How did they—"
+Cortana: "Get here first? The Covenant ships have always been faster. As for tracking us all the way from Reach...at light speed, my maneuvering options were limited."
+Keyes begins pacing around, looking at viewscreens.
+
+Captain Jacob Keyes: "We were running dark, yes?"
+Cortana: "Until we decelerated. No one could have missed the hole we tore in subspace."
+Keyes looks at a bridge crewman's console.
+
+Cortana: "They were waiting for us on the far side of the planet."
+The crewman presses some buttons. The screen shows a diagram of Threshold with Installation 04 in orbit.
+
+Captain Jacob Keyes: "So, where do we stand?"
+Cortana: "Our fighters are mopping up the last of their recon picket now, nothing serious."
+Keyes examines the main screen, pulls his pipe out of his mouth and shakes some ash off it. He closes his eyes wearily.
+
+Cortana: (continues) "But I've isolated approach signatures from multiple CCS-class battle groups, make it three capital ships per group. And in about 90 seconds they'll be all over us."
+Captain Jacob Keyes: "Well, that's it then. Bring the ship back up to Combat Alert Alpha. I want everyone at their stations."
+Cortana: "Everyone, sir?"
+Captain Jacob Keyes: "Everyone."
+Alarm klaxon sounds. Crewmen run towards their stations.
+
+Captain Jacob Keyes: "And Cortana..."
+Cortana's avatar appears.
+
+Cortana: "Hmm?"
+Captain Jacob Keyes: "...let's give our old friends a warm welcome."
+Cortana: "I've already begun."
+Cuts to the main hold of the Pillar of Autumn. A Marine waves light batons to guide a Pelican into the correct docking position. The view moves towards the lower deck.
+
+Cortana (COM): "Attention, all combat personnel: Please report to your action stations."
+Cortana (COM): "5th Platoon, secure airlocks on Deck 11. 14th Platoon, rendezvous with 22nd Tactical at bulkhead Charlie 14."
+Marines start talking, readying their weapons, preparing Scorpion Tanks and Warthogs, or just loitering, until the view shows Staff Sergeant Avery Junior Johnson walking through a line of Marines.
+
+Sergeant Johnson: "You heard the lady! Move like you've got a purpose!"
+Cortana (COM): "This is not a drill. I repeat, this is not a drill."
+Marines get in two lines, facing each other. Johnson walks down the column between the formation.
+
+Sergeant Johnson: (Easy) "Men...keep your eyes down range, fingers on your triggers, and we all go home in one piece." (turns around) "Am I right, Marines?"
+Sergeant Johnson: (Normal) "Once again, it is our job to finish what the flyboys started. We are leaving this ship, platoon, and engaging the Covenant on solid ground. When we meet the enemy, we will rip their skulls from their spines, and toss 'em away, laughin'!" (turns around) "Am I right, Marines?"
+Sergeant Johnson: (Heroic) "Men, here is where we show those split-chin squid-head sons-of-bitches that they could not have picked a worse enemy than the human race! We are going to blow the hell out of those dumb bugs, until we don't have anything left to shoot 'em with! And then we are going to strangle them with their own-living-guts!" (turns around) "Am I right, Marines?"
+Sergeant Johnson: (Legendary): "Men, we led those dumb bugs out to the middle of nowhere to keep 'em from gettin' their filthy claws on Earth. But we stumbled onto somethin' they're so hot for, that they're scramblin' over each other to get it. Well, I don't care if it's God's own anti-son-of-a-bitch machine, or a giant hula hoop, we're not gonna let 'em have it! What we will let 'em have...is a belly full of lead, and a pool of their own blood to drown in!" (turns around) "Am I right, Marines?"
+Marines: "Sir, yes sir!"
+Sergeant Johnson: "Uh-huh. Damn right, I am. Now move it out! Double time!"
+The Marines break formation and run out of the area, as Johnson follows them slowly.
+
+Cortana (COM): "Attention, all personnel: We are re-engaging the enemy. Internal and external contact imminent."
+Sergeant Johnson: "All you greenhorns who wanted to see Covenant up close...this is gonna be your lucky day."
+Cut to a computer screen.
+
+>X - CORTANA 1 0 CRYOSTOR. 23.4.7
+>(PRIORITY ALPHA)
+>UNSEAL THE HUSHED CASKET
+Tech Officer Sam Marcus: "Whoa! Sir?"
+Tech Chief Thom Shephard: "Right. Let's thaw him out."
+The crewmen begin pressing buttons.
+
+Tech Officer Marcus: "Okay. Bringing low-level systems online. Cracking the case in thirty seconds."
+Cut to John-117's cryo tube:
+
+Tech Officer Marcus: "He's hot! Blowing the pins in five..."
+Note: Testing only happens in Easy and Normal difficulties.
+
+Tech Officer Marcus (COM): "His suit shows green. Cycle complete."
+Tube cover lifts itself
+
+Tech Chief Shephard: (salutes) "Sorry for the quick thaw, Master Chief. Things are a little hectic right now. The disorientation should pass quickly."
+Tech Officer Marcus (COM): (waves) "Welcome back, sir. We'll have you battle ready stat."
+Tech Chief Shephard: "Chief, please look around the room. I need to get a calibration reading for your battle suit's diagnostics."
+The Chief looks around.
+
+Tech Chief Shephard: "Good. Thank you sir."
+Tech Officer Marcus (COM): "I'm bringing your health monitors online, sir."
+The HUD's health bars appear.
+
+Tech Chief Shephard: "Vital signs look normal. No freezer burn. Okay sir, go ahead and climb out of the cryo tube."
+The Master Chief gets out of the cryotube.
+
+Tech Chief Shephard: "I gave you a double dose of the wake-up stim. Take a quick walk around the cryo bay and join me at the optical diagnostics station when you're ready."
+Thom walks over, soon Master Chief follows him and stands on a red square.
+
+If the Chief does not face Thom or begins to wander:
+
+Tech Chief Shephard: "Sir, I need you to look at me so we can begin."
+When the Chief faces Thom and stands on the square:
+
+Tech Chief Shephard: "I know the ordnance techs usually take care of your targeting sensors, but we're short of time, Chief. Just look at each of the flashing panels to target them. When you lock on, it'll change color."
+Chief looks at the flashing lights.
+
+Tech Chief Shephard: "Okay, that looks good..."
+Tech Officer Marcus: "Sir, I'm getting some calibration errors. I'm going to invert your looking pitch, so you can see if you like it better that way."
+The pitch is inverted.
+
+Tech Officer Marcus: "Try targeting the flashing lights again."
+The Chief looks at the panel.
+
+Tech Officer Marcus: "Is that better or should I switch it back?"
+The Chief decides the way he wants.
+
+Tech Officer Marcus (COM): "OK, I'll leave the pitch normal/inverted. But if you want, you can change it yourself later. (pause) I'm ready for the energy shield test now."
+Tech Chief Shephard: "Please follow me to the energy shield test station."
+Cortana (COM): "Fire teams: Report to defensive positions Alpha through Sierra. Sensors show inbound Covenant boarding craft. Stand by to repel boarders."
+The Chief steps into the square.
+
+Tech Chief Shephard: "Okay, bring his energy shields online please."
+The Chief's shield meter appears, and charges to full.
+
+Tech Officer Marcus (COM): "Alright. Shields read as fully charged."
+Tech Chief Shephard: "Okay, sir. Bring them down to test the automatic recharge."
+The Chief's shields get depleted, and recharge themselves again.
+
+Tech Officer Marcus (COM): "Recharging normal. Showing green across the board."
+
+Captain Jacob Keyes (COM): "Bridge to Cryo 2, this is Captain Keyes. Send the Master Chief to the bridge immediately."
+Tech Chief Shephard: "Captain, we'll have to skip the weapons diagnostics and I-"
+Captain Jacob Keyes (COM): "On the double, crewman."
+Tech Chief Shephard: "Aye aye, sir. (to the Chief) The skipper seems jumpy, we'd better get moving. We'll find you weapons later."
+Tech Officer Marcus (COM): "Okay. I'll leave the self-diagnostics running, at least."
+Tech Chief Shephard: "Good idea. You'd better get to your evac group, Sam!"
+Tech Officer Marcus (COM): "Affirmative. Just have to reset the computer and I'm outta here!"
+Banging is heard on one of the observation chamber doors. An alarm activates and flashes red.
+
+Tech Officer Marcus: "Oh God! They're trying to get through the door!"
+The door breaks open and a Sangheili Major fires on Sam.
+
+Tech Officer Marcus: "Security! Intruders in Cryo Two! No, please don't— (a plasma bolt hits Sam, and he falls) Agh!"
+The Elite turns around and tries to shoot at the Master Chief from above, but can't get through the glass. The Elite runs off.
+
+Tech Chief Shephard: (panicked) "Sam! Sam! (to the Chief) C'mon, we've got to get the hell out of here!"
+Shephard unlocks the exit door.
+
+Tech Chief Shephard: "This way!"
+If you play on Heroic or Legendary, gameplay begins here
+
+Thom leads Master Chief out of Cryo 2 and down a corridor. Thom tries to open the second door, which explodes, killing him. The Master Chief leaves the area and sees crewmen battling the Covenant while another crewman is killed by an explosion.
+
+
+Crewman 1: "Behind us! They're right behind us!"
+A few crewmen run into the room while the doors are closing.
+
+Crewman 2 or Marine: "Secure those blast doors! Move! MOVE!"
+A crewman runs away from the blast door, with a second directly behind him.
+
+Crewman 3: "Wait for me!"
+The crewman is killed by an explosion just as he reaches the blast doors, which shut slowly.
+
+Crewman: (if the Chief lingers) "Master Chief, sir, the situation's secure here. You're probably needed somewhere else!"
+Cortana (COM): "Alert! All hands, boarding parties on port decks Four, Seven, and Twelve. Baker Team move to engage."
+The Chief finds his way to another room where he comes face to face with a Minor Elite. It growls at him but is suddenly attacked by Marines, and the Elite flees.
+
+Marine 1: "Chief, Cortana says get to the bridge, double quick!"
+Through out all this, Cortana continues to coordinate the crew's defense against the Covenant boarders.
+
+Cortana (COM): "Warning! Covenant incursions on port decks Three and Nine. Alpha Team engage enemy boarders."
+Later:
+
+Cortana (COM): "Enemy boarding parties on starboard decks Eight through Ten. Echo Team intercept Covenant forces."
+Later:
+
+Cortana (COM): "Covenant boarding craft detected on port decks Four, Five, Seven, Eight, and Eleven. All available Combat Teams, respond!"
+Later:
+
+Cortana (COM): "Baker Team reports Covenant forces engaged on port deck Seven. Security teams move to assist."
+Later:
+
+Cortana (COM): "Warning! Covenant boarders on starboard decks Four and Six. Sierra Team reports heavy resistance! Security teams assist."
+Later:
+
+Cortana (COM): "Alert! Alpha and Charlie Teams report heavy fighting on port decks Five through Nine. Foxtrot Team move to starboard decks Eight and Ten, and stand by."
+Later:
+
+Cortana (COM): "Reserve Combat Teams Tango through X-Ray to port decks Five and Six, on the double!"
+Later:
+
+Cortana (COM): "Reserve Combat Teams Oscar and Romeo to port decks Nine through Eleven."
+The Chief makes his way to a room where PFC Chips Dubbo is helping some crewmen battle the Covenant boarders.
+
+PFC Chips Dubbo: "Sir! The Captain needs you on the bridge, ASAP! You better follow me."
+The Chief follows Dubbo through a room full of dead or wounded Marines. Outside there's another fight between the crew and the Covenant.
+
+PFC Chips Dubbo: "Get clear, Chief!"
+The blast doors close locking the Covenant out.
+
+The Chief and Dubbo get to the bridge:
+
+PFC Chips Dubbo: "Captain Keyes is waiting for you, sir!"
+
+The Chief approaches Keyes.
+
+Master Chief: "Captain Keyes."
+Keyes shakes the Master Chief's hand.
+
+Captain Jacob Keyes: "Good to see you, Master Chief. Things aren't going well. Cortana did her best, but we never really had a chance."
+Cortana's avatar appears on the holotank.
+
+Cortana: "A dozen Covenant superior battleships against a single Template:Class. Given those odds I'm content with three...make that four kills." (to the Chief:) "Sleep well?"
+Master Chief: "No thanks to your driving, yes."
+Cortana: (smiles) "So you did miss me."
+A loud explosion rocks the bridge. The Chief lurches and Keyes grabs a pedestal for support.
+
+Captain Jacob Keyes: "Report!"
+Cortana: "It must have been one of their boarding parties! I'd guess an Antimatter Charge!"
+Fire Control Officer: "Ma'am! Fire control to the main cannon is offline!"
+Cortana: "Captain, the cannon was my last offensive option."
+Captain Jacob Keyes: "Alright then. I'm initiating Cole Protocol, Article 2. We're abandoning the Autumn. That means you too, Cortana."
+Cortana: "While you do what, go down with the ship?"
+Captain Jacob Keyes: "In a manner of speaking. The object we found, I'm going to try and land the Autumn on it."
+Cortana: "With all due respect, sir, this war has enough dead heroes."
+Captain Jacob Keyes: "I appreciate your concern, Cortana, but it's not up to me. Protocol is clear. Destruction or capture of a shipboard AI is absolutely unacceptable, that means you're leaving the ship. Lock in a selection of emergency landing zones, upload them to my neural lace, and then sort yourself for a hard transfer."
+Cortana: "Aye aye, sir."
+Cortana's avatar disappears.
+
+Captain Jacob Keyes: "Which is where you come in, Chief. Get Cortana off this ship. Keep her safe from the enemy. If they capture her, they'll learn everything. Force deployment, weapons research... Earth."
+Master Chief: "I understand."
+
+Cortana's avatar reappears.
+
+Cortana: "The Autumn will continue evasive maneuvers until you initiate a landing sequence. Not that you'll listen, but I'd suggest letting my subroutines handle the final approach."
+Captain Jacob Keyes: "Excellent work, Cortana. Thank you. Are you ready?"
+Cortana looks about the bridge for a moment, then sighs.
+
+Cortana: "Yank me."
+Captain Keyes pulls a data chip out of the holotank and gives to the Master Chief.
+
+Captain Jacob Keyes: "Good luck, Master Chief."
+The Chief slides the chip into the back of his helmet.
+
+Cortana: "Hmm...your architecture isn't much different from the Autumn's..."
+Master Chief: "Don't get any funny ideas."
+
+Keyes hands his pistol to the Chief.
+
+Captain Jacob Keyes:"I don't keep it loaded, son. You'll have to find ammo as you go."
+If the Chief lingers next to Captain Keyes:
+
+Captain Jacob Keyes: "Get moving, Master Chief. There's nothing you can do here."
+or
+
+Captain Jacob Keyes: (angrily) "I gave you an order, soldier. Get off this ship!"
+If the Chief stays on the bridge but not next to Captain Keyes:
+
+Cortana: "We need to get off this ship, Chief, before we're completely overrun by Covenant."
+If you use the Pistol to kill Captain Keyes or any crewmen:
+
+Cortana: (shocked and infuriated) "What the hell are you doing?!"
+Cortana (COM): "Security to the bridge, the Master Chief has gone rampant! Take him down, boys!"
+Invincible Marines come in and quickly kill the Master Chief, taunting him afterward.
+
+Continuing, without killing anyone on the bridge, Cortana and Master Chief see groups of Marines engaging the Covenant in the mess hall.
+
+Cortana: "Those Marines could use some help, Chief! Do what you do best!"
+The Chief steps over a body of a dead Marine and picks up an Assault Rifle.
+
+If the Chief takes a hit with his shields down:
+
+Cortana: (urgently) "Keep your head down! There's two of us in here now, remember?"
+Captain Jacob Keyes (COM): "Combat Teams on decks Seven and Eight, fall back to secondary defensive positions."
+The Chief comes across a group of three Marines fighting an Elite. After he helps them kill the Elite, the ship is rocked by a violent explosion.
+
+
+Marine 1: "What the hell? Did something just hit us?"
+Marine 2: "Move it! Back to the airlock!"
+An explosion comes from the airlock, caused by a Covenant boarding vessel crashing into the ship, killing two Marines standing guard next to it. Covenant troops pour into the corridor.
+
+Captain Jacob Keyes (COM): "Reserve Combat Teams on decks Five through Nine, fall back to secondary defensive positions!"
+If the Chief goes inside the Covenant Boarding Craft:
+
+Cortana: "They're using our lifeboat airlocks to attach their boarding craft. We go out and they come in! Clever bastards..."
+When the Chief leaves:
+
+Marine: "Go on ahead Chief. We will secure this airlock."
+Captain Jacob Keyes (COM): "Crew and Ops personnel on decks One through Four, report to evac stations immediately!"
+Upon finding a trio of Marines fighting Covenant while taking cover behind Combat Barriers
+
+Marine 3: "We're taking fire. We could use a hand!"
+Captain Jacob Keyes (COM): "Ops personnel on decks Nine through Twelve, report to evac stations now!"
+As the Chief comes into a room where the Covenant are on a ledge above him.
+
+Cortana: "Covenant! On the landing above us!"
+After the battle on the ledges:
+
+Captain Jacob Keyes (COM): "All hands, this is the Captain. Prepare to abandon ship! Combat Teams, repel boarders until Ops personnel are away. Good luck. Keyes out."
+As the Chief sees a lifepod launching with pulse lasers bursting all around the airlocks.
+
+Cortana: "The lifepods are launching! We should hurry."
+Captain Jacob Keyes (COM): "All remaining crew and Ops personnel, hit the lifeboats! Fall back to evac stations."
+Plasma beams continue to hit the hull. Three lifepods launch from the airlocks in sequence. The third one is hit by enemy fire and explodes.
+
+Cortana: "The Covenant are destroying the lifepods...they really don't want us on that ring."
+As the Chief passes some blast doors:
+
+Cortana: "Warning! Blast doors closing! (pause) We'll have to use the ship's maintenance access ways. Follow the NAV point, it will lead you to an opening."
+Captain Jacob Keyes (COM): "Combat teams Alpha through November, pull out to nearest evac station!"
+Note: The following only occurs in Easy and Normal difficulties.
+
+As the Chief enters the access tunnel:
+
+Cortana: "I'm detecting Covenant movement outside the access ways. Activating motion tracker. Let's find a safe exit."
+The Chief approaches the first door. Red dots surround his position on the motion tracker.
+
+Cortana: "They're right on top of us! We need to find another way through."
+The Chief finds another locked door. Red dots still appear on the motion tracker.
+
+Cortana: "We're too close! We need to find another route."
+The Chief finds an unlocked door leading into a darkened room.
+
+Cortana: "Motion tracker shows all clear."
+The Chief encounters a broken door.
+
+Cortana: "Wait. We need to get through that door, but it's been damaged by an explosion. Analyzing... The door's control mechanism is offline, but it's taken a lot of damage. You should be able to bash it open with the butt of your weapon."
+The Chief melees the door and it opens.
+
+Captain Jacob Keyes (COM): "Combat Teams Sierra through Victor, prepare for evac!"
+As the Chief crosses through the control room for his cryo bay, he sees a trio of Elites looking around in the bay.
+
+Cortana: "It looks like the Covenant wanted to catch you napping."
+The Elite intruders spot the Master Chief, open fire on him (with no effect due to the glass protection), and soon leave the cryo bay.
+
+The Chief leaves the control room and makes his way to another access tunnel.
+
+A while later, during another fight:
+
+Captain Jacob Keyes (COM): "All combat personnel, fall back to tertiary defensive positions!"
+Later, while the Chief passes through a damaged part of the ship:
+
+Cortana: "The damage to the superstructure is extensive... I don't know how much more abuse the Autumn can take."
+Captain Jacob Keyes (COM): "Combat Teams, fall back to secondary defensive positions!"
+The Chief fights his way to the final airlock
+
+When all of the immediate Covenant forces around the last airlock are defeated:
+
+Cortana: "There's one last lifeboat! Quickly, get aboard before it launches!"
+The Chief enters the last airlock.
+
+Frightened Marine: (thrown to the ground by an explosion) "Oh no, oh no!" (Picked up by the Chief and thrown into lifepod) "Ahhh!"
+Cortana: "Now would be a very good time to leave!"
+The Chief sweeps his rifle into the hallway one last time to check for enemies, and then enters the lifeboat. He grabs onto a handhold on the ceiling, while the Marine he picked up crawls into a seat.
+
+Master Chief: "Punch it."
+Bumblebee Pilot: (seals her eye visor) "Aye aye, sir!"
+The lifeboat launches out of the airlock.
+
+Bumblebee Pilot: "We're disengaged. Goin' for minimum safe distance."
+Panicking Marine: "We're gonna make it, aren't we, sir? I don't wanna die out here!"
+The Chief pats him on the shoulder.
+
+Cortana: "Look!"
+The Chief steps up front. Halo swings into view and the Bumblebee drops towards it
+
+Marine: "What is that thing, Lieutenant?"
+Bumblebee Pilot: "Hell if I know, but we're landin' on it."
+Panicking Marine: "The Autumn! She's been hit!"
+The Chief dashes to the back of the lifeboat, and watches the Autumn.
+
+Cortana: "I knew it! The Autumn's accelerating, Keyes is going in manual!"
+The Autumn is struck multiple times by Plasma Torpedoes.
+
+Bumblebee Pilot: "Heads up everyone, this is it! We're entering the ring's atmosphere in five!"
+Cortana: "Sure you wouldn't rather take a seat?"
+Master Chief: "We'll be fine."
+The Chief grips the sides of the lifeboat, and bends his knees.
+
+Cortana: "If I still had fingers, they'd be crossed..."
+The Bumblebee heads into Installation 04's atmosphere.
+
+Fade to black.
+
+Level ends.

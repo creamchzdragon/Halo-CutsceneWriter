@@ -1,0 +1,336 @@
+TridentEdit
+Three teams. Three towers.
+
+{Cutscene}
+
+Five Pelicans fly in. They are followed by two Separatist Phantoms. Behind them is the Sangheili Assault Carrier Shadow of Intent. The view changes to a large energy barrier surrounded by Covenant Loyalists
+
+Commander Miranda Keyes (COM): "We hit these three generators, and the barrier will fall?"
+343 Guilty Spark (COM): "A small section, yes."
+A Grunt spots the flight formation as it approaches the mainland, jumps, and cowers.
+
+Commander Keyes (COM): "Good enough. Johnson, drop the Chief at the first generator, then head to the third. The Elites will punch right down the middle."
+Sergeant Johnson (COM): "Roger that."
+The Pelicans and Phantoms break formation. Two Pelicans, including Hocus' bird carrying the Chief, head towards Tower 1. Anti-Air Wraith fire erupts around them.
+
+Hocus (COM): "Charlie Foxtrot! Tower One approach has active Triple-A!"
+Gunfire hits one of the engines of the following Pelican, forcing it to collide into Hocus' Pelican, tossing the Warthog it carried out onto the ground. The second Pelican swerves out of control.
+
+Damaged Pelican Pilot (COM): "MAYDAY! I CAN'T CONTROL HER!"
+The Pelican drops out of sight, followed by the sound of a crash and a muffled explosion.
+
+Hocus (COM): "Pelican down! Pelican down!"
+ODST Sergeant (Johnson) (COM): "Brace yourselves; we're going in a little hot!"
+Chief grabs a Spartan Laser and jumps off the Pelican with the ODSTs.
+
+{Gameplay}
+
+ODST Sergeant (Reynolds): "Pile out! Go go go! Up the beach! Kill that Wraith!"
+or
+
+ODST Sergeant (Stacker): "Pile out! Go go go! Alright, up the beach! Take out that Wraith!"
+Hocus (COM): "Commander, this is Kilo 23. Lost my Wingman and our only Hog. Over."
+Commander Keyes (COM): "Roger that, Hocus. Get out of there!"
+The Master Chief and his Squad secure the beach, and destroy the Anti-Air Wraith
+
+ODST (COM): "Beachhead secure, Commander. Hostile Anti-Air has been neutralized."
+Commander Keyes (COM): "Hold position. I'm on my way. Shipmaster, begin diversionary bombardment."
+Shipmaster Rtas 'Vadum (COM): "I will beat the Prophet's shield like a drum. By the time the barrier falls, he will beg for mercy."
+A Pelican drops off a Mongoose and Warthog for the Chief and his Squad. If the existing squad have all died, replacements will also be dropped.
+
+Commander Keyes (COM): "Spark believes Truth can activate the rings at anytime. If he does, Earth... every being in the Galaxy... Halo will kill them all."
+They mount up and head off for the first tower.
+
+Commander Keyes (COM): "Get to the first tower. Shut it down."
+As the Chief drives up the hill towards the 1st generator, he sees the Separatists' Phantoms battling with the other Loyalists' Phantoms on tower 2.
+
+Sergeant Johnson (COM): "Ma'am, we're on the ground. Third Tower in sight."
+Commander Keyes (COM): "Good. The Arbiter and the Elites have touched down in number 2."
+(Co-op Change) Commander Keyes (COM): "Good. The Elites have touched down in number 2."
+
+ODST: "Objective in sight! Watch for heavy armor!"
+Prowlers, Ghosts, a Wraith and a Shade Turret stand in the Chief and his squad's way, but the squad eventually clears the armor and other resistance on the perimeter of the tower
+
+Commander Keyes (COM): "Chief. You've got to offline that tower."
+Keyes' Pelican drops off weapons.
+
+Commander Keyes (COM): "Get inside that tower. Take it down!"
+ODST: "Perimeter secure. Get inside that tower! Stick together! Check your corners!"
+Master Chief gets inside and secures the bottom floor. The ODST and/or Marines hold while the Chief secures the top floor and deactivates the tower.
+
+ODST: "Go on, sir. Tower controls should be up top!"
+The Chief secures the top floor, after an encounter with a Brute Chieftain with a Gravity Hammer and its Brute Bodyguards.
+
+Commander Keyes (COM): "Chief, find the tower controls, and shut it down!"
+The Master Chief deactivates Tower 1.
+
+{Cutscene}
+
+Commander Keyes (COM): "Good work, Chief! That's one. The Arbiter should be just about to..."
+-(Co-op change) Commander Keyes (COM): "Good work, Chief! That's one. The Elites should be just about to..."
+
+Tower 2 shuts down.
+
+Commander Keyes (COM): "...that's two! It's all up to Johnson's team now."
+Chief and Commander Keyes watch Tower 3 for a moment. It remains active.
+
+Commander Keyes (COM): "Get back outside, Chief. Wait for transport."
+{Gameplay}
+
+Commander Keyes (COM): "Johnson, come in. Over."
+Sergeant Johnson (COM): "Brute reinforcements, ma'am (static)! We're pinned down!"
+Commander Keyes (COM): "I'm on my way!"
+Sergeant Johnson (COM): "Negative! Fire's too heavy! (to his squad) Everyone fall back! Now! (static and cut-off)"
+Commander Keyes (COM): "Sergeant Major!"
+No response.
+
+Commander Keyes (COM): "Johnson! Can you hear me?! (No response) Chief, you need to link up with the Arbiter and proceed directly to the Third Tower. Make your way back to the beach."
+-(Co-op change) Commander Keyes (COM): "Chief, you need to link up with the Elites and proceed directly to the Third Tower. Make your way back to the beach."
+
+The Chief hurries back to the elevator, and heads back down. After clearing another of group of Jackals and Grunts attacking the Marines holding the lower floor, the Chief and his squad get back outside to their vehicles, or meet up with transport if they have no vehicles left.
+
+Marine Driver: "Get in, sir. We gotta get back to the beach."
+The Chief and the Marines head back to the beach.
+
+
+If You Want It Done Right...Edit
+Close air support.
+
+Hocus (COM): "Sir, I've got a flock of birds that need an escort. Take a Hornet; get those Pelicans safely to the Third Tower."
+The Chief and his accompanying soldiers meet up with the Hornets and other Marines who held the beach. The Chief gets in a Hornet and the other Hornets assist to clear the airspace of Tower 2.
+
+If the Chief tries to land on the Second Tower:
+
+Thel 'Vadam (Elite in Co-op) (COM): "Second Tower is clear, Spartan, no need to land. Let us hasten to the Third Tower."
+They proceed to Tower 3. They reach Tower 3 airspace, with heavy resistance both in the air and on the ground.
+
+Pelican Pilot (COM): "Objective in sight, Commander... No sign of Johnson or his team."
+Commander Keyes (COM): "Understood. Chief, clear an LZ, then get inside the tower."
+After the UNSC airborne forces take out the Wraiths, the Separatist Phantoms arrive and drop off Thel 'Vadam and his Elites and assault the tower's entrance. The Chief assists the Elites, securing the outside of remaining armour and infantry. The Chief lands the Hornet and joins the Elites on the ground. The Marines from Pelicans and Hornets follow up, and secure the perimeter. They push on inside the tower, encountering a swarm of Drones, a pair of Hunters and a large pack of Brutes and their Grunt and Jackal subordinates. The Chief, 'Vadam and their allies overcome this defense and secure the bottom floor and the elevator.
+
+Thel 'Vadam: "Darken this tower and the barrier will fall. Go, Spartan! We have no time to waste."
+'Vadam and Elites hold the lower level while the Master Chief heads up. The Chief secures the top floor, after encountering a War Chieftain wielding a Plasma Cannon with Brute Stalkers.
+
+Commander Keyes (COM): "Hit the switch, Chief, and the barrier will fall!"
+The Chief deactivates the Third Tower.
+
+{Cutscene}
+
+The barrier falls. The Shadow of Intent advances.
+
+Rtas 'Vadum (COM): "Now, Prophet...your end has come."
+A Slipspace rupture suddenly appears. High Charity emerges and plummets down to the Ark.
+
+Rtas 'Vadum (COM): "High Charity...? By the Gods. Brace for impact!"
+Debris from High Charity strikes right through the Shadow of Intent's hull. A Flood Dispersal Pod then breaks apart in midair. Part of the pod crashes through the window right above the Chief. It stops as it hits the elevator window, glowing eerily. The Chief raises his rifle and prepares to engage the enemy he knows too well.
+
+{Gameplay}
+
+The Chief quickly eliminates the few hostiles that arrived in the pod.
+
+Commander Keyes (COM): "Shipmaster, what's your status?"
+Rtas 'Vadum (COM): "Significant damage! Weapon systems disabled!"
+Commander Keyes (COM): "Move to a safe distance, stay away from the Flood."
+Rtas 'Vadum (COM): "Why would the Parasite come here?!"
+343 Guilty Spark (COM):(alarmed) "The Ark is out of range of all the active installations! Priority: We must contain this outbreak, before-"
+Commander Keyes (COM): "No! First, we stop Truth. Then we deal with the Flood."
+The Chief links up with the Elites and the Arbiter, which is under attack. After eliminating Flood forces in the tower, they get outside to meet Marines engaged in combat with the Flood, and assist. A Separatist Phantom arrives to pick up Thel 'Vadam.
+
+343 Guilty Spark: "Quickly, I must see the point of impact; assess the damage done to the Ark."
+Thel 'Vadam: "To the top of these hills, Oracle, no higher. We cannot risk your capture by the Flood."
+'Vadam takes 343 Guilty Spark with him. The Pelicans drop a M12G1 LAAV Warthog, a Mongoose, and a Scorpion Tank for the assault on the Citadel. The Chief, Marines, and the remaining Elites mount up.
+
+Commander Keyes (COM): "Shipmaster's Carrier is out of commission, Chief. I need you to take down Truth. The Flood's just going to put pressure on him; accelerate his plans. Punch through the cliffs! Get inside that Citadel!"
+Journey's EndEdit
+Storm the Citadel.
+
+The Assault Team gets through the snowy cliffs, where they first encounter few small Covenant emplacements.
+
+Pelican Pilot (COM): "Citadel in sight! Brutes are mobilizing everything they've got."
+The Assault Team clears the cliff, facing Ghosts, Shade turrets and Prowlers. Once they are dealt with, a Wraith is the only thing standing in their path, and once taken out they meet with Hornet Gunships near the route down into the clearing.
+
+Marine Sergeant (Stacker) (COM): "Hornets, inbound!"
+Depending on choice, the Master Chief takes a Hornet and makes his way to the Citadel, when two Scarabs drop down from above.
+
+Pelican Pilot(COM) "I count two Scarabs! Repeat: two Scarabs!"
+With the choice Chief chooses, the Assault Team backs him up: The Scorpion Tank fires from a far range, the Warthog and Mongoose move about under the Scarabs to assist Chief in taking their "legs" down, and the Hornets engage the Scarab from the air. But some Ghosts, Banshees and another Prowler help to defend the Scarabs.
+
+The Chief takes out the first Scarab.
+
+Commander Keyes (COM): "First Scarab's down! All units, concentrate your fire on number two."
+The Chief takes out the second Scarab.
+
+Commander Keyes (COM): "Both Scarabs down, well done."
+If any minor Covenant resistance is left:
+
+Commander Keyes (COM): "Marines! Kill the stragglers!"
+A Separatist Phantom arrives at the platform leading to the entrance of the Citadel, dropping off Thel 'Vadam and 343 Guilty Spark.
+
+If the Chief isn't there when 'Vadam lands:
+
+Thel 'Vadam (COM): "Spartan, come to me. This platform hides a path!"
+Commander Keyes (COM): "Spark has found a way into the Citadel. He's waiting for you on the platform, Chief. Go!"
+The Chief lands and meets 'Vadam and 343 Guilty Spark at the top of the Platform.
+
+Thel 'Vadam: "The Flood scales the Citadel's far wall. Activate this bridge, Oracle! (turning to the Chief) The Prophet will die by my hands, not theirs."
+343 Guilty Spark: "Calamity! If only we had more time!"
+The Chief and 'Vadam enter alone. The door they entered through closes and bolts up. The entrance is a large hallway with screens mounted along the walls.
+
+Cortana (Cortana Moment): "It asked, and I answered. (turns bitter) For a moment of safety, I loosed damnation upon the stars."
+Prophet of Truth: "My faithful...stand firm!"
+{Cutscene}
+
+Viewscreens around the Chief light up. The Prophet of Truth is seen making another speech. The Chief and 'Vadam hurry to find a way up.
+
+Prophet of Truth (Video COM): "Though our enemies crowd around us, we tread the blessed path. In a moment, I will light the rings! And all who believe...shall be saved!"
+Master Chief and 'Vadam discover an elevator, with a screen in front of it, showing Johnson behind Truth, held aloft by a Brute. Johnson punches the Brute in the face, to no effect.
+
+Commander Keyes (COM): "Chief, how close are you?"
+They look up. The height is phenomenal.
+
+Master Chief: "Not close enough."
+The view changes to the Control Center. Johnson is being thrown at the floor.
+
+Sergeant Johnson: "That the best you got?"
+A Brute Chieftain gives him an amused huff, then picks him up around the neck and begins to strangle him.
+
+Sergeant Johnson: "Oh, come on. Impress me."
+Truth turns around and sees what is happening.
+
+Prophet of Truth: "Stop, you imbecile! He wants you to kill him! (turns back to The Ark's console, and speaks quietly) I'd prefer that you did not."
+The Chieftain slams Johnson's head into the solid holographic console.
+
+Sergeant Johnson: "What's the matter, big shot? Can't start your own party?"
+Prophet of Truth: "I admit, I need your help." (a Pelican appears on screen behind them, unnoticed and rapidly approaching the main window) "But that secret dies with all the rest."
+The Pelican breaks through the window and crashes onto the ledge next to them, crushing a Brute, sending his Spiker flying. Truth is thrown off-screen, landing near the Spiker.
+
+A Brute Captain gets up, but Keyes blasts it with her Shotgun.
+
+Commander Keyes: "Johnson! (ejects a shell from her shotgun) Sound off!"
+Sergeant Johnson: "(coughing) Get out of here!"
+Commander Keyes: "Not without you!"
+More Brutes surround Miranda and Johnson. Miranda fires away at the Brutes with her Shotgun. Their armor spark from the shots, but the short-range weapon does not do severe damage to them, and they remain on their feet.
+
+Prophet of Truth: "You delay the inevitable. One of you will light the rings."
+Miranda Keyes draws a Pistol and aims her weapons both ways.
+
+Prophet of Truth: "You cannot hope to kill them all!"
+Keyes pauses and lowers her weapons. She looks at her pistol.
+
+Commander Keyes: "You're right..."
+She reluctantly aims the pistol at Johnson.
+
+Sergeant Johnson: "Do it. Me...then you..."
+Keyes hesitates, lowering her pistol slightly with sadness on her face.
+
+Sergeant Johnson: "Now!"
+Keyes straightens up and aims. Several Spiker shots are heard. Keyes gasps in pain and drops her weapons. Johnson starts to run to her aid.
+
+Sergeant Johnson: "No!"
+A Brute Captain restrains Johnson, who still struggles, horrified. Miranda Keyes falls to her knees, collapses, and dies, with seven glowing spikes in her back. Truth walks on screen, gingerly holding a Spiker in hand.
+
+Prophet of Truth: "Your forefathers wisely set aside their compassion..."
+He looks down at Miranda and tosses the Spiker away, and shakes a fist to emphasize his speech.
+
+Prophet of Truth: "...steeled themselves for what needed to be done."
+Truth walks up to Johnson.
+
+Prophet of Truth: "I see now why they left you behind."
+Sergeant Johnson is brought up to the control panel.
+
+Prophet of Truth: "You were weak...and gods must be strong."
+He forces Johnson's hand down on the panel with a smug look. Johnson, still overcome with grief and shock, doesn't resist. Instantly the Control Terminal begins to change and heighten. Truth raises his arms in triumph. Six out of Seven Holographic Halo Rings light up one by one (Installation 04 had not yet been replaced, so its ring does not light up). At the end of the corridor, the Chief and Thel 'Vadam emerge from the lift. Two Flood Tank Forms drop from above. The Master Chief draws his Assault Rifle and aims, and 'Vadam activates his Energy Sword.
+
+Gravemind (through the Tank Forms): "Do not shoot, but listen! Let me lead you safely to our foe. Only you can halt what he has set in motion."
+They lower their weapons cautiously. Several Infection Forms scurry between their feet towards their common enemy. The Master Chief and 'Vadam look at each other, obviously not trusting the Flood, but knowing they have no other choice.
+
+{Gameplay}
+
+RevelationEdit
+The Master Chief, The Arbiter, and the Flood begin their assault on the remaining Covenant infantry. After encountering heavy resistance whilst crossing a bridge guarded by heavy weapons, they reach a room with holograms of Truth in the Forerunner systems.
+
+Prophet of Truth (Hologram): "How could I have known the Parasite would follow?! Undoubtedly this is the Heretics' doing! A final, bitter curse. Clear evidence of treachery long hidden!"
+At the second bridge, the Covenant forces make their final resistance. The Master Chief and the Arbiter eventually defeat the last of Truth's followers - including a Brute Chieftain wielding a Gravity Hammer and his Bodyguards.
+
+At the second room, Truth holograms broadcast a final message.
+
+Prophet of Truth (Hologram): "So far are we along the path, that I must strain to hear the clumsy patter of their pursuit. Know this my brothers, they may foul the way with their charred and broken bones, but they will not stop the Journey."
+The resistance on the third bridge has already been crushed by the Flood. A light bridge is all that remains to reach Truth.
+
+{Cutscene}
+
+Master Chief and The Arbiter cross the light bridge, and come across Johnson, who is resting the dead Miranda Keyes on his lap by her head next to the Pelican. The pair stare into Miranda's empty eyes, until Johnson closes them gently.
+
+Sergeant Johnson: "Stop the rings. Save the rest."
+The Chief continues to stare at Miranda, shoulders slumped, obviously disheartened, while 'Vadam approaches the crawling form of Truth, his Energy Sword turned off but at the ready. He grabs Truth by his robes and points his currently harmless sword in his face.
+
+Prophet of Truth: (Weakly) "Can you see, Arbiter? The moment of salvation is at hand."
+Thel 'Vadam: (grabbing Truth by the throat) "It will not last!"
+Prophet of Truth: "Your kind... never believed in the promise of the sacred rings."
+Gravemind (Speaking through Truth): "Lies for the weak. Beacons for the deluded."
+At this moment, 'Vadam draws his Energy Sword back and activates it, ready to kill his former leader. The Master Chief points his Assault Rifle at Truth, in case he is completely taken over by the Flood.
+
+Thel 'Vadam: "I will have my revenge. On a Prophet, not a plague!"
+Prophet of Truth: "My feet tread the path. I shall become a god!"
+Tentacles begin to sprout on Truth as the Flood infection progresses.
+
+Gravemind (Speaking through Truth): "You will be food - nothing more."
+The Chief approaches the Ark's Control Panel, ready to deactivate it.
+
+Truth: "No!"
+The Chief deactivates the Ark. The seven holographic Halo rings dim. A Flood body begins to stir.
+
+Prophet of Truth: (being held aloft by 'Vadam) "I...am...Truth! The voice of the Covenant!"
+'Vadam turns Truth away from him and grabs his neck viciously. Truth's crown falls off as he pitifully gasps for air, trying to grab 'Vadam's hands.
+
+Thel 'Vadam: "And so, you must be silenced."
+
+'Vadam stabs his sword through Truth's back. It goes clean through him; the two points of the Energy Sword poke through his chest as he writhes and screams in pain. Flood spores shoot out of his mouth and the infection lets out a pitiful squeal. The last of the High Prophets is dead.
+
+'Vadam lets Truth's corpse fall to the floor. 'Vadam lets out a roar of triumph and deactivates his sword. The Chief looks at him and nods, acknowledging him for ending the life of the Prophet who declared war on humanity; they then turn to see Johnson carrying Miranda's body into the Pelican. There is a moment of silence as they realize their victory has not been without loss.
+
+Suddenly, the ground begins to tremble, and massive tentacles rise up all around them. Chief wields his Assault Rifle and 'Vadam reactivates his sword. They both stare up at the tentacles, which are now reaching high above them. The Gravemind laughs manically.
+
+Johnson leaps into the Pelican cockpit and starts to take off. The Chief climbs onto the Control Panel of the Ark and jumps onto the Pelican's landing gear. Chief grabs onto Thel's hand. Just before the Pelican is out of the hole in the Control Room window that Miranda made, both are knocked off by the tentacles, sending the Pelican spiraling out of control. On the ring, the tentacles swerve around them and multiple Flood forms appear.
+
+Gravemind: "Now the gate has been unlatched, headstones pushed aside...corpses shift and offer room, a fate you must abide!"
+'Vadam holds his sword at the ready, and the Chief takes aim with his Assault Rifle. They come back to back.
+
+Thel 'Vadam: (almost exasperated) "We trade one villain for another."
+The tentacles retreat and Combat Forms come up from the control panel.
+
+{Gameplay}
+
+Sergeant Johnson (COM): "I can barely keep hold of her, Chief! No way I could pick you up! Head back to the lift... find a way down!"
+Both heroes fight their way through hordes of Flood, which have betrayed them now that the Halo rings have been deactivated. Fortunately, the Sentinels are also here and are fighting the Flood.
+
+Cortana (Cortana Moment): "I'm a thief...but I keep what I steal."
+Master Chief and Thel 'Vadam make it back. The lift is not working, so they jump down a shaft at the back of the room.
+
+{Cutscene}
+
+The Chief lands at the bottom of the shaft, landing in a room not unlike the entrances to the three Shield Towers. He looks beside him as the Arbiter comes down, and then stands up. A flickering, spooky image of Cortana appears in the hallway, running. She starts to turn the corner and disappears, after a split second. The Chief casually walks around the corner as though amused by Cortana's antics, but 'Vadam is confused.
+
+Thel 'Vadam: "What do you see?"
+With 'Vadam trailing far behind, the Chief looks around the corner. He sees a control panel. Cortana appears a second time, again for only a second, walking loftily (and spookily) towards it. She stops at the panel and disappears. The Master Chief goes to the panel and activates it.
+
+A view screen slides open, the Chief and 'Vadam step out onto a balcony to watch as a massive structure rises up out of thick fog. It's a Halo Ring, incomplete, rising from inside the Ark's Core. Cortana's plan is becoming clear.
+
+'Vadam turns and looks at the Chief.
+
+Thel 'Vadam: "A replacement. For the ring you destroyed."
+Master Chief: (to a blue glow behind him) "When did you know?"
+Spark hovers up from behind the Chief and 'Vadam and comes up to the Chief.
+
+343 Guilty Spark: "Just now - but...I had my hopes. What will you do?"
+Master Chief: "Light it."
+343 Guilty Spark: "...Then we are agreed! A tactical pulse will completely eradicate the local infestation! I will personally oversee the final preparations."
+He flies enthusiastically around the Chief and 'Vadam, who look at each other, and then flies off toward his new Halo, now talking to himself.
+
+343 Guilty Spark: "Though it will take time to fabricate an activation index, I will see to the letter that..." (he flies too far away)
+Thel 'Vadam: "How will you light it?"
+They both turn to look at High Charity, knowing that Cortana still has the Halo Index required to activate the new Installation 04.
+
+Fade to black.
+
+Level ends.

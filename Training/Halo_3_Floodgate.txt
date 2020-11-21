@@ -1,0 +1,195 @@
+It Followed Me HomeEdit
+Hot zone. Weapons free.
+
+Commander Miranda Keyes (COM): "The Flood - it's spreading, all over the city."
+Lord Hood (COM): "How do we contain it?"
+Commander Keyes (COM): "Find the crashed Flood ship; overload its engine core. We either destroy this city, or risk losing the entire planet."
+Lord Hood (COM): "Do it."
+Commander Keyes (COM): "Chief, make your way to the crash site."
+To the right, two Marines are seen on a cliff edge, fighting off several Flood Combat forms. They are overrun and mutate into more Combat Forms.
+
+When the Chief and Thel 'Vadam re-enter the city:
+
+Gunnery Sergeant Reynolds (COM): "All squads, report!"
+At this time, a human Combat Form jumps from the building on the right. Killing it will result in the Fog Skull being dropped.
+
+Marine (COM): "Multiple contacts, unknown hostiles."
+Thel 'Vadam: "There are some powerful weapons we've not yet used..."
+The Chief finds a Marine squad on a loading ramp.
+
+Marine (COM): "There! Over there! We're surrounded, Sergeant!"
+Marine (COM): "Aaaaah!"
+Reynolds (COM): "Fall back, fall back!"
+Female Marine: "Sergeant, come on!"
+Infection Forms and Combat Forms descend from above and swarm on the Marines at the ramp, killing, then infecting them, forcing the remaining Marines, the Chief, and 'Vadam to kill them.
+
+Reynolds: "Ahhh!"
+Reynolds becomes mutated by an Infection Form.
+
+Reynolds: "No! No! No!"
+A Marine proceeds to attack the reanimated Sergeant.
+
+Female Marine: "What are you doing?! That's the sergeant!"
+Marine: "That was the sergeant!"
+They fight off the wave of Flood.
+
+Thel 'Vadam: "Quickly! Let us find their ship. Make short work of this abomination!"
+The Marines accompany the Chief and 'Vadam into a building, where a lone Marine is running away from a horde of infection forms.
+
+Marine: "Uhh! Get off me!"
+or
+
+Marine: "Get it off! Get it off!"
+If the Marine is not saved, the Infection Form dives into his chest, gruesomely transforming him into a Flood Combat Form. This forces the Master Chief and 'Vadam to kill him immediately.
+
+Marines led by Stacker are pinned down behind sandbags with more Flood surrounding the area. The Chief and 'Vadam clear this section of the warehouse.
+
+If the Marines are saved from being killed or infected.
+
+Female Marine : "It gets inside you, chews you up."
+Marine: "We gotta get outta here."
+Thel 'Vadam: "Wretched parasite! Rise up and I will kill you! Again and again!" (He will sometimes replace "Wretched" with "Accursed")
+Reaching the other end of the warehouses, the surviving Marines who joined the Chief and 'Vadam hold position after clearing the area.
+
+Upstairs, two Marines, one wielding a Flamethrower, try to combat the Flood as well, but they soon die, leaving the Flamethrower for the Chief or 'Vadam to pick up as they head up there and down a hole in the floor into the office areas.
+
+Cortana (Cortana Moment): "Chief! (connection drops) I can't tell you everything...it's not safe. The Gravemind...it knows I'm in the sys-(connection drops)."
+The Chief and 'Vadam force their way through another wave of Flood, and find a marine huddling in a corner of the large room previously used as an Aid Station, surrounded by three dead marines. The Marine is holding a pistol, and will occasionally aim it at his own head, before lowering it and burying his face in his hands.
+
+Traumatized Marine: "I...I didn't have a choice...! The L.T...the Sergeant...they were all infected! I could see it crawling...sliding around beneath their skin! (sobs) A-and then they got up...they s-started to talk! Oh, God! Their voices! Oh, God! No, make them stop! I did them a favor...y-yeah that's it; I helped them! (sobs) Maybe...maybe I need to help myself... (breaks out into sobs)"
+With no time to spare, the Chief and 'Vadam continue on ahead to the lake bed.
+
+Shadow of IntentEdit
+The Flood. It has Evolved.
+
+The Master Chief and Thel 'Vadam enter the lake bed of Voi where the Scarab was previously fought and destroyed.
+
+Ship Master Rtas 'Vadum (COM): "Hail, humans, and take heed."
+
+{Cutscene}
+
+Rtas 'Vadum (COM): "This is the carrier Shadow of Intent."
+
+The Chief and the 'Vadam pause to see three Elite-controlled CCS-class Battlecruisers fly in formation as an Assault Carrier slices overhead from Slipspace.
+
+Rtas 'Vadum (COM): "Clear this sector, while we deal with the Flood."
+
+A Major and four Special Operation Elites leap out of landed Orbital Insertion Pods ahead of the Chief and 'Vadam, fighting against the Flood.
+
+{Gameplay}
+
+The Chief and 'Vadam make their way to the Elite lance.
+
+Thel 'Vadam: "My brothers, I fear you bring bad news."
+Major Domo Elite: "High Charity has fallen, become a dreaded hive!
+Thel 'Vadam: "And The Fleet? Has quarantine been broken?"
+Major Domo Elite: "A single ship broke through our line, and we gave chase."
+Thel 'Vadam: "But we had a fleet of hundreds!"
+Major Domo Elite: "Alas brother, the Flood... It has evolved!"
+The Chief, 'Vadam, and Elites fight their way through the infestation and arrive at the crash site.
+
+Commander Keyes (COM): "Chief, the Elites are looking for something. We didn't believe them when they told us."
+Sergeant Johnson (COM): "It's Cortana, Chief! She's on that ship! Find her - get her out!"
+Once outside again, a couple of Separatists Phantoms arrive, dropping off more Elite reinforcements to combat the Flood.
+
+Major Domo Elite or SpecOps Elite: "Hurry, Demon! We seek the same prize. But our Ship Master will sacrifice all to stop the Flood."
+The Master Chief, 'Vadam, and the remaining Elites fight past dozens of Pure Forms, Combat Forms, and Infection Forms to the massive, burning hulk of the crashed Flood battle cruiser. Up an incline, an ominous hole resides in the ship's hull, leading to the interior.
+
+Thel 'Vadam: "I shall remain here. We will let nothing pass."
+The Chief drops in alone.
+
+Infinite Devil MachineEdit
+Gravemind (Gravemind Moment): "Do not be afraid. I am peace...I am salvation."
+The Chief reaches a large room after passing several dead Ultra Elites.
+
+Gravemind (Gravemind Moment): "I am a timeless chorus. Join your voice with mine, and sing victory... everlasting!"
+{Cutscene}
+
+Inside the central chamber of the Flood-infested crashed cruiser. The Chief finds 'Cortana' in a small Covenant hand held memory unit.
+
+Cortana (recorded): "Chief!"
+Master Chief: "Cortana?"
+Cortana (recorded): "High Charity, the Prophets' holy city, is on its way-"
+Cortana's projection above the holographic unit flickers and then disappears.
+
+Master Chief: "Cortana!"
+Suddenly, the humming of a Phantom's gravity drives are heard, and a Phantom appears over the open chamber. The Chief turns and readies his Assault Rifle at it while 343 Guilty Spark floats down from the Phantom, which continues to hover overhead.
+
+343 Guilty Spark: (surprised) "Reclaimer!"
+A Flood Combat Form appears to the right, and 343 Guilty Spark turns and uses a powerful energy beam on it, destroying it in a single glancing hit. 343 Guilty Spark turns back to the Covenant device where Cortana supposedly is, and begins to interface it with a beam projected from his central eye.
+
+343 Guilty Spark: "I must act quickly before your construct suffers any further trauma!"
+The Chief grabs 343 Guilty Spark and pulls him away from Cortana's storage unit.
+
+Master Chief: "Wait. Leave her alone."
+343 Guilty Spark: "If we do not take this device to a safe location, somewhere I can make repairs..."
+343 Guilty Spark continues to try to project his energy beam into Cortana's storage unit.
+
+Master Chief: "On Halo, you tried to kill Cortana. You tried to kill me."
+343 Guilty Spark: "Protocol dictated my response! She had the Activation Index and you were going to destroy my installation. You did destroy my installation. Now, I only have one function: to help you, Reclaimer. As I always should have done."
+The Master Chief stares wordlessly at 343 Guilty Spark, then slightly motions with Cortana's storage device. 343 Guilty Spark takes Cortana's device away, shooting his beam into it, while the Phantom projects a Gravity Lift. 343 Guilty Spark enters it first and the Master Chief reluctantly follows.
+
+The view cuts to an aerial one over the whole town of Voi at a high altitude. Although clouds obscure the surface, part of the crashed Flood-controlled cruiser is stil visible. The Phantom flies away from ship, while two CCS-class Battlecruisers of the Fleet of Retribution glass Voi with their Energy Projectors.
+
+The view then cuts to an aerial one above the Forerunner Portal. Its 'fins' are open and blue energy streams from their tips to the open Slipspace portal drifting ominously above the construct. Fighting on Earth has ceased, and the Battle of Earth has ended with the departure of the Prophet of Truth's fleet through the Portal hours earlier. Four vessels of the Sangheilian Fleet are gathered above the Portal, and 343 Guilty Spark's Phantom arches to the largest of them: the Assault Carrier Shadow of Intent.
+
+Inside the bridge of the Shadow of Intent. Elites and humans are gathered around a long holographic table, with Ship Master Rtas 'Vadum floating on a gravity throne at one end with his Elite attendants, Master Chief and Thel 'Vadam in the middle, and Fleet Admiral Hood and Commander Miranda Keyes at the far side of the table. All are silent except 343 Guilty Spark, who is bobbing at the center of the table and interfacing with Cortana's memory unit with his projector beam.
+
+Rtas 'Vadum: "Will it live, Oracle? Can it be saved?"
+343 Guilty Spark: "Uncertain. This storage device has suffered considerable trauma. Its matrices are...highly unstable."
+343 Guilty Spark glances at 'Vadum and Lord Hood
+
+Lord Hood: "Perhaps one of our technicians-"
+Rtas 'Vadum: "That will not be necessary."
+Coincidentally, the storage device works again, and a holographic projection of Cortana springs up.
+
+Cortana (Recording): "Chief!"
+343 Guilty Spark: "Success!"
+Cortana (Recording): "High Charity, the Prophets' Holy City, is on its way to Earth. With an army of Flood. I can't tell you everything. It's not safe. The Gravemind...it knows I'm in the system."
+Cortana's image flickers and stalls. The Chief turns to Rtas 'Vadum.
+
+Master Chief: "It's just a message."
+Rtas 'Vadum: "Let it play."
+343 Guilty Spark jolts the device with another beam.
+
+Cortana (Recording): "But it doesn't know about the Portal, where it leads. On the other side, there's a solution. A way to stop the Flood, without firing the remaining Halo rings-"
+Suddenly, Cortana's skin lights up. She clutches her head, gasps in sudden pain and collapses onto the "floor".
+
+Cortana (Recording): (softly, her voice filled with agony) "Hurry, Chief...the Ark...there isn't much time."
+Cortana's recording ends, she is left staring with desperation at the Chief.
+
+343 Guilty Spark: "I'm...sorry."
+Rtas 'Vadum: "No matter, Oracle. We've heard enough. Our fight is through the Portal, with the Brutes and the bastard Truth!"
+Elites around the room raise their forearms and roar in agreement.
+
+Lord Hood: (wearily) "Fine. We'll remain here. Hold out as long as we can."
+Rtas 'Vadum: "Did you not hear? Your world is doomed." (descends from his seat) "A Flood army, a Gravemind, has you in its sights! You barely survived a small contamination."
+Lord Hood: "And you, Ship Master, just glassed half a continent! Maybe the Flood isn't all I should be worried about..."
+Rtas 'Vadum: "One single Flood Spore can destroy a species. Were it not for the Arbiter's counsel, I would have glassed your entire planet!"
+Lord Hood angrily raises his fist at 'Vadum, but Miranda Keyes interrupts.
+
+Commander Keyes: "Sir, with respect, Cortana has a solution."
+Lord Hood: "Cortana? Did you see her condition? How damaged she is?"
+While Hood and Keyes argue, the Master Chief bends down and observes Cortana's pained, frozen figure, still collapsed on the holographic table.
+
+Lord Hood: "She could be corrupted for all we know. Her "solution" could be a Flood trap!"
+Commander Keyes: "We should go through the Portal, find out for sure."
+Lord Hood: "What we should do Commander, is understand - clearly - that this is humanity's final stand - here - at Earth. We go, we risk everything; every last man, woman and child. If we stand our ground, we might just have a chance."
+Thel 'Vadam: "No. If your construct is wrong, then the Flood has already won."
+Master Chief: "I'll find Cortana's solution. And I'll bring it back."
+Lord Hood: "Earth...is all we have left. You trust Cortana that much?"
+Master Chief: "Sir. Yes, sir."
+Lord Hood: "This is either the best decision you've ever made or the worst. Hell if it is, Chief? I doubt I'll live long enough to find out which."
+Lord Hood turns, looks wordlessly at Miranda Keyes, and then exits the bridge.
+
+Inside the Shadow of Intent's hangar bay, both the Elites and the UNSC are getting ready for battle. While a Separatist Phantom drifts into the hangar on the far side, two M12 Warthog LRVs race to the Forward Unto Dawn's loading bay, drawing near a group of Marines clustered around some UNSC crates. At uneasy rest opposing the Marines are a Major Domo sitting on a Ghost, along with a few SpecOps Sangheili. The Major's Particle Beam Rifle is resting next to the Ghost. Sergeant Johnson, with his arm full of "stolen" Covenant Carbines brushes past the wordless Elites, stopping only to scoop up the Major's rifle. The Sangheili, resentful at this non-permitted collection, rise challengingly around Johnson. Johnson ignores them and continues walking.
+
+Nearby, a pair of ODSTs are joking with each other when Thel 'Vadam passes by, with an acquired M41 Rocket Launcher over his shoulder and a Flamethrower in his left hand. The ODSTs and a pair of nearby Marines watch 'Vadam in awe, when 343 Guilty Spark drifts through the Marines in tow behind 'Vadam, leaving a Marine speechless. Johnson rejoins the Marines, and begins to hand out Carbines.
+
+The scene cuts to the fore of the hangar, where a Pelican Dropship lays before the hangar's energy field. The Chief and Miranda Keyes stand at attention before Lord Hood, who looks at them grimly from the rear of the Pelican as the troop bay door shuts and the Pelican takes off. Keyes glances at the Chief wordlessly, and the two leave, going off to their own business.
+
+Hood's Pelican arcs away from the gathered Sangheilian Fleet as the Shadow of Intent powers its engines and thrusts into the Portal, followed by eight Cruisers, a Carrier, and the UNSC Frigates Forward Unto Dawn and Aegis Fate.
+
+Fades to black.
+
+Level ends.

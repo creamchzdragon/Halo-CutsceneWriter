@@ -1,0 +1,97 @@
+Opening cinematic-Camera flies through a canyon filled with pools of reactor coolant, under the Truth and Reconciliation. The CCS-class Battlecruiser is resting on the top of the canyon, heavily damaged. Flood and Covenant forces are fighting all throughout the region.
+
+Cortana: "The Covenant network is in absolute chaos! From what I've been able to piece together, their leadership ordered all ships to abandon Halo when they found the Flood, but they were too late. The Flood overwhelmed this cruiser and disabled it. The Covenant are terrified the Flood will repair the ship and use it to escape from Halo. They've sent in a strike team to neutralize the Flood and repair the ship for immediate departure. I've got a good lock on Captain Keyes' CNI transponder signal! He's alive! And the implants are intact! There's some interference from the cruiser's damaged reactor. I'll bring us in as close as I can."
+Master Chief teleports into the end of a corridor in the cruiser. The camera view flips over, upside down, and the Master Chief falls on his head; he was teleported upside down.
+
+Cortana: "Ohh... I see, the coordinate data needs to be— "
+The Master Chief whacks the side of his head with his fist as he stands up.
+
+Cortana: "Right. Sorry."
+
+After walking down the hallway several meters
+
+Captain Keyes (COM): (weakly) "Chief... Don't be a fool...Leave me..."
+Cortana: "Captain? Captain?! I've lost him..."
+After walking around a bit, trying to find a way into the bridge:
+
+Cortana: "The damage caused by the crash and the Flood have sealed-off all nearby access ways to the control room. We should find another way in."
+After getting to a hangar, with a large hole in the floor just past the door, blocking your progress:
+
+Cortana: "Analyzing damage... This hole was caused by some kind of explosive. Very powerful if it tore through a ship's hull. All I detect down there are pools of coolant. We should continue our search somewhere else."
+After the staying in that corridor for a few moments, Flood begin dropping out of a hole in the ceiling behind you, cutting you off
+
+Cortana: "Warning! Threat level increasing!"
+After fighting off the increasing horde of Flood for a few more moments
+
+Cortana: "That jump into the coolant is looking better all the time, Chief!"
+More Flood arrive
+
+Cortana: "Trust me! It's deep enough to cushion our fall!"
+After continuing to hold your ground
+
+Cortana: "Chief, we need to jump now!"
+Flood continue to pour out the hole, and from down the hallway, never ending, forcing you into the hole
+
+After falling into the hole
+
+Master Chief falls into a large pool of coolant, which breaks his fall. Camera view begins under-coolant. Covenant and Flood are heavily engaged around the pool
+
+Cortana: "Let's get out of here, and find another way back aboard the ship."
+While walking down a narrow canyon
+
+Cortana: "We should head this way, towards the ship's gravity lift."
+Continuing farther down the canyons
+
+Cortana: "The crash did more damage than I suspected. Analyzing. Coolant leakage rate is significant. The ship's reactor should already have gone critical."
+Farther along in the canyons
+
+Cortana: "Power source detected. There's the gravity lift. It's still operational! That's our way back in!"
+{Cutscene}
+
+Once you take the gravity lift back inside the ship:
+
+Cortana: "We should be able to get into the ship's control room from here."
+Upon finding an unlocked door:
+
+Cortana: "The Covenant Battlenet is a mess. I can't access the ship's schematics. My records indicate that a shuttle bay should be... here."
+Cortana marks the spot with a nav point
+
+Upon reaching the nav point, it turns out to be a cargo bay
+
+Cortana: "Look, in the corners. The Flood are gathering bodies here."
+Continuing on, entering a shuttle bay
+
+Cortana: "Looks like another shuttle bay. We should be able to reach the control room from the 3rd level."
+Captain Keyes (COM): "I... gave you an order, soldier! Now pull out!"
+Cortana: "He's delirious! In pain! We have to find him!"
+Upon reaching the door on the 3rd level
+
+Cortana: "The control room should be... this way."
+She assigns another nav point.
+
+Nearing the Control Room:
+
+The CaptainEdit
+Captain Keyes (COM): (screams of agony) "Waahhhh... Ahhhh... Ohhhh gaahhhhh..."
+Cortana: "The Captain! His vitals are fading! Please, Chief, hurry!"
+Once in the bridge of the cruiser:
+
+A Proto-Gravemind sits on the command center in the bridge. The Captain's face sticks out of it, with his body dangling below, deformed.
+
+Cortana: (horrified) "No human life-signs detected. The Captain! He's one of... them. We can't let the Flood get off this ring! You know what he'd expect... (quietly) What he'd want us to do."
+Master Chief punches into Keyes' skull, sticking his hand inside. He pulls out the neural implants, shakes the Flood biomass off of them, and inserts them into his helmet.
+
+Cortana: (quietly) "It's done, I have the code. We should go."
+
+Cortana: "We need to get back to the Pillar of Autumn. Let's go back to the shuttle bay and find a ride."
+Side doors open and a horde of Flood charge into the bridge. At the same time, the doors you entered through open up to reveal a Covenant Spec Ops team. A huge fight ensues.
+
+Once you reach the shuttle bay, a Covenant dropship enters the hangar, dropping off more troops, escorted by two Banshees
+
+Cortana: "Perfect. Grab one of the escort Banshees, and we'll use it to return to the Pillar of Autumn."
+
+Once the Chief gets in one of the escort Banshees, he flies out of the hangar, being fired on by the Covenant. The Banshee quickly flies out of range.
+
+Fades to black.
+
+Level ends.

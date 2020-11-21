@@ -1,0 +1,85 @@
+The Master Chief drops down a grav-lift just in time to see the Phantoms containing the Brute Chieftain Tartarus and the Prophet of Truth fly away. He walks over to High Prophet of Mercy, who has yet to be killed by the Infection Form.
+
+Master Chief: "Your pal. Where's he going?"
+Prophet of Mercy: "Earth... to finish what we started. And this time, none of you... will be left behind..."
+Master Chief picks up the Flood form, squeezes it, it pops, killing Mercy in the process. Cortana's hologram appears on Mercy's throne.
+
+Cortana: "That structure, at the center of the city... it's a Forerunner Ship! And Truth is heading straight for it! If he leads the Covenant fleet to Earth, they won't stand a chance. You have to stop him!"
+Master Chief: "That Brute has the Index. And Miranda and Johnson. He can activate the ring."
+The view shows In Amber Clad crashed into a nearby tower.
+
+Cortana: "If he does, I'll detonate In Amber Clad's reactor just like we did the Autumn's. The blast will destroy this city and the ring. Not a very original plan, but we know it'll work."
+The Master Chief reaches for her.
+
+Cortana: "No. I don't want to chance a remote detonation. I'll need to stay here."
+The Chief and Cortana then watch as a Pelican crashes on the platform, and soon the Flood Combat Forms inside the dropship run out.
+
+{Gameplay}
+
+Contents[show]
+Cross-PurposesEdit
+Cortana: "Flood controlled dropships are touching down all over the city! That creature beneath the Library... that 'Gravemind'... used us. We were just a diversion. In Amber Clad was always its intended vector. There's a conduit connecting this tower to the ship. Head back inside. I'll lead you to it."
+If the Chief wastes time fighting:
+
+Cortana: "We don't have time for this, Chief. Truth's Phantom is nearing the Forerunner Ship."
+The Chief soon reaches a Gravity lift leading upstairs.
+
+Cortana: "I'll disable this lift once you reach the top. That'll slow them down... I hope."
+After the Chief reaches to the top:
+
+Prophet of Truth (Loudspeaker): "Shall we let the Flood consume our holy city? Turn High Charity into another of their wretched hives? No enemy has ever withstood our might. The Flood too shall fail."
+As the Chief watches a skirmish between several flood combat forms with a swarm of drones and one brute:
+
+Cortana: "I'll do what I can to slow the launch sequence, but there's something inside the ship...a presence that's fighting back. For a Covenant construct, it's unusually formidable."
+If the Chief remains in the chamber for too long:
+
+Cortana: "No time to admire the ceiling, Chief. Truth's Phantom has reached the Forerunner ship."
+Once the Chief leaves the room:
+
+Please, Make Yourself at HomeEdit
+Prophet of Truth (Loudspeaker): "The parasite did not defeat the Forerunners...and it shall not defeat us."
+Gravemind: "Arrogant creature! Your death will be instantaneous, while we shall suffer the progress of infinitude!"
+Once the Chief reaches a part of a tower.
+
+Cortana: "The security systems in this part of the tower are particularly robust."
+Prophet of Truth (Loudspeaker): "Whosoever is gripped by fear, take heed. I am the Prophet of Truth... And I am not afraid. Noble Mercy is here at my side. His wise counsel ever in my ears."
+Gravemind: "We exist together, now... Two corpses, in one grave."
+Once the Chief reaches a lift:
+
+Cortana: "Apparently, these are the Prophet Hierarch's private quarters. Their inner sanctum."
+
+SanctifiedEdit
+Prophet of Truth (Loudspeaker): "This crisis will not be the end of us. It is but one last hurdle before the journey and salvation!"
+The Chief enters the Inner Sanctum amidst a fight between several Covenant defenses and Flood forces.
+
+Cortana: "Brute and Elite ships are engaging one another all around High Charity. I'm running out of options, Chief. I can't stall the launch sequence much longer. The next lift will take you up to the conduit. Hurry!"
+Once the Chief reaches the top via another Gravity Lift:
+
+Once More, with FeelingEdit
+Cortana: "I knew the Covenant were good at re-purposing Forerunner technology, but this is amazing... They've been using the Forerunner ship's engines as an energy source for the city. The ship isn't so much launching as it is disengaging; uncoupling itself from High Charity's power grid - Stopping Truth, that's all that matters!"
+Prophet of Truth (Loudspeaker): "Now is the time of our unworlding, in a moment we shall all become...as gods."
+Cortana: "You know the plan - You've got to catch Truth, I've got to handle the Index. Go!"
+Prophet of Truth (Loudspeaker): "If you will falter, know this...one final effort is all that remains."
+Cortana: "Forget about the Flood, you've got to get aboard!"
+If the Chief continues to stall and not board the ship.
+
+Cortana: "I can't go with you!"
+Cortana: "I have to stay here, Chief!"
+Cortana: "Chief, leave me!"
+Cortana: "We're out of time, Chief! Into the conduit!"
+Cortana: "Jump in, now!"
+{Cutscene}
+
+The Chief enters the conduit on a large, green beam of light. The Forerunner Dreadnought starts to launch, and he enters through a large portal, landing with scrapes flickering off his armor.
+
+Cortana: "Chief, when you get to Earth...good luck."
+
+Master Chief: "After I'm through with Truth..."
+
+Cortana: "Don't make a girl a promise...if you know you can't keep it."
+
+Cortana watches the ship rise, and exit through the top of High Charity, where Brute-controlled and Elite-controlled ships are continuing to destroy one another. Soon the Dreadnought enters slipspace, and vanishes.
+
+Fades to black.
+
+Level ends.

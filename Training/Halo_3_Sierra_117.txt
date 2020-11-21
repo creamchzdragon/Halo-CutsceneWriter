@@ -1,0 +1,175 @@
+Brutes on the prowl.
+
+{Gameplay}
+
+Sergeant Johnson: "First Squad, you're my scouts. Move out! Quiet as you can."
+(2-Player Co-op Change) Sergeant Johnson: "First Squad, you're my scouts. Arbiter, watch the Chief's back. Move out! Quiet as you can."
+(3-4 Players Co-op Change): "First Squad, you're my scouts. As for you, just try not to wreck my planet. Move out! Quiet as you can."
+If the Chief waits and hangs around.
+
+Sergeant Johnson: "Let's get moving, Chief. Come on, I'll lead you out."
+Sergeant Johnson: "Bravo Team, this is Johnson. We got him. Fall back to the extraction point. Over."
+G. Sgt. Reynolds (COM): "Roger that. Reynolds out."
+A Brute howls off in the distance.
+
+Marine: "That sounded close."
+Marine: "Yeah, too close."
+Sergeant Reynolds (COM): "Johnson, you be advised. Hostiles are -{static}- on the move -{static}-. I've got eyes on a -{static}- Brute Pack -{static}-. Over."
+Sergeant Johnson: "Say again, Gunny? You're breaking up."
+There is the ominous whisper of gravitational drives as a Phantom flies overhead above the trees.
+
+Marine: (whispers) "Sergeant Major, Phantom inbound."
+Sergeant Johnson: "We stick together, we're gonna get spotted. We'll split up, and meet back at the LZ. Chief, go with the Arbiter, head toward the river. Second Squad, you're with me."
+(Co-op Change) Sergeant Johnson: "Chief, you and the Arbiter head toward the river."
+Johnson and Second Squad climb up the cliff by the water fall.
+
+If the Chief attempts to follow Johnson and stares at him after the climb
+
+Sergeant Johnson: "Keep an eye out for Bravo Team, Chief! If the Brutes do have our scent, those boys are in a lot of trouble!"
+Johnson and Second Squad cross the river above the waterfall and run out of sight. The Master Chief and Thel 'Vadam lead First Squad. Thel 'Vadam leads the Chief up on some rocks around a pile of fallen logs, while First Squad waits to go straight over, pointing out a Brute Captain Major.
+
+Brute Captain: "Spread out, you whelps! Find them!"
+Marine: (whispers) "Up ahead! Single Brute, plus backup!"
+Marine: "He's got power armor, Chief!"
+First Squad engages the Brute and his Grunt subordinates along with the Master Chief and Thel 'Vadam. They regroup.
+
+Thel 'Vadam (Single Player Only): (to the Brute corpse) "The Prophets are liars, but you are fools to do their bidding!"
+A couple of Phantoms draw near, each deploying a squad of Grunts and Brutes, blocking the advance of the Master Chief and his allies. Eventually, they are cleared, and the Marines form up at a winking flare at an underground cave.
+
+Marine: "Those Brutes are tough."
+Female Marine: "Grunts ain't no slouches either."
+Thel 'Vadam: "The Grunts' new-found courage is but fear. When we are victorious, all who serve the Prophets will be punished."
+(Co-op Change) Marine : "Maybe the Brutes put something in their tanks."
+After advancing through the caves, a massive forested expanse is found: the "Grunt Camp"[1]. Sleeping Grunts litter the first half while a few Brutes, Jackals, and other Grunts patrol the far hills.
+
+Marine: "Sleepers! Take 'em out, nice and quiet! (On Heroic or Legendary) Jackals, on the ridge! Stay low; looks like they've got Carbines."
+When you are spotted by Covenant:
+
+Marine: (on Heroic or Legendary) "I hate it when I'm right!"
+After the team clears the Covenant camp:
+
+Sergeant Johnson (COM): "Pelicans are en route, Chief, but I can't reach Bravo. If you find 'em, get 'em to the extraction point."
+Beyond the encampment, a Brute Captain is torturing a Sergeant Reynolds on a log. It is possible and optional to save the Marine by killing or distracting the Brute before he kills him.
+
+Brute Captain: "Tell me its location!"
+Sergeant Reynolds: "Kiss... my... ass."
+If the Sergeant is not saved, the Brute Captain breaks his spine and throws him down, noticing the Master Chief and 'Vadam. If he is saved, Reynolds jumps down from the log, grabbing a nearby Assault Rifle and joining the Master Chief and 'Vadam in their fight.
+
+Sergeant Reynolds: "Brute Chieftain. Phantom. Pinned us down... killed my men."
+First Squad continues on until they reach another cave.
+
+Thel 'Vadam: "The river, hurry!"
+The minor UNSC force continues forward, towards further caves and pushing towards the river, where Johnson has established an extraction point for Second Squad. They head down a steep slope for some underground caves that lead to the river.
+
+Cortana (Cortana Moment): "Could you sacrifice me to complete your mission? Could you watch me die?" (This is a reference to The Fall of Reach when Dr. Halsey asks Cortana talking about Master Chief, "Could you sacrifice him if you had to? Could you watch him die?)
+Marine: (looks back) "Sir, you okay?"
+Marine: (concerned) "Your vitals just pinged KIA."
+Marine: (looks back, on Legendary with IWHBYD) "Uh, you're a chick, right?"
+Charlie FoxtrotEdit
+Hostile air inbound.
+
+Second Squad leaves the caves; the river is around the next bend. Three Marine corpses are scattered on the ground, with BR55HB SR Battle Rifle ammunition and Fragmentation Grenades.
+
+Sergeant Johnson (COM): "Chief, Pelicans are at the river. We've got company, so hustle up!"
+Thel 'Vadam: "Grenades! Blow them to bits!"
+Beyond the steep slope is a river substation[2] next to a raging river. A pair of Pelican dropships hover above the river as gunners in their troop bays fire upon a cluster of Covenant troops that have tunneled themselves in the substation. The Pelicans are the extraction force to evacuate the Master Chief and his team.
+
+Female Pilot (COM): "Hold on. Got a contact."
+As the Master Chief and his allies take out the Covenant forces that are closer to the Pelicans, two Banshees streak in along the river.
+
+Female Pilot (COM): "Banshees! Fast and low!"
+Echo 51 Pilot (COM): "Break off — now!"
+The Banshees launch a high-speed strafing run against the Pelicans, and explosions cascade over them as the Pelicans rock. Echo 51's wingman collides with Echo 51.
+
+Echo 51 Pilot (COM): "Watch yourself!"
+Female Pilot (COM): "I'm hit! ARRGH!"
+Echo 51 Pilot (COM): "Lost a thruster. Hang on!"
+Sergeant Johnson (COM): "Get a hold of her!"
+Echo 51 (COM): "Negative! We're going down!"
+Both Pelicans streak away around the river bend. Echo 51, in a futile attempt to gain altitude, skims the top of a cliff and crashes out of sight. The Wingman attempts to do the same, but, having suffered more damage than Echo 51, immediately plunges into the river beyond the dam, most likely drowning all of the Pelican's occupants. While the Master Chief, Thel 'Vadam, and the Marines fight through to secure the substation despite two waves of Brute-led Covenant Loyalist reinforcements, Johnson and his team exit the wreck of Echo 51 but are beset by a Brute ambush[3].
+
+Thel 'Vadam (Single Player): "The Banshees will return. Hurry, back into the jungle!"
+Marine (Co-Op): "Banshee's are gonna circle back, let's head into the jungle sir."
+Sergeant Johnson (COM): "Chief, can you hear me?...(static) My bird's down. Half a klick -(static)- downriver from your position."
+On Easy or Normal:
+
+Marine: "Jackals. On the ridge. Stay low. Looks like they got Carbines."
+After the Chief and 'Vadam pass through the short Jackal-laden "Sniper Alley"[4], they see a bridge. Three Marines are crossing it, under heavy fire, retreating from the wreckage of Echo 51. They hear Johnson's voice over the COM unit as a Brute leads a charge against the fleeing Marines.
+
+Sergeant Johnson (COM): "Come on, you dumb apes! You want breakfast? You gotta catch it!"
+Johnson and some of the Marines frag the Brute and his fellow soldiers on the bridge, and run off into a cave.
+
+The Chief and 'Vadam encounter many hostiles, including a Brute Chieftain on the side of a Phantom, who flies off when either his gunner or many of his troops are eliminated. The Chief and 'Vadam secure the area, and discover Echo 51's crash site by the riverside. The Pelican had flipped over after hitting the cliff, scattering ammunition and weapon racks, including a SRS99D-S2 AM Sniper Rifle and other munitions, around the crash site. The crashed dropship, lying on an outcropping along the valley wall, is surrounded by Assault Rifles, Battle Rifles, and Frag Grenades, and the Pelican's radio is still operational.
+
+If the Chief or 'Vadam waits by Echo 51's radio:
+
+Crow's Nest Controller (Echo 51's Radio): "Echo Five-One, this is Crow's Nest. Echo Five-One, please respond! (pause) Hocus, Five-One is down. Divert for emergency evac, over."
+If any of Echo 51's Marines are still alive
+
+Thel 'Vadam: "Again, the Brutes show their weakness."
+If any Marines accompany the Chief and 'Vadam.
+
+Marine: "Sergeant Major went this way, Chief. Through the cave."
+The Master Chief leads 'Vadam (and any accompanying Marines) through the caves towards where Johnson is being held.
+
+Quid Pro QuoEdit
+Rescue at the dam.
+
+{Cutscene}
+
+At the end the Master Chief and 'Vadam reach a low cliff, viewing a Loyalist-held dam. 'Vadam spots the Chieftain beating Johnson soundly on the far left in front of a small building.
+
+Thel 'Vadam: "See how they bait their trap?"
+The Chieftain roars at Johnson. Johnson punches the Chieftain in the stomach with no effect.
+
+Thel 'Vadam: "I will help you spring it."
+The Chieftain growls loudly and kicks Johnson back inside the "prison".
+
+{Gameplay}
+The Chief and 'Vadam battle their way across the dam, taking down the Chieftain. They finally reach Johnson, who's been tied up and imprisoned behind a plasma shield.
+
+Sergeant Johnson: "This isn't as fun as it looks. Cut the power!"
+If no Marines came with the Chief, the other three Marines in the prison will still be alive and awaiting rescue.
+
+Marine Escapee: "Brutes were gonna gut us, sir."
+The Master Chief releases the plasma shield that was imprisoning Johnson and his fellow Marines.
+
+Sergeant Johnson: "We're even, as long as we're only counting today. Kilo 023, what's your ETA?"
+Hocus (COM): "Imminent, Sergeant. Find some cover. Gotta clear a path."
+Sergeant Johnson and the Marines grab Covenant weaponry from nearby crates.
+
+Sergeant Johnson: "Roger that, Hocus. Friendly gunship, coming in hot!"
+Two Phantoms arrive, carrying reinforcements. The Chief, 'Vadam, Johnson and any accompanying Marines hold position in the building for shelter until Kilo 23 arrives.
+
+Sergeant Johnson: "Hocus! Phantom!"
+Hocus (COM): "I see 'em! Standby. Going loud. Everyone down!"
+The Pelican Drop Ship Kilo 23 rounds the river bend, directly in front of the two hovering Phantoms. Hocus, Kilo 23's pilot, lets loose a missile barrage, etching the air with vapor contrails as the first Phantom explodes in a brilliant coruscation of light.
+
+Hocus (COM): "Scratch one Phantom!"
+If any ground forces remain, Kilo 23 will take them out. Kilo 23 fires two missile barrages at the second Phantom, and sends it plunging into the river.
+
+Hocus (COM): "Scratch two!"
+Hocus lowers the Pelican to the dam for pickup. Johnson, the Master Chief, 'Vadam and any remaining Marines board Kilo 23.
+
+If the Chief doesn't board the Pelican:
+
+Sergeant Johnson: "C'mon Chief, Commander Keyes is waiting!"
+If the Chief still stalls:
+
+Sergeant Johnson: "Come on Chief! The world won't save itself!"
+If the Chief still doesn't board:
+
+Sergeant Johnson: "Do you or do you not want to finish the fight?"
+{Cutscene}
+
+Kilo 23 takes off. Johnson gives the Chief a pat on the shoulder appreciatively and goes into the cockpit. The back hatch closes and Kilo 23 flies over the first dam, en route to Crow's Nest. The view cuts to an area in the jungle. Sentries on watch in the jungle spot Kilo 23 on approach.
+
+Marine Sentry: "IFF confirmed. Contact is Pelican Dropship Kilo 23. Over."
+Crow's Nest Controller (COM): "Roger that. What's the word, Kilo 23?"
+Hocus (COM): "Sierra 117 on board. Request priority clearance. Over."
+The two Marine Sentries bump their fists and smile.
+
+Crow's Nest Controller (COM): "Deck's yours. Come on down."
+Kilo 23 proceeds to descend into a hole in the ground.
+
+Level ends
